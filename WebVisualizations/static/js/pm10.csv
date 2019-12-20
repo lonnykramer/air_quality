@@ -1,0 +1,294 @@
+location,parameter,unit,country,city,date.utc,coordinates_latitude,coordinates_longitude,avgvalue
+7E Deming Airport,pm10,Âµg/mÂ³,US,Deming,00:00.0,32.2558,-107.7228,21.45714286
+ARNOLD,pm10,Âµg/mÂ³,US,St. Louis,00:00.0,38.448581,-90.398436,14.22222222
+ARNOLD WEST,pm10,Âµg/mÂ³,US,St. Louis,00:00.0,38.448581,-90.398436,19.2962963
+Ajo,pm10,Âµg/mÂ³,US,PIMA,00:00.0,32.382034,-112.857452,32.57142857
+Alamo Lake,pm10,Âµg/mÂ³,US,LA PAZ,00:00.0,34.243889,-113.558611,15.76315789
+Anaheim,pm10,Âµg/mÂ³,US,Los Angeles-Long Beach-Santa Ana,00:00.0,33.830586,-117.938509,30.84210526
+Anthony,pm10,Âµg/mÂ³,US,Las Cruces,00:00.0,32.0036,-106.5992,70.67741935
+Apache Junction,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.42,-111.5042,21.73684211
+Atascadero2,pm10,Âµg/mÂ³,US,San Luis Obispo-Paso Robles,00:00.0,35.494556,-120.666203,20.25641026
+Athens,pm10,Âµg/mÂ³,US,Athens-Clarke County,00:00.0,33.925,-83.3575,20.18181818
+Augusta,pm10,Âµg/mÂ³,US,Augusta-Richmond County,00:00.0,33.4333,-82.0219,6.972972973
+Badlands,pm10,Âµg/mÂ³,US,JACKSON,00:00.0,43.746944,-101.941109,3.75
+Bethel,pm10,Âµg/mÂ³,US,BETHEL,00:00.0,60.79583,-161.767,15.55882353
+Bill Stanley,pm10,Âµg/mÂ³,US,Bishop,00:00.0,36.3619,-118.0108,6
+Birney,pm10,Âµg/mÂ³,US,ROSEBUD,00:00.0,45.366151,-106.48982,4.03030303
+Black Hawk,pm10,Âµg/mÂ³,US,Rapid City,00:00.0,44.155636,-103.315765,19.11111111
+Blaine,pm10,Âµg/mÂ³,US,Minneapolis-St. Paul-Bloomington,00:00.0,45.1425,-93.2139,12.60526316
+Boise Fire Station,pm10,Âµg/mÂ³,US,Boise City-Nampa,00:00.0,43.618889,-116.213611,57.68421053
+Boulder,pm10,Âµg/mÂ³,US,SUBLETTE,00:00.0,42.7186,-109.7531,4.972972973
+Boulder City,pm10,Âµg/mÂ³,US,Las Vegas-Paradise,00:00.0,35.978149,-114.846313,24.75
+Branch Street,pm10,Âµg/mÂ³,US,ST. LOUIS (CITY),00:00.0,38.65643,-90.18977,36.08823529
+Brawley - 220 Main S,pm10,Âµg/mÂ³,US,El Centro,00:00.0,32.978298,-115.5383,61.73684211
+Broadus,pm10,Âµg/mÂ³,US,POWDER RIVER,00:00.0,45.440295,-105.37028,7.108108108
+Bronx - IS52,pm10,Âµg/mÂ³,US,New York-Northern New Jersey-Long Island,00:00.0,40.816101,-73.902199,22.56756757
+Buckeye,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.37,-112.6207,74.97368421
+Buffalo,pm10,Âµg/mÂ³,US,Davenport-Moline-Rock Island,00:00.0,41.467201,-90.688301,59.71052632
+Bullhead City,pm10,Âµg/mÂ³,US,Lake Havasu City-Kingman,00:00.0,35.166111,-114.566111,30.59459459
+Burbank-Maple Street,pm10,Âµg/mÂ³,US,Walla Walla,00:00.0,46.2001,-119.0084,18.47222222
+Burdens Creek,pm10,Âµg/mÂ³,US,Durham,00:00.0,35.889402,-78.8747,19.08108108
+Butte (Harrison Cour,pm10,Âµg/mÂ³,US,MATANUSKA-SUSITNA,00:00.0,61.534163,-149.031655,29.83870968
+Butte Greely School,pm10,Âµg/mÂ³,US,SILVER BOW,00:00.0,46.002399,-112.500893,28.05882353
+CARTHAGE,pm10,Âµg/mÂ³,US,Joplin,00:00.0,37.19822,-94.31702,21.77142857
+COMBS,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.2192,-111.5608,63.39473684
+Calexico - Ethel Str,pm10,Âµg/mÂ³,US,El Centro,00:00.0,32.67618,-115.48307,142
+Cannons Lane,pm10,Âµg/mÂ³,US,Louisville,00:00.0,38.2286,-85.6544,30.10526316
+Carrithers Middle Sc,pm10,Âµg/mÂ³,US,JEFFERSON,00:00.0,38.1825,-85.5744,32.07894737
+Casa Grande Downtown,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,32.877583,-111.852219,68.07894737
+CasaBlanca,pm10,Âµg/mÂ³,US,PINAL,00:00.0,33.11753,-111.88491,85.85294118
+CataÃ±o 40,pm10,Âµg/mÂ³,US,CATANO,00:00.0,18.428388,-66.141657,20.10526316
+Cayce City Hall,pm10,Âµg/mÂ³,US,Columbia,00:00.0,33.969145,-81.06629,6.8
+Cedar Bluff,pm10,Âµg/mÂ³,US,TREGO,00:00.0,38.7703,-99.7636,8.631578947
+Central Phoenix,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4579,-112.046,54.65789474
+Chaparral,pm10,Âµg/mÂ³,US,Las Cruces,00:00.0,32.0411,-106.4092,26.57142857
+Cheney-Turnbull (SO),pm10,Âµg/mÂ³,US,Spokane,00:00.0,47.416401,-117.5298,4.567567568
+Cheyenne NCore,pm10,Âµg/mÂ³,US,Cheyenne,00:00.0,41.18222,-104.778336,11.78947368
+Chico -  East,pm10,Âµg/mÂ³,US,BUTTE,00:00.0,39.76168,-121.84047,25.16216216
+Church,pm10,Âµg/mÂ³,US,NYE,00:00.0,36.159639,-115.996263,24.26315789
+Columbia Falls,pm10,Âµg/mÂ³,US,FLATHEAD,00:00.0,48.363694,-114.189272,17.72972973
+Colusa - Sunrise Blv,pm10,Âµg/mÂ³,US,COLUSA,00:00.0,39.18919,-121.99887,27.91891892
+Colville-E 1st St,pm10,Âµg/mÂ³,US,STEVENS,00:00.0,48.54469,-117.903222,16.48571429
+Converse County Long,pm10,Âµg/mÂ³,US,CONVERSE,00:00.0,43.1,-105.5,8.769230769
+Cornwall,pm10,Âµg/mÂ³,US,Torrington,00:00.0,41.833099,-73.303299,26.60526316
+Coso Junction,pm10,Âµg/mÂ³,US,Bishop,00:00.0,36.0494,-117.9439,12.81578947
+Credit Union,pm10,Âµg/mÂ³,US,Rapid City,00:00.0,44.087397,-103.273777,28.44444444
+DAVIS ISLAND,pm10,Âµg/mÂ³,US,Tampa-St. Petersburg-Clearwater,00:00.0,27.9283,-82.4547,6.259259259
+DEARBORN,pm10,Âµg/mÂ³,US,Detroit-Warren-Livonia,00:00.0,42.3075,-83.15,13.25
+Danbury,pm10,Âµg/mÂ³,US,Bridgeport-Stamford-Norwalk,00:00.0,41.4014,-73.4447,23.23684211
+Daniel South,pm10,Âµg/mÂ³,US,SUBLETTE,00:00.0,42.7914,-110.0547,6.692307692
+Del Norte,pm10,Âµg/mÂ³,US,Albuquerque,00:00.0,35.1353,-106.584702,35.62162162
+Denver - CAMP - 2105,pm10,Âµg/mÂ³,US,Denver-Aurora,00:00.0,39.751099,-104.987198,45.33333333
+Desert View,pm10,Âµg/mÂ³,US,Las Cruces,00:00.0,31.7961,-106.5839,66.2
+Devils Lake,pm10,Âµg/mÂ³,US,Baraboo,00:00.0,43.4356,-89.6803,22.08108108
+Dirty Socks,pm10,Âµg/mÂ³,US,Bishop,00:00.0,36.3261,-117.9551,11.48484848
+Douglas Red Cross,pm10,Âµg/mÂ³,US,Sierra Vista-Douglas,00:00.0,31.3492,-109.539683,26.73684211
+Downtown Sacramento,pm10,Âµg/mÂ³,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.56844,-121.49311,24.05405405
+Durango Complex,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4265,-112.1181,76.81081081
+Durham Armory,pm10,Âµg/mÂ³,US,Durham,00:00.0,36.032955,-78.904037,12.48648649
+Dysart,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.6369,-112.3394,40.05263158
+East Hartford,pm10,Âµg/mÂ³,US,Hartford-West Hartford-East Hartford,00:00.0,41.7847,-72.6297,17.34210526
+El Centro - 9th Stre,pm10,Âµg/mÂ³,US,El Centro,00:00.0,32.7917,-115.5617,66.42105263
+El Paso UTEP C12,pm10,Âµg/mÂ³,US,El Paso,00:00.0,31.768056,-106.501111,31.62857143
+El Rio - Rio Mesa Sc,pm10,Âµg/mÂ³,US,Oxnard-Thousand Oaks-Ventura,00:00.0,34.2653,-119.1336,24.57894737
+Elko,pm10,Âµg/mÂ³,US,ELKO,00:00.0,40.838329,-115.766003,35.18421053
+Eloy,pm10,Âµg/mÂ³,US,PINAL,00:00.0,32.757639,-111.554861,61.05263158
+Firearms Training,pm10,Âµg/mÂ³,US,Louisville,00:00.0,38.23158,-85.82675,30.42105263
+Fl. Baptist Children,pm10,Âµg/mÂ³,US,Lakeland,00:00.0,28.0294,-81.9719,6.892857143
+Fort Bragg High Scho,pm10,Âµg/mÂ³,US,MENDOCINO,00:00.0,39.43734,-123.78766,5.342857143
+Fort Independence Me,pm10,Âµg/mÂ³,US,Bishop,00:00.0,36.8028,-118.1167,11.75675676
+Fresno - Garland,pm10,Âµg/mÂ³,US,FRESNO,00:00.0,36.78538,-119.77321,43.21052632
+Front Street,pm10,Âµg/mÂ³,US,Kansas City,00:00.0,39.13198,-94.53128,56.65714286
+Ft McD Yuma Frank-AZ,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.6292,-111.676903,41.83783784
+Ft. Collins - CSU Fa,pm10,Âµg/mÂ³,US,LARIMER,00:00.0,40.571259,-105.079765,12.04761905
+G.T.Craig,pm10,Âµg/mÂ³,US,Cleveland-Elyria-Mentor,00:00.0,41.492191,-81.678552,14.6
+GARDINIER,pm10,Âµg/mÂ³,US,HILLSBOROUGH,00:00.0,27.864273,-82.383359,10.10810811
+Gainesville,pm10,Âµg/mÂ³,US,Gainesville,00:00.0,34.3003,-83.8139,16.375
+Gary-IITRI,pm10,Âµg/mÂ³,US,Chicago-Naperville-Joliet,00:00.0,41.6067,-87.3047,19.51351351
+Geronimo,pm10,Âµg/mÂ³,US,Tucson,00:00.0,32.25,-110.9667,39.73684211
+Glen Oaks,pm10,Âµg/mÂ³,US,NYE,00:00.0,36.193469,-116.007584,25.97222222
+Glendale Community C,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.5694,-112.1915,34.28947368
+Glendora - Laurel,pm10,Âµg/mÂ³,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.1439,-117.8508,31.26315789
+Glenpool,pm10,Âµg/mÂ³,US,Tulsa,00:00.0,35.9525,-96.0033,23.41666667
+Goleta,pm10,Âµg/mÂ³,US,Santa Barbara-Santa Maria,00:00.0,34.445301,-119.827797,8.842105263
+Goodland,pm10,Âµg/mÂ³,US,SHERMAN,00:00.0,39.342801,-101.702996,24.94736842
+Green Valley,pm10,Âµg/mÂ³,US,Tucson,00:00.0,31.8794,-110.9964,18.5
+GreenValley,pm10,Âµg/mÂ³,US,Las Vegas-Paradise,00:00.0,36.048705,-115.052942,38.17857143
+Greenville-ESC,pm10,Âµg/mÂ³,US,Greenville,00:00.0,34.843899,-82.414597,9.7
+Groton Fort Griswold,pm10,Âµg/mÂ³,US,Norwich-New London,00:00.0,41.3536,-72.0789,13.31578947
+Gwinnett Tech,pm10,Âµg/mÂ³,US,Atlanta-Sandy Springs-Marietta,00:00.0,33.9636,-84.0664,14.66666667
+HATTIEAVEN,pm10,Âµg/mÂ³,US,Winston-Salem,00:00.0,36.1106,-80.2267,15.72972973
+Hartford-Huntley,pm10,Âµg/mÂ³,US,Hartford-West Hartford-East Hartford,00:00.0,41.771444,-72.679923,19.26315789
+Hayden,pm10,Âµg/mÂ³,US,GILA,00:00.0,33.006268,-110.786484,18.10810811
+Healdton,pm10,Âµg/mÂ³,US,Ardmore,00:00.0,34.256901,-97.474197,18.16666667
+Hesperia - Olive Str,pm10,Âµg/mÂ³,US,Riverside-San Bernardino-Ontario,00:00.0,34.416506,-117.285602,37.02631579
+Hidden Valley,pm10,Âµg/mÂ³,US,PINAL,00:00.0,32.884761,-112.03705,101.4736842
+High School,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.507999,-111.837799,57.16216216
+Higley,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.309944,-111.720029,54.78947368
+Hillcrest HS,pm10,Âµg/mÂ³,US,Springfield,00:00.0,37.256069,-93.299692,16.6
+Holman Rd,pm10,Âµg/mÂ³,US,Las Cruces,00:00.0,32.4247,-106.6742,39
+Honolulu,pm10,Âµg/mÂ³,US,Honolulu,00:00.0,21.310301,-157.858093,7.324324324
+Horicon Wildlife Are,pm10,Âµg/mÂ³,US,DODGE,00:00.0,43.46611,-88.621109,19.02777778
+Indio - Jackson Stre,pm10,Âµg/mÂ³,US,Riverside-San Bernardino-Ontario,00:00.0,33.708566,-116.215394,46.08108108
+Indio-29 Palms,pm10,Âµg/mÂ³,US,N/A,00:00.0,33.71969,-116.1897,51.65789474
+Jacobs,pm10,Âµg/mÂ³,US,HUMBOLDT,00:00.0,40.776943,-124.177498,23.72
+Jean,pm10,Âµg/mÂ³,US,Las Vegas-Paradise,00:00.0,35.785665,-115.357087,34.28571429
+Jefferson,pm10,Âµg/mÂ³,US,Albuquerque,00:00.0,35.1441,-106.6044,53.10810811
+Jenkins Avenue,pm10,Âµg/mÂ³,US,Charleston-North Charleston,00:00.0,32.88229,-79.977539,4.866666667
+Jerome Mack,pm10,Âµg/mÂ³,US,Las Vegas-Paradise,00:00.0,36.141875,-115.078742,65.96428571
+Joe Neal,pm10,Âµg/mÂ³,US,Las Vegas-Paradise,00:00.0,36.270592,-115.238282,50.14285714
+Johnson County,pm10,Âµg/mÂ³,US,JOHNSON,00:00.0,43.87483,-106.50974,2.90625
+KNI-Topeka,pm10,Âµg/mÂ³,US,Topeka,00:00.0,39.0242,-95.7114,27.13157895
+Kalispell Flathead E,pm10,Âµg/mÂ³,US,FLATHEAD,00:00.0,48.202499,-114.305557,17.66666667
+Kapolei,pm10,Âµg/mÂ³,US,Honolulu,00:00.0,21.323601,-158.088593,11.23684211
+Keeler,pm10,Âµg/mÂ³,US,Bishop,00:00.0,36.4878,-117.871,13.07894737
+Kennewick-Metaline,pm10,Âµg/mÂ³,US,Kennewick-Richland-Pasco,00:00.0,46.2183,-119.2015,13.67567568
+Kooker Park,pm10,Âµg/mÂ³,US,DUVAL,00:00.0,30.356111,-81.635556,4.621621622
+LEHI,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.474499,-111.805099,23.78947368
+La Casa NCORE - 4545,pm10,Âµg/mÂ³,US,Denver-Aurora,00:00.0,39.7794,-105.00523,44.72222222
+Lake Elsinore - W. F,pm10,Âµg/mÂ³,US,Riverside-San Bernardino-Ontario,00:00.0,33.676535,-117.331027,37.83783784
+Lake Ilo,pm10,Âµg/mÂ³,US,DUNN,00:00.0,47.342589,-102.645997,2.945945946
+Lancaster-Division,pm10,Âµg/mÂ³,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.669589,-118.130689,38.18421053
+Laramie County Mobil,pm10,Âµg/mÂ³,US,Cheyenne,00:00.0,41.08536,-104.52277,9.58974359
+Las Flores Canyon,pm10,Âµg/mÂ³,US,Santa Barbara-Santa Maria,00:00.0,34.4897,-120.0458,11
+Lawton North,pm10,Âµg/mÂ³,US,Lawton,00:00.0,34.632999,-98.428802,18.16666667
+Lee Vining,pm10,Âµg/mÂ³,US,MONO,00:00.0,37.962069,-119.120278,7.026315789
+Lewistown,pm10,Âµg/mÂ³,US,FERGUS,00:00.0,47.048537,-109.455315,4.451612903
+Libby Courthouse,pm10,Âµg/mÂ³,US,LINCOLN,00:00.0,48.3841,-115.548,20.32432432
+Linda,pm10,Âµg/mÂ³,US,NYE,00:00.0,36.349378,-116.03197,12.22857143
+Lizard Tail,pm10,Âµg/mÂ³,US,Bishop,00:00.0,36.5432,-117.9418,12.38709677
+Lompoc H Street,pm10,Âµg/mÂ³,US,Santa Barbara-Santa Maria,00:00.0,34.637798,-120.456703,16.15625
+Lone Pine,pm10,Âµg/mÂ³,US,Bishop,00:00.0,36.609,-118.0578,15.24324324
+Los Angeles - N. Mai,pm10,Âµg/mÂ³,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.066429,-118.226755,39.02631579
+Lucerne Valley,pm10,Âµg/mÂ³,US,SAN BERNARDINO,00:00.0,34.4101,-116.906874,23.75
+MENDNHAL,pm10,Âµg/mÂ³,US,Greensboro-High Point,00:00.0,36.109006,-79.802314,16.28571429
+MILWAUKEE COLLEGE AV,pm10,Âµg/mÂ³,US,MILWAUKEE,00:00.0,42.93257,-87.93434,30.91428571
+MILWAUKEE SER DNR,pm10,Âµg/mÂ³,US,Milwaukee-Waukesha-West Allis,00:00.0,43.0611,-87.9125,23.61111111
+MOBILE - SANTA ANA,pm10,Âµg/mÂ³,US,SANDOVAL,00:00.0,35.338407,-106.524292,22.81578947
+MTSP,pm10,Âµg/mÂ³,US,MONROE,00:00.0,39.4751,-91.78899,13.42857143
+Macon Forestry,pm10,Âµg/mÂ³,US,Macon,00:00.0,32.8031,-83.5447,8.391304348
+Malta,pm10,Âµg/mÂ³,US,PHILLIPS,00:00.0,48.317507,-107.862471,4.575757576
+Mammoth Lakes,pm10,Âµg/mÂ³,US,MONO,00:00.0,37.645718,-118.966515,13.72413793
+Manse,pm10,Âµg/mÂ³,US,NYE,00:00.0,36.212787,-115.994802,22.0625
+Maricopa,pm10,Âµg/mÂ³,US,PINAL,00:00.0,33.06115,-112.05204,68.52631579
+McMillan NCORE,pm10,Âµg/mÂ³,US,WASHINGTON,00:00.0,38.921848,-77.013176,23.81578947
+Melbourne,pm10,Âµg/mÂ³,US,Palm Bay-Melbourne-Titusville,00:00.0,28.0542,-80.6283,10
+Mesa - Brooks Reserv,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4105,-111.8651,23.97368421
+Mesa 2 /Nipomo,pm10,Âµg/mÂ³,US,San Luis Obispo-Paso Robles,00:00.0,35.02079,-120.56389,39.64102564
+Miami Golf Course,pm10,Âµg/mÂ³,US,Payson,00:00.0,33.419017,-110.829667,27.10526316
+Mill Site,pm10,Âµg/mÂ³,US,Bishop,00:00.0,36.4581,-117.8519,11.28571429
+Millbrook NCore,pm10,Âµg/mÂ³,US,Raleigh-Cary,00:00.0,35.856111,-78.574167,14.32432432
+Miller State Park,pm10,Âµg/mÂ³,US,Manchester-Nashua,00:00.0,42.86183,-71.878626,8.333333333
+Minneapolis - Bottin,pm10,Âµg/mÂ³,US,HENNEPIN,00:00.0,45.013611,-93.272049,22.94736842
+Minneapolis-Lowry Av,pm10,Âµg/mÂ³,US,Minneapolis-St. Paul-Bloomington,00:00.0,45.012102,-93.276699,20.73684211
+Minneapolis-Pacific,pm10,Âµg/mÂ³,US,HENNEPIN,00:00.0,45.008297,-93.277041,23.07894737
+Mira Loma - Van Bure,pm10,Âµg/mÂ³,US,Riverside-San Bernardino-Ontario,00:00.0,33.996387,-117.4925,76.05405405
+Missoula Boyd Park,pm10,Âµg/mÂ³,US,MISSOULA,00:00.0,46.842297,-114.020549,11.62162162
+Modesto - 14th Stree,pm10,Âµg/mÂ³,US,Modesto,00:00.0,37.642165,-120.994212,29.67567568
+Mojave - 923 Poole S,pm10,Âµg/mÂ³,US,Bakersfield,00:00.0,35.05045,-118.14778,28.71052632
+Mono Shore,pm10,Âµg/mÂ³,US,MONO,00:00.0,38.0697,-118.9477,6.25
+Moore,pm10,Âµg/mÂ³,US,Oklahoma City,00:00.0,35.32,-97.4883,35.5
+Moxa Arch,pm10,Âµg/mÂ³,US,SWEETWATER,00:00.0,41.750599,-109.789703,6.363636364
+Murphy Ridge,pm10,Âµg/mÂ³,US,Evanston,00:00.0,41.3694,-111.0419,8.289473684
+NCORE,pm10,Âµg/mÂ³,US,Omaha-Council Bluffs,00:00.0,41.2474,-95.9731,38.36842105
+NCore - White Mounta,pm10,Âµg/mÂ³,US,Bishop,00:00.0,37.360701,-118.330835,24.26315789
+NEW,pm10,Âµg/mÂ³,US,PHILADELPHIA,00:00.0,39.991389,-75.080833,26.64864865
+NO. BHAM,pm10,Âµg/mÂ³,US,Birmingham-Hoover,00:00.0,33.5531,-86.815,20.55263158
+Nampa Fire Station,pm10,Âµg/mÂ³,US,Boise City-Nampa,00:00.0,43.58031,-116.562676,54.94736842
+Near Road,pm10,Âµg/mÂ³,US,Louisville,00:00.0,38.1935,-85.7121,35.60526316
+Near Road OKC,pm10,Âµg/mÂ³,US,Oklahoma City,00:00.0,35.502968,-97.577674,25.81818182
+New Haven - Criscuol,pm10,Âµg/mÂ³,US,New Haven-Milford,00:00.0,41.301288,-72.902685,20.21052632
+Niland - English Roa,pm10,Âµg/mÂ³,US,El Centro,00:00.0,33.2136,-115.5444,47.15789474
+Nipomo Mesa CDF,pm10,Âµg/mÂ³,US,SAN LUIS OBISPO,00:00.0,35.04676,-120.58777,43.17948718
+Nipomo RP,pm10,Âµg/mÂ³,US,San Luis Obispo-Paso Robles,00:00.0,35.0315,-120.50101,35.1025641
+Nogales Post Office,pm10,Âµg/mÂ³,US,Nogales,00:00.0,31.337204,-110.936722,100.6486486
+North Beach,pm10,Âµg/mÂ³,US,Bishop,00:00.0,36.542233,-117.990055,16.4
+North OKC,pm10,Âµg/mÂ³,US,Oklahoma City,00:00.0,35.612801,-97.472198,16
+North Phoenix,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.560299,-112.066299,33.15789474
+Oildale - 3311 Manor,pm10,Âµg/mÂ³,US,Bakersfield,00:00.0,35.438035,-119.016787,54.23684211
+Olancha,pm10,Âµg/mÂ³,US,INYO,00:00.0,36.280596,-118.011661,12.81081081
+Orange Grove,pm10,Âµg/mÂ³,US,PIMA,00:00.0,32.322573,-111.037709,35.73684211
+PECK,pm10,Âµg/mÂ³,US,Wichita,00:00.0,37.4769,-97.3664,39.18421053
+Palatka,pm10,Âµg/mÂ³,US,PUTNAM,00:00.0,29.686667,-81.656389,4.25
+Palm Springs - Fire,pm10,Âµg/mÂ³,US,Riverside-San Bernardino-Ontario,00:00.0,33.852605,-116.540965,24.2972973
+Palo Verde,pm10,Âµg/mÂ³,US,Las Vegas-Paradise,00:00.0,36.173415,-115.332728,34.32142857
+Paonia,pm10,Âµg/mÂ³,US,DELTA,00:00.0,38.8763,-107.6022,10.94594595
+Parkgate (Eagle Rive,pm10,Âµg/mÂ³,US,Anchorage,00:00.0,61.3267,-149.569707,13.64705882
+Paso Robles - Santa,pm10,Âµg/mÂ³,US,San Luis Obispo-Paso Robles,00:00.0,35.614668,-120.656912,15.86666667
+Paul Meyer,pm10,Âµg/mÂ³,US,Las Vegas-Paradise,00:00.0,36.106389,-115.253333,38.75
+Paul Spur Chemical L,pm10,Âµg/mÂ³,US,Sierra Vista-Douglas,00:00.0,31.3658,-109.7309,20.42105263
+Paw Park,pm10,Âµg/mÂ³,US,Sarasota-Bradenton-Venice,00:00.0,27.3503,-82.4797,10.17857143
+Payson Well Site,pm10,Âµg/mÂ³,US,Payson,00:00.0,34.22934,-111.3297,41.56756757
+Pearl City,pm10,Âµg/mÂ³,US,Honolulu,00:00.0,21.392834,-157.969131,9.405405405
+Phoenix JLG Supersit,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.503601,-112.095001,45.54054054
+Pinal Air Park,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,32.508308,-111.30806,37.92105263
+Pinal County Housing,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,32.891056,-111.570503,81.10526316
+Pinehurst,pm10,Âµg/mÂ³,US,SHOSHONE,00:00.0,47.536712,-116.236867,19.18918919
+Pocatello Garrett an,pm10,Âµg/mÂ³,US,Pocatello,00:00.0,42.876701,-112.460297,39.05263158
+Polson-MT,pm10,Âµg/mÂ³,US,LAKE,00:00.0,47.6925,-114.0122,5.972972973
+Ponca City,pm10,Âµg/mÂ³,US,Ponca City,00:00.0,36.697189,-97.081278,32.41666667
+Portage-Hwy 12,pm10,Âµg/mÂ³,US,Chicago-Naperville-Joliet,00:00.0,41.6167,-87.1458,21.05263158
+Portsmouth,pm10,Âµg/mÂ³,US,Boston-Cambridge-Quincy,00:00.0,43.075371,-70.748017,14.97368421
+Presque Isle Riversi,pm10,Âµg/mÂ³,US,AROOSTOOK,00:00.0,46.682299,-68.016195,5.421052632
+Reno3,pm10,Âµg/mÂ³,US,Reno-Sparks,00:00.0,39.52507,-119.807744,23.68421053
+Research Farm,pm10,Âµg/mÂ³,US,BROOKINGS,00:00.0,44.348604,-96.807299,14.21212121
+Rillito,pm10,Âµg/mÂ³,US,PIMA,00:00.0,32.414342,-111.154544,49.91666667
+Riverside - Rubidoux,pm10,Âµg/mÂ³,US,Riverside-San Bernardino-Ontario,00:00.0,33.999449,-117.415831,63.83783784
+Roseville - N.Sunris,pm10,Âµg/mÂ³,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.74643,-121.26498,16.30555556
+Rossville,pm10,Âµg/mÂ³,US,Chattanooga,00:00.0,34.9789,-85.3009,19.52631579
+Sacaton,pm10,Âµg/mÂ³,US,PINAL,00:00.0,33.080003,-111.739298,51.5
+San Andreas,pm10,Âµg/mÂ³,US,CALAVERAS,00:00.0,38.20185,-120.680277,15.62162162
+San Bernadino - 4th,pm10,Âµg/mÂ³,US,Riverside-San Bernardino-Ontario,00:00.0,34.106678,-117.274063,74.51351351
+San Luis Obispo - Hi,pm10,Âµg/mÂ³,US,SAN LUIS OBISPO,00:00.0,35.25651,-120.6693,18.64864865
+Sandpoint U of I,pm10,Âµg/mÂ³,US,BONNER,00:00.0,48.291821,-116.556557,14.59459459
+Santa Barbara,pm10,Âµg/mÂ³,US,Santa Barbara-Santa Maria,00:00.0,34.42775,-119.69091,16.81081081
+Santa Maria - Broadw,pm10,Âµg/mÂ³,US,Santa Barbara-Santa Maria,00:00.0,34.942872,-120.435611,36.62162162
+Saul Martinez,pm10,Âµg/mÂ³,US,RIVERSIDE,00:00.0,33.572019,-116.063823,47.78378378
+Savannah L&A,pm10,Âµg/mÂ³,US,Savannah,00:00.0,32.0903,-81.1306,10.92857143
+Seiling,pm10,Âµg/mÂ³,US,DEWEY,00:00.0,36.1589,-98.9353,13
+Seminole Community C,pm10,Âµg/mÂ³,US,Orlando-Kissimmee,00:00.0,28.7456,-81.31,4.962962963
+Senior Center,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4883,-111.855003,45.97297297
+Shell Cut,pm10,Âµg/mÂ³,US,Bishop,00:00.0,36.3663,-117.8976,11.5
+Sheridan PD,pm10,Âµg/mÂ³,US,Sheridan,00:00.0,44.815142,-106.955933,25.46153846
+Shoshone Bannock Tri,pm10,Âµg/mÂ³,US,BANNOCK,00:00.0,42.589833,-112.458889,28.75675676
+Shuttlesworth,pm10,Âµg/mÂ³,US,Birmingham-Hoover,00:00.0,33.565278,-86.796389,16
+Sidney 201,pm10,Âµg/mÂ³,US,RICHLAND,00:00.0,47.8679,-104.676864,3.944444444
+Simi Valley - Cochra,pm10,Âµg/mÂ³,US,Oxnard-Thousand Oaks-Ventura,00:00.0,34.2775,-118.6847,26.65789474
+Sioux Falls,pm10,Âµg/mÂ³,US,MINNEHAHA,00:00.0,43.54792,-96.700768,24.83333333
+Smithfield,pm10,Âµg/mÂ³,US,CACHE,00:00.0,41.842778,-111.85194,14.40540541
+Socorro Hueco C49,pm10,Âµg/mÂ³,US,El Paso,00:00.0,31.66752,-106.28774,28.58333333
+South DeKalb,pm10,Âµg/mÂ³,US,Atlanta-Sandy Springs-Marietta,00:00.0,33.6906,-84.2731,16.25
+South Lake Tahoe - S,pm10,Âµg/mÂ³,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.94498,-119.97061,14.97297297
+South Phoenix,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4033,-112.0731,56.34210526
+South Scottsdale,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4797,-111.9172,34.02631579
+South Tucson,pm10,Âµg/mÂ³,US,PIMA,00:00.0,32.202148,-110.967915,41.07894737
+South Valley,pm10,Âµg/mÂ³,US,Albuquerque,00:00.0,35.0186,-106.651901,58.71428571
+Spanish Springs,pm10,Âµg/mÂ³,US,Reno-Sparks,00:00.0,39.621462,-119.718738,20.10526316
+Sparks,pm10,Âµg/mÂ³,US,Reno-Sparks,00:00.0,39.54092,-119.746764,39.36842105
+Spokane-Augusta Ave,pm10,Âµg/mÂ³,US,Spokane,00:00.0,47.672501,-117.364899,15.13513514
+St. Joseph,pm10,Âµg/mÂ³,US,St. Joseph,00:00.0,39.741667,-94.858333,40.25714286
+St. Paul - Downtown,pm10,Âµg/mÂ³,US,RAMSEY,00:00.0,44.9507,-93.0985,19.13157895
+StJohns,pm10,Âµg/mÂ³,US,MARICOPA,00:00.0,33.29015,-112.159874,47.97368421
+Stanfield,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,32.881195,-111.961998,127.5263158
+Substation,pm10,Âµg/mÂ³,US,Farmington,00:00.0,36.7969,-108.4725,19.11428571
+Sunrise Acres,pm10,Âµg/mÂ³,US,Las Vegas-Paradise,00:00.0,36.163962,-115.11393,72.71428571
+Taft,pm10,Âµg/mÂ³,US,Cincinnati-Middletown,00:00.0,39.12886,-84.50404,28.39473684
+Taylorsville Liledou,pm10,Âµg/mÂ³,US,ALEXANDER,00:00.0,35.9138,-81.191,10.13513514
+Tempe,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4124,-111.9347,41.81578947
+Thompson Falls HS,pm10,Âµg/mÂ³,US,SANDERS,00:00.0,47.594395,-115.323746,18.80555556
+Toll,pm10,Âµg/mÂ³,US,Reno-Sparks,00:00.0,39.399841,-119.739606,25.44736842
+TracyAP,pm10,Âµg/mÂ³,US,Stockton,00:00.0,37.6825,-121.4406,15.03225806
+Tramway,pm10,Âµg/mÂ³,US,Albuquerque,00:00.0,35.185,-106.5077,22.78378378
+Trona - Athol and Te,pm10,Âµg/mÂ³,US,Riverside-San Bernardino-Ontario,00:00.0,35.774455,-117.372109,16.52631579
+Tulsa,pm10,Âµg/mÂ³,US,Tulsa,00:00.0,36.206699,-95.976402,23.16666667
+UC1,pm10,Âµg/mÂ³,US,UNION,00:00.0,42.751518,-96.707208,23.47222222
+Upland,pm10,Âµg/mÂ³,US,Riverside-San Bernardino-Ontario,00:00.0,34.10366,-117.629096,53.02702703
+Ute 3,pm10,Âµg/mÂ³,US,Durango,00:00.0,37.10258,-107.870219,28.4
+Visalia - N. Church,pm10,Âµg/mÂ³,US,Visalia-Porterville,00:00.0,36.33252,-119.29095,87.16216216
+W OWEN SCH,pm10,Âµg/mÂ³,US,Fayetteville,00:00.0,35.041416,-78.953112,8.783783784
+WATSON,pm10,Âµg/mÂ³,US,Louisville,00:00.0,38.0608,-85.8961,41.76315789
+WESTSIDE - 9 Mile,pm10,Âµg/mÂ³,US,BERNALILLO,00:00.0,35.064098,-106.761292,21.02702703
+WHlthDpt,pm10,Âµg/mÂ³,US,Wichita,00:00.0,37.7011,-97.3139,19.94736842
+WIND CAVE,pm10,Âµg/mÂ³,US,CUSTER,00:00.0,43.557613,-103.483658,4.416666667
+WY/KC,pm10,Âµg/mÂ³,US,Kansas City,00:00.0,39.1175,-94.6356,39.5
+WYLAM,pm10,Âµg/mÂ³,US,Birmingham-Hoover,00:00.0,33.4997,-86.9242,14.44736842
+Wadsworth-NV,pm10,Âµg/mÂ³,US,Reno-Sparks,00:00.0,39.6367,-119.2889,32.45945946
+Walter Johnson,pm10,Âµg/mÂ³,US,Las Vegas-Paradise,00:00.0,36.169756,-115.263038,36.67857143
+Wamsutter,pm10,Âµg/mÂ³,US,Rock Springs,00:00.0,41.6778,-108.0242,8.153846154
+Warner Robins,pm10,Âµg/mÂ³,US,Warner Robins,00:00.0,32.6056,-83.5979,7.863636364
+Watertown,pm10,Âµg/mÂ³,US,CODINGTON,00:00.0,44.89965,-97.128802,25.47222222
+Welby - 78th Ave. &,pm10,Âµg/mÂ³,US,Denver-Aurora,00:00.0,39.8392,-104.9489,74.52941176
+West 43rd,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.406399,-112.144302,100.4210526
+West Chandler Fire S,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.299,-111.8843,51.73684211
+West Mesa,pm10,Âµg/mÂ³,US,Las Cruces,00:00.0,32.11,-106.51,19
+West Phoenix,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.483799,-112.142601,58.73333333
+Westmorland - 570 Co,pm10,Âµg/mÂ³,US,El Centro,00:00.0,33.0325,-115.6225,54.89473684
+White Fish Dead End,pm10,Âµg/mÂ³,US,FLATHEAD,00:00.0,48.400523,-114.335973,12
+Willows-Colusa,pm10,Âµg/mÂ³,US,GLENN,00:00.0,39.53387,-122.190834,18.18421053
+Winkler Pump Station,pm10,Âµg/mÂ³,US,Cape Coral-Fort Myers,00:00.0,26.6028,-81.8789,8
+YPT Campbell Ranch,pm10,Âµg/mÂ³,US,LYON,00:00.0,39.063033,-119.2044,25.91891892
+Yakima-4th Ave,pm10,Âµg/mÂ³,US,Yakima,00:00.0,46.594952,-120.512283,24.7027027
+Yosemite Village - V,pm10,Âµg/mÂ³,US,MARIPOSA,00:00.0,37.748707,-119.587094,27.97368421
+Yuba City,pm10,Âµg/mÂ³,US,Yuba City,00:00.0,39.13868,-121.61884,30.16216216
+Yuma Supersite,pm10,Âµg/mÂ³,US,Yuma,00:00.0,32.690277,-114.614441,71
+Zuni Hills,pm10,Âµg/mÂ³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.686741,-112.294167,34.92105263

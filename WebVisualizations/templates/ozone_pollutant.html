@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="UTF-8">
+  <title>Pollutants Home</title>
+
+  <!-- Bootstrap CDN -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="../static/css/style.css">
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+
+
+
+
+  <!-- If wanting/needing two CSS files, one should to be commented out or they will cascade down on each other. -->
+  <link rel="stylesheet" href="../static/css/style.css">
+
+</head>
+
+
+<!-- Creates the Overall Grid -->
+<div class="container">
+
+  <!-- Creates the Overall Grid -->
+  <nav class="navbar navbar-expand-lg">
+    <!-- <a class="navbar-brand" href="../index.html">Home</a> -->
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      <img id="drop_img" width="50" height="50" src="{{ url_for('static', filename='visualizations/dropdown.png') }}" alt="Drop_img">
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            Pollutants
+          </a>
+
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="../PM10.html">PM10</a>
+            <a class="dropdown-item" href="../pm10barchart.html">PM10 Chart</a>
+            <a class="dropdown-item" href="../PM25.html">PM25</a>
+            <a class="dropdown-item" href="../pm25barchart.html">PM25 Chart</a>
+            <a class="dropdown-item" href="../co_pollutant.html">Carbon Monoxide</a>
+            <a class="dropdown-item" href="../cobarchart.html">CO Chart</a>
+            <a class="dropdown-item" href="../so_pollutant.html">Sulphur Dioxide</a>
+            <a class="dropdown-item" href="../so2barchart.html">SO2 Chart</a>
+            <a class="dropdown-item" href="../ozone_pollutant.html">Ozone</a>
+            <a class="dropdown-item" href="../o3barchart.html">O3 Chart</a>
+            <a class="dropdown-item" href="../no_pollutant.html">Nitrogen Dioxide</a>
+            <a class="dropdown-item" href="../no2barchart.html">NO2 Chart</a>
+            <a class="dropdown-item" href="../bcbarchart.html">BC Chart</a>
+          </div>
+        </li>
+
+        <li>
+          <a href="https://www.cdc.gov/air/pollutants.htm" target="_blank">Airborne Pollutants</a>
+        </li>
+        <!-- <li>
+          <a href="maps.html">Pollution Maps1</a>
+        </li> -->
+        <li>
+          <!-- <a href="../test_chart_js2.html">Radar1</a> -->
+          <a href="../test_chart_js3.html">Radar</a>
+        </li>
+        <li>
+          <!-- <a href="../geomap.html">GeoMap</a> -->
+          <a href="../geomap.html">GeoMap</a>
+        </li>
+        <li>
+          <a href="../index.html">Front Door</a>
+      </li>
+    </div>
+
+    </ul>
+  </nav>
+
+        <!-- Row 1 -->
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Ozone (O3)</h1>
+            </div>
+        </div>
+
+
+        <!-- Row 2 -->
+        <div class="row">
+            <div class="col-md-8">
+                <h3> Ozone (O3)</h3>
+                <a href="https://www.lung.org/our-initiatives/healthy-air/outdoor/air-pollution/ozone.html"
+                    target="_blank">
+                    <img src="{{ url_for('static', filename='visualizations/ozone.png') }}" alt="ozone_pollutant" class="ozone_image">
+                </a>
+                </br>
+
+                <p class="legal">This image came from: </p>
+                <a class="legal"
+                    href="https://kutv.com/features/health/check-your-health/check-your-health-ozone-dangers-during-summer">"https://kutv.com/features/health/check-your-health/check-your-health-ozone-dangers-during-summer"</a>
+                </br>
+                <p class="definitions"><strong>HEALTH EFFECTS OF O3:</strong> Ozone can cause the muscles in the airways
+                    to constrict,
+                    trapping air in the alveoli. This leads to wheezing and shortness of breath. Ozone can:
+                    <li>Make it more difficult to breathe deeply and vigorously.</li>
+                    <li>Cause shortness of breath, and pain when taking a deep breath.</li>
+                    <li>Cause coughing and sore or scratchy throat.</li>
+                    <li>Inflame and damage the airways.</li>
+                    <li>Aggravate lung diseases such as asthma, emphysema, and chronic bronchitis.</li>
+                    <li>Increase the frequency of asthma attacks.</li>
+                    <li>Make the lungs more susceptible to infection.</li>
+                    <li>Continue to damage the lungs even when the symptoms have disappeared.</li>
+                    <li>Cause chronic obstructive pulmonary disease (COPD).</li>
+                </p>
+                <a class="source" href="https://www.epa.gov/ground-level-ozone-pollution/health-effects-ozone-pollution"
+                    target="_blank">https://www.epa.gov/ground-level-ozone-pollution/health-effects-ozone-pollution</a>
+
+            </div>
+
+            <div class="col-md-4">
+                <h3> Breathe Deeply?</h3>
+                <a href="../PM10.html">
+                  <img src="{{ url_for('static', filename='visualizations/pm10.png') }}" alt="PM10" class="thumbs">
+                </a>
+                <a href="../PM25.html">
+                  <img src="{{ url_for('static', filename='visualizations/pm25.png') }}" alt="PM25" class="thumbs">
+                </a>
+                <a href="../co_pollutant.html">
+                  <img src="{{ url_for('static', filename='visualizations/co.png') }}" alt="Carbon Monoxide" class="thumbs">
+                </a>
+                <a href="../so_pollutant.html">
+                  <img src="{{ url_for('static', filename='visualizations/so2.png') }}" alt="Sulphur Dioxide" class="thumbs">
+                </a>
+                <a href="../ozone_pollutant.html">
+                  <img src="{{ url_for('static', filename='visualizations/ozone.png') }}" alt="Ozone" class="thumbs">
+                </a>
+                <a href="../no_pollutant.html">
+                  <img src="{{ url_for('static', filename='visualizations/no2.png') }}" alt="Nitrogen Dioxide" class="thumbs">
+                </a>
+                </a>
+            </div>
+
+
+            <!-- Row 3 -->
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- <h4>Super Cool Chart / Map / Thingamabob</h4> -->
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>

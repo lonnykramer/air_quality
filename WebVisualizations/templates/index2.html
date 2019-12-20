@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="UTF-8">
+  <title>Pollutants Home</title>
+
+  <!-- Bootstrap CDN -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="../static/css/style.css">
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+
+
+
+
+  <!-- If wanting/needing two CSS files, one should to be commented out or they will cascade down on each other. -->
+  <link rel="stylesheet" href="../static/css/style.css">
+
+</head>
+
+
+<!-- Creates the Overall Grid -->
+<div class="container">
+
+  <!-- Creates the Overall Grid -->
+  <nav class="navbar navbar-expand-lg">
+    <a class="navbar-brand" href="index.html">Home</a>
+
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      <img id="drop_img" width="50" height="50" src="../visualizations/dropdown.png" alt="Drop_img">
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            Pollutants
+          </a>
+
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="../PM10.html">PM10</a>
+            <a class="dropdown-item" href="../PM25.html">PM25</a>
+            <a class="dropdown-item" href="../co_pollutant.html">Carbon Monoxide</a>
+            <a class="dropdown-item" href="../so_pollutant.html">Sulphur Dioxide</a>
+            <a class="dropdown-item" href="../ozone_pollutant.html">Ozone</a>
+            <a class="dropdown-item" href="../no_pollutant.html">Nitrogen Dioxide</a>
+          </div>
+        </li>
+
+        <li>
+          <a href="https://www.cdc.gov/air/pollutants.htm" target="_blank">Airborne Pollutants</a>
+        </li>
+        <!-- <li>
+          <a href="maps.html">Pollution Maps1</a>
+        </li> -->
+        <li>
+          <a href="../test_chart_js2.html">Radar1</a>
+        </li>
+        <li>
+          <a href="../geomap.html">GeoMap</a>
+        </li>
+    </div>
+
+
+
+
+
+    </ul>
+  </nav>
+
+  <!-- Row 1 -->
+  <div class="row">
+    <div class="col-md-12">
+      <h1>Airborne Pollution Across the US</h1>
+    </div>
+  </div>
+
+
+  <!-- Row 2 -->
+  <div class="row">
+    <div class="col-md-8">
+      <h2>Project Summary: Looking at various airborne pollutants across the nation </h2>
+
+      <section id="figure">
+        <img id="usa" width="300" src="../visualizations/usa.png"
+          alt="https://www.nasa.gov/topics/earth/features/health-sapping.html"> <!-- height="200" -->
+      </section>
+
+      <p>The intent of the project was to analyze the various airborne pollutants reported across the USA.</p>
+      </br>
+      <p> <strong>Air and Health: </strong>
+        Since the 1950s, air quality has been a major public health and environmental concern. Local, state, and
+        national programs
+        have helped us learn more about the problems and how to solve them. National air quality has improved since the
+        early
+        1990's, but many challenges remain in protecting public health and the environment from air quality problems.
+        CDC works
+        closely with the U.S. Environmental Protection Agency to provide air quality data on the tracking network and to
+        better
+        understand how air pollution affects our health. The Tracking Network includes information about the possible
+        health
+        effects of exposure to ozone, particulate matter (PM2.5), benzene, and formaldehyde.</p>
+      <!-- </br> -->
+      <a class="hypertext" href="https://ephtracking.cdc.gov/showAirHealth"
+        target="_blank">https://ephtracking.cdc.gov/showAirHealth </a>
+
+    </div>
+    <div class="col-md-4">
+      <h3> Breathe Deeply?</h3>
+      <a href="../pm10.html">
+        <img src="{{ url_for('static', filename='visualizations/pm10.png') }}" alt="PM10" class="thumbs">
+      </a>
+      <a href="../pm25.html">
+        <img src="../visualizations/pm25.png" alt="PM25" class="thumbs">
+      </a>
+      <a href="../co_pollutant.html">
+        <img src="../visualizations/co.png" alt="Carbon Monoxide" class="thumbs">
+      </a>
+      <a href="../so_pollutant.html">
+        <img src="../visualizations/so2.png" alt="Sulphur Dioxide" class="thumbs">
+      </a>
+      <a href="../ozone_pollutant.html">
+        <img src="../visualizations/ozone.png" alt="Ozone" class="thumbs">
+      </a>
+      <a href="../no_pollutant.html">
+        <img src="../visualizations/no2.png" alt="Nitrogen Dioxide" class="thumbs">
+      </a>
+      </a>
+    </div>
+    <!-- Row 4 -->
+    <div class="row">
+      <div class="col-md-8">
+      </div>
+
+      <!-- Row 5 -->
+      <div class="row">
+        <div class="col-md-8">
+        </div>
+        </br>
+        </br>
+        </br>
+        <!-- Row 6 -->
+        <div class="row">
+          <div class="col-md-8">
+            <a href="https://www.researchgate.net/profile/James_Repace/publication/330689114/figure/fig1/AS:720165922689025@1548712344787/The-US-Air-Quality-Index-for-PM25-with-Breakpoints.png"
+              target="_blank">
+              <img
+                src="https://www.researchgate.net/profile/James_Repace/publication/330689114/figure/fig1/AS:720165922689025@1548712344787/The-US-Air-Quality-Index-for-PM25-with-Breakpoints.png"
+                alt="The U.S. Air Quality Index for PM2.5 with Breakpoints." alt="PM25" class="particles">
+            </a>
+            </br>
+            </br>
+          </div>
+          <!-- Row 5 -->
+          <div class="row">
+            <div class="col-md-8">
+            </div>
+
+
+
+
+
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+            <!-- <script src="{{ url_for('static', filename='js/config.js') }}"></script>
+            <script src="{{ url_for('static', filename='js/app.js') }}"></script> -->
+            <script src="{{ url_for('static', filename='js/bonus.js') }}"></script>
+
+            </body>
+
+</html>

@@ -1,0 +1,194 @@
+/*
+    NOTE: Commenting is a bit different in CSS.
+    They start with forward-slash + asterisk
+    and end with back-slash + asterisk.
+    */
+
+/* body heading tag */
+body {
+    /* background-color: blanchedalmond; */
+    background-color: #FFFADA;
+}
+
+
+/* h1 heading tag */
+h1 {
+    /* Put a 20-pixel margin at the bottom of the heading. */
+    margin-bottom: 20px;
+    /* Change the size of your font to 60 pixels high. */
+    font-size: 60px;
+    /* This will color the heading font white. */
+    color: blue;
+    /* Align the text to the center of its enclosing element (e.g. div). */
+    text-align: center;
+    /* The background of the heading element will now be black. */
+    background-color: black;
+    padding-bottom: 10px;
+  }
+
+  /* h2 heading tags */
+h2 {
+    /* Put a 15-pixel margin at the top of all h2 headings. */
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(220, 245, 238);
+
+    }
+
+/* h3 heading tags */
+h3 {
+    margin-top: 15px;
+    font-size: 20px;
+    text-align: center;
+    background-color: yellow;
+  }
+  
+h4 {
+  margin-top: 15px;
+  font-size: 20px;
+  text-align: center;
+  background-color: #7df57d;
+}
+
+.map_titles {
+  margin-top: 5px;
+  font-size: 15px;
+  text-align: center;
+  background-color: #7dc5f5;
+}
+
+
+
+
+/* h8 heading tags */
+.hypertext {
+  font-size: 12px;
+  /* color: blue; */
+
+}
+
+/* img heading tag */
+.thumbs {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    /* height: 150px; */
+    /* margin-left: 50; */
+    /* margin-right: 25; */
+    
+}
+
+/* img heading tag */
+.particles {
+  width: 500px;
+}
+
+.pm25_image {
+  width: 700px;
+}
+
+.ozone_image {
+  width: 700px;
+}
+
+.legal {
+  font-size: 12px;
+}
+
+.source {
+  font-size: 12px;
+  color: blue;
+
+}
+
+.compare_charts {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 500px;
+  /* display: block; */
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+
+.compare_charts2 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  /* width: 500px; */
+  /* display: block; */
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  max-width: 45%;
+    max-height: 45%;
+}
+
+
+/* Giving our navbar some padding and a background color */
+.navbar {
+    padding: 10px;
+    background: #5c51fd;
+    
+  }
+  
+  /* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+  .navbar li {
+    display: inline-block;
+    padding: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 3px;
+  }
+  
+  .nav-item dropdown {
+    margin-right: 10px;
+
+
+  }
+  
+
+
+#figure {
+    position: relative;
+    float: left;
+    margin-right: 10px;
+  
+}
+
+
+.table {       
+  position: absolute;
+  font-size: 150%;
+  width: 480px;
+  height: 200px;
+  z-index: 15;
+  top: 20%;
+  left: 50%;
+  margin: -100px 0 0 -150px;
+  background: rgb(236, 240, 204);
+  }
+
+
+  .navbar-brand {
+    background: white;
+    font-weight: 500;
+    font: black;
+  }
+
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;}
+    .navbar {
+      background-color: purple;}
+    
+  }
+
+
+

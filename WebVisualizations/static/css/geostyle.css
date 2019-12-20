@@ -1,0 +1,102 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+
+.legend {
+  padding: 10px;
+  font-family: Sanchez, serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 18px;
+  color: #555;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.legend .title {
+  color: #ec8a2e;
+}
+
+.legend .dash {
+  text-align: center;
+}
+
+.legend .six {
+  color: darkred;
+}
+
+.legend .five {
+  color: red;
+}
+
+.legend .four {
+  color: orange;
+}
+
+.legend .three {
+  color: yellow;
+}
+
+.legend .two {
+  color: green;
+}
+
+.legend .undertwo {
+  color: lightgreen;
+}
+
+h3 {
+   background-color: white;
+   font-size: 15px;
+}
+
+
+
+/* ****************** */
+/* Giving our navbar some padding and a background color */
+.navbar {
+  padding: 10px;
+  background: #5c51fd;
+  
+}
+
+/* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+.navbar li {
+  display: inline-block;
+  padding: 5px;
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  background: #fff;
+  border-radius: 3px;
+}
+
+.nav-item dropdown {
+  margin-right: 10px;
+
+
+}
+
+.navbar-brand {
+  background: white;
+  font-weight: 500;
+  font: black;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;}
+  .navbar {
+    background-color: purple;}
+  
+}
+

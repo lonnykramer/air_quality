@@ -1,0 +1,764 @@
+location,parameter,unit,country,city,date.utc,coordinates_latitude,coordinates_longitude,avgvalue
+2912 Coffey,pm25,µg/m³,US,Omaha-Council Bluffs,00:00.0,41.133317,-95.956078,8.5
+ADEQ-DSR,pm25,µg/m³,US,Little Rock-North Little Rock,00:00.0,34.6811,-92.3283,13.45
+AIR LAB,pm25,µg/m³,US,Knoxville,00:00.0,35.9803,-83.9306,8.178571429
+ALLEN PARK,pm25,µg/m³,US,Detroit-Warren-Livonia,00:00.0,42.2283,-83.2092,5.178571429
+APOLLO BEACH,pm25,µg/m³,US,HILLSBOROUGH,00:00.0,27.779712,-82.419835,2.6
+APPLETON AAL,pm25,µg/m³,US,Appleton,00:00.0,44.3069,-88.3956,6.357142857
+ARNOLD WEST,pm25,µg/m³,US,St. Louis,00:00.0,38.448581,-90.398436,14.71666667
+ATHENS,pm25,µg/m³,US,Athens,00:00.0,35.4511,-84.5992,6.25
+Aberdeen-Division St,pm25,µg/m³,US,Aberdeen,00:00.0,46.9772,-123.8317,4.476923077
+Acadia NP - McFarlan,pm25,µg/m³,US,HANCOCK,00:00.0,44.377048,-68.260902,1.235714286
+Adams,pm25,µg/m³,US,Denver-Aurora,00:00.0,39.828387,-104.938463,15.13846154
+Alamo Lake,pm25,µg/m³,US,LA PAZ,00:00.0,34.243889,-113.558611,3.571428571
+Albany,pm25,µg/m³,US,Albany,00:00.0,31.5767,-84.1002,4.219230769
+Albany - Calapooia S,pm25,µg/m³,US,Albany-Lebanon,00:00.0,44.61569,-123.091457,9.321428571
+Albemarle HS,pm25,µg/m³,US,Charlottesville,00:00.0,38.076599,-78.503998,14.11428571
+Allentown,pm25,µg/m³,US,Allentown-Bethlehem-Easton,00:00.0,40.6119,-75.4325,6.342857143
+Alpine,pm25,µg/m³,US,San Diego-Carlsbad-San Marcos,00:00.0,32.842297,-116.768326,6.95
+Altoona,pm25,µg/m³,US,Altoona,00:00.0,40.515,-78.3889,9.135714286
+Anacortes-202 Ave (S,pm25,µg/m³,US,SKAGIT,00:00.0,48.52059,-122.61428,5.5
+Anacortes-Bartholome,pm25,µg/m³,US,SKAGIT,00:00.0,48.465401,-122.559998,1.464285714
+Anaheim,pm25,µg/m³,US,Los Angeles-Long Beach-Santa Ana,00:00.0,33.830586,-117.938509,18.24285714
+Anderson-Eastside El,pm25,µg/m³,US,Anderson,00:00.0,40.125557,-85.652222,18.07857143
+Anthony,pm25,µg/m³,US,Las Cruces,00:00.0,32.0036,-106.5992,20.45454545
+Apple Valley,pm25,µg/m³,US,Minneapolis-St. Paul-Bloomington,00:00.0,44.7383,-93.2372,15.71428571
+Arden Arcade - Del P,pm25,µg/m³,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.613804,-121.368007,15.78571429
+Ascarate Park Southe,pm25,µg/m³,US,El Paso,00:00.0,31.7467,-106.402802,10.32142857
+Ashland Fire Dept,pm25,µg/m³,US,JACKSON,00:00.0,42.1941,-122.7086,8.721428571
+Atascadero2,pm25,µg/m³,US,San Luis Obispo-Paso Robles,00:00.0,35.494556,-120.666203,9.769230769
+Athens,pm25,µg/m³,US,Athens-Clarke County,00:00.0,33.925,-83.3575,12.43333333
+Auburn,pm25,µg/m³,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.937801,-121.103897,6.666666667
+Auburn M St SE,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,47.2875,-122.2144,4.636363636
+Augusta,pm25,µg/m³,US,Augusta-Richmond County,00:00.0,33.4333,-82.0219,6.6
+Austin Northwest C3,pm25,µg/m³,US,Austin-Round Rock,00:00.0,30.3542,-97.760002,6.076923077
+BAY CITY,pm25,µg/m³,US,Bay City,00:00.0,43.5714,-83.8908,2.542857143
+BDED,pm25,µg/m³,US,Asheville,00:00.0,35.6062,-82.5844,4.871428571
+BONDVILLE,pm25,µg/m³,US,CHAMPAIGN,00:00.0,40.052241,-88.372549,24.00714286
+BRAIDWD,pm25,µg/m³,US,Chicago-Naperville-Joliet,00:00.0,41.2222,-88.1906,21.65
+BROADWAY (South),pm25,µg/m³,US,St. Louis,00:00.0,38.5425,-90.263611,26.38461538
+BRYSON,pm25,µg/m³,US,SWAIN,00:00.0,35.434767,-83.442133,6.642857143
+BUTLER MANUF. CO NEA,pm25,µg/m³,US,Winchester,00:00.0,39.282799,-78.081398,5.885714286
+Bad River Tribal Sch,pm25,µg/m³,US,ASHLAND,00:00.0,46.6144,-90.6986,5.842857143
+Badlands,pm25,µg/m³,US,JACKSON,00:00.0,43.746944,-101.941109,1.67
+Baker City - Forest,pm25,µg/m³,US,BAKER,00:00.0,44.78822,-117.8446,10.83571429
+Bakersfield - Califo,pm25,µg/m³,US,Bakersfield,00:00.0,35.356615,-119.062613,22
+Bangor MSS,pm25,µg/m³,US,PENOBSCOT,00:00.0,44.817398,-68.772762,2.428571429
+Banning - South Hath,pm25,µg/m³,US,Riverside-San Bernardino-Ontario,00:00.0,33.920758,-116.858419,11.97142857
+Batavia,pm25,µg/m³,US,Cincinnati-Middletown,00:00.0,39.0828,-84.1441,11.77857143
+Beaver Falls,pm25,µg/m³,US,Pittsburgh,00:00.0,40.747799,-80.316704,17.57333333
+Beaverton - Highland,pm25,µg/m³,US,Portland-Vancouver-Beaverton,00:00.0,45.4702,-122.8159,14.97142857
+Belle Glade,pm25,µg/m³,US,PALM BEACH,00:00.0,26.724167,-80.663055,7.066666667
+Bellevue-SE 12th,pm25,µg/m³,US,KING,00:00.0,47.600863,-122.148397,2.557142857
+Bellingham Pacifc,pm25,µg/m³,US,WHATCOM,00:00.0,48.760036,-122.456463,4.538461538
+Bend - Pump Station,pm25,µg/m³,US,Bend,00:00.0,44.063916,-121.312554,6.807142857
+Bennington,pm25,µg/m³,US,Bennington,00:00.0,42.887501,-73.249702,3.3
+Berkeley Aquatic Par,pm25,µg/m³,US,ALAMEDA,00:00.0,37.864767,-122.302741,9.916666667
+Billlings Lockwood,pm25,µg/m³,US,YELLOWSTONE,00:00.0,45.806357,-108.426551,3.546153846
+Birney,pm25,µg/m³,US,ROSEBUD,00:00.0,45.366151,-106.48982,1.872727273
+Blaine,pm25,µg/m³,US,Minneapolis-St. Paul-Bloomington,00:00.0,45.1425,-93.2139,13.75
+Blue Ridge I-70,pm25,µg/m³,US,Kansas City,00:00.0,39.047911,-94.450513,7.591666667
+Bonifay,pm25,µg/m³,US,HOLMES,00:00.0,30.8475,-85.6044,10.9
+Boston - Roxbury,pm25,µg/m³,US,Boston-Cambridge-Quincy,00:00.0,42.329399,-71.082497,6.714285714
+Boston-Von Hillern,pm25,µg/m³,US,SUFFOLK,00:00.0,42.325197,-71.056056,5.857142857
+Boulder - CU - 2102,pm25,µg/m³,US,Boulder,00:00.0,40.0128,-105.2667,5.907692308
+Boulder Creek,pm25,µg/m³,US,Santa Cruz-Watsonville,00:00.0,37.125861,-122.122127,5.214285714
+Bozeman High School,pm25,µg/m³,US,GALLATIN,00:00.0,45.683765,-111.056282,5.566666667
+Brainerd,pm25,µg/m³,US,Brainerd,00:00.0,46.3944,-94.1433,6.071428571
+Branch Street,pm25,µg/m³,US,ST. LOUIS (CITY),00:00.0,38.65643,-90.18977,19.31538462
+Bremerton-Spruce Ave,pm25,µg/m³,US,KITSAP,00:00.0,47.592675,-122.627397,7.642857143
+Bridgeport,pm25,µg/m³,US,Bridgeport-Stamford-Norwalk,00:00.0,41.171398,-73.195297,5.371428571
+Brigantine,pm25,µg/m³,US,Atlantic City,00:00.0,39.46487,-74.448738,10.84166667
+Broadus,pm25,µg/m³,US,POWDER RIVER,00:00.0,45.440295,-105.37028,7.366666667
+Brockton,pm25,µg/m³,US,PLYMOUTH,00:00.0,42.065119,-71.012686,4.571428571
+Buffalo,pm25,µg/m³,US,Buffalo-Niagara Falls,00:00.0,42.8781,-78.8094,4.628571429
+Buffalo Near-road,pm25,µg/m³,US,ERIE,00:00.0,42.92111,-78.76611,4.557142857
+Burdens Creek,pm25,µg/m³,US,Durham,00:00.0,35.889402,-78.8747,13.35
+Burlington,pm25,µg/m³,US,Burlington-South Burlington,00:00.0,44.476101,-73.210297,3.028571429
+Burns - Washington S,pm25,µg/m³,US,HARNEY,00:00.0,43.58925,-119.048302,18.38571429
+Butte (Harrison Cour,pm25,µg/m³,US,MATANUSKA-SUSITNA,00:00.0,61.534163,-149.031655,6.615384615
+Butte Greely School,pm25,µg/m³,US,SILVER BOW,00:00.0,46.002399,-112.500893,4.42
+CARPENTER,pm25,µg/m³,US,Des Moines,00:00.0,41.6031,-93.643303,6.428571429
+CARY,pm25,µg/m³,US,Chicago-Naperville-Joliet,00:00.0,42.2211,-88.2411,17.61538462
+CASTLE H,pm25,µg/m³,US,Wilmington,00:00.0,34.364167,-77.838611,5.5
+CCNY,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.8197,-73.9481,4.061538462
+CC_Armory,pm25,µg/m³,US,CARSON CITY,00:00.0,39.144804,-119.766409,7.642857143
+CHICOPEE,pm25,µg/m³,US,Springfield,00:00.0,42.194401,-72.555603,3.846153846
+CHIWAUKEE,pm25,µg/m³,US,Chicago-Naperville-Joliet,00:00.0,42.5047,-87.8111,9.728571429
+CHI_COM,pm25,µg/m³,US,Chicago-Naperville-Joliet,00:00.0,41.7547,-87.7136,15.80714286
+CLEVELAND,pm25,µg/m³,US,BOLIVAR,00:00.0,33.750833,-90.734167,24.36428571
+CORNER,pm25,µg/m³,US,Birmingham-Hoover,00:00.0,33.8017,-86.9425,8.107142857
+Calexico - Ethel Str,pm25,µg/m³,US,El Centro,00:00.0,32.67618,-115.48307,12.78571429
+Camden Spruce St,pm25,µg/m³,US,Philadelphia-Camden-Wilmington,00:00.0,39.934446,-75.125291,11.675
+Camp Pendleton,pm25,µg/m³,US,San Diego-Carlsbad-San Marcos,00:00.0,33.217026,-117.396156,1.2625
+Candor FRO,pm25,µg/m³,US,MONTGOMERY,00:00.0,35.263165,-79.836636,11.5
+Cannons Lane,pm25,µg/m³,US,Louisville,00:00.0,38.2286,-85.6544,26.18571429
+Canton,pm25,µg/m³,US,Canton-Massillon,00:00.0,40.800717,-81.373,11.39285714
+Cape Romain,pm25,µg/m³,US,Charleston-North Charleston,00:00.0,32.941002,-79.656998,3.7875
+Carlisle,pm25,µg/m³,US,Harrisburg-Carlisle,00:00.0,40.2464,-77.1867,7.157142857
+Carrithers Middle Sc,pm25,µg/m³,US,JEFFERSON,00:00.0,38.1825,-85.5744,25.75
+Casper Gaseous,pm25,µg/m³,US,Casper,00:00.0,42.82231,-106.36501,1.714285714
+Catawba Indian Natio,pm25,µg/m³,US,N/A,00:00.0,34.91263,-80.874283,8.214285714
+Cataño 40,pm25,µg/m³,US,CATANO,00:00.0,18.428388,-66.141657,6.15
+Cave Junction Forest,pm25,µg/m³,US,JOSEPHINE,00:00.0,42.1617,-123.64835,15.50714286
+Cedar Bluff,pm25,µg/m³,US,TREGO,00:00.0,38.7703,-99.7636,1.433333333
+Chalmette Vista,pm25,µg/m³,US,New Orleans-Metairie-Kenner,00:00.0,29.9431,-89.9761,10.99333333
+Charleroi,pm25,µg/m³,US,Pittsburgh,00:00.0,40.1469,-79.9033,16.54285714
+Chatfield Park - 115,pm25,µg/m³,US,Denver-Aurora,00:00.0,39.5339,-105.07,5.984615385
+Cheeka Peak,pm25,µg/m³,US,Port Angeles,00:00.0,48.2867,-124.6203,1.7
+Chehalis-Market Blvd,pm25,µg/m³,US,LEWIS,00:00.0,46.664089,-122.967323,10.15
+Chelan-Woodin Ave,pm25,µg/m³,US,CHELAN,00:00.0,47.83861,-120.02306,8.335714286
+ChelmsfordNR,pm25,µg/m³,US,MIDDLESEX,00:00.0,42.612113,-71.307519,2.4
+Chester,pm25,µg/m³,US,Philadelphia-Camden-Wilmington,00:00.0,39.8356,-75.3725,16.07142857
+Chester BAM,pm25,µg/m³,US,PLUMAS,00:00.0,40.301899,-121.235001,14.07142857
+Cheyenne NCore,pm25,µg/m³,US,Cheyenne,00:00.0,41.18222,-104.778336,3.5
+Chico -  East,pm25,µg/m³,US,BUTTE,00:00.0,39.76168,-121.84047,12.14285714
+Children's Park Site,pm25,µg/m³,US,Tucson,00:00.0,32.2953,-110.9822,6.785714286
+Chiloquin,pm25,µg/m³,US,KLAMATH,00:00.0,42.541077,-121.921636,7.021428571
+Chippewa Lake,pm25,µg/m³,US,Cleveland-Elyria-Mentor,00:00.0,41.0604,-81.9239,12.57142857
+Cicero2,pm25,µg/m³,US,COOK,00:00.0,41.864329,-87.748826,23.45384615
+Cincinnati Near Road,pm25,µg/m³,US,Cincinnati-Middletown,00:00.0,39.146025,-84.538375,26.55714286
+City Park,pm25,µg/m³,US,New Orleans-Metairie-Kenner,00:00.0,29.9933,-90.1014,4.963636364
+Clarkston-13th St,pm25,µg/m³,US,ASOTIN,00:00.0,46.425598,-117.059799,19.10714286
+Clarksville,pm25,µg/m³,US,Clarksville,00:00.0,36.611411,-87.384666,19.08333333
+Clemmons Middle,pm25,µg/m³,US,Winston-Salem,00:00.0,36.0261,-80.3419,9.821428571
+Clinton C403,pm25,µg/m³,US,Houston-Sugar Land-Baytown,00:00.0,29.7339,-95.2575,23.9
+"Clinton, Chancy Park",pm25,µg/m³,US,Clinton,00:00.0,41.823101,-90.211899,28.5
+Clovis - N. Villa Av,pm25,µg/m³,US,Fresno,00:00.0,36.819199,-119.7164,22.47692308
+Colbert-Greenbluff,pm25,µg/m³,US,Spokane,00:00.0,47.808226,-117.34327,8.3
+Colfax,pm25,µg/m³,US,Sacramento--Arden-Arcade--Roseville,00:00.0,39.1003,-120.9528,6.25
+Colorado College,pm25,µg/m³,US,Colorado Springs,00:00.0,38.848,-104.8286,5.569230769
+Columbia,pm25,µg/m³,US,Nashville-Davidson--Murfreesboro,00:00.0,35.65188,-87.0096,12.31904762
+Columbia Falls,pm25,µg/m³,US,FLATHEAD,00:00.0,48.363694,-114.189272,9.630769231
+Columbus Airport,pm25,µg/m³,US,Columbus,00:00.0,32.5214,-84.9436,9.030769231
+Columbus NR - Smoky,pm25,µg/m³,US,Columbus,00:00.0,40.11109,-83.065376,20.55
+Colusa - Sunrise Blv,pm25,µg/m³,US,COLUSA,00:00.0,39.18919,-121.99887,10.5
+Colville-E 1st St,pm25,µg/m³,US,STEVENS,00:00.0,48.54469,-117.903222,11.69230769
+Concord,pm25,µg/m³,US,San Francisco-Oakland-Fremont,00:00.0,37.9383,-122.025,5.5
+Conroe Relocated C78,pm25,µg/m³,US,Houston-Sugar Land-Baytown,00:00.0,30.3503,-95.425,11.10714286
+Cookeville,pm25,µg/m³,US,Cookeville,00:00.0,36.1857,-85.4921,16.25
+Copper View,pm25,µg/m³,US,Salt Lake City,00:00.0,40.598056,-111.894167,16.87142857
+Cornwall,pm25,µg/m³,US,Torrington,00:00.0,41.833099,-73.303299,8.464285714
+Corpus Christi Dona,pm25,µg/m³,US,Corpus Christi,00:00.0,27.811814,-97.4657,8.171428571
+Corsicana C1051,pm25,µg/m³,US,Corsicana,00:00.0,32.0319,-96.3992,8.121428571
+Corvallis - Circle B,pm25,µg/m³,US,Corvallis,00:00.0,44.5884,-123.2673,8.514285714
+Cottage Grove City S,pm25,µg/m³,US,Eugene-Springfield,00:00.0,43.7995,-123.0535,8.507142857
+Credit Union,pm25,µg/m³,US,Rapid City,00:00.0,44.087397,-103.273777,3.323076923
+Crestline - Lake Gre,pm25,µg/m³,US,Riverside-San Bernardino-Ontario,00:00.0,34.243132,-117.272275,12.72857143
+Crystal River Preser,pm25,µg/m³,US,Homosassa Springs,00:00.0,28.958372,-82.643094,2.666666667
+Custer-Loomis (SO-AQ,pm25,µg/m³,US,Bellingham,00:00.0,48.950699,-122.554398,4.264285714
+Cut Bank,pm25,µg/m³,US,MT1,00:00.0,48.607406,-112.363842,4
+DCNearRoad,pm25,µg/m³,US,Washington-Arlington-Alexandria,00:00.0,38.894749,-76.953427,11.78571429
+DEARBORN,pm25,µg/m³,US,Detroit-Warren-Livonia,00:00.0,42.3075,-83.15,6.057142857
+DECATUR,pm25,µg/m³,US,Decatur,00:00.0,34.5286,-86.9706,13.68571429
+DET POLICE 4TH,pm25,µg/m³,US,Detroit-Warren-Livonia,00:00.0,42.312158,-83.091943,8.283333333
+DETROIT - SOUTHWEST,pm25,µg/m³,US,Detroit-Warren-Livonia,00:00.0,42.3042,-83.1072,16.31
+DYERTEOM,pm25,µg/m³,US,Dyersburg,00:00.0,36.0528,-89.3819,12.75
+Danbury,pm25,µg/m³,US,Bridgeport-Stamford-Norwalk,00:00.0,41.4014,-73.4447,4.628571429
+Darrington-Fir St,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,48.246799,-121.603104,13.5
+"Davenport, 10th & Vi",pm25,µg/m³,US,Davenport-Moline-Rock Island,00:00.0,41.529999,-90.587502,28.16428571
+Davis - UCD Campus,pm25,µg/m³,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.53455,-121.7734,15.42857143
+Dayton-W Main,pm25,µg/m³,US,COLUMBIA,00:00.0,46.318,-117.985,4.985714286
+Del Norte,pm25,µg/m³,US,Albuquerque,00:00.0,35.1353,-106.584702,13.8
+Denver - NJH - 14th,pm25,µg/m³,US,Denver-Aurora,00:00.0,39.7386,-104.9394,11.22307692
+Detroit Lakes,pm25,µg/m³,US,BECKER,00:00.0,46.8511,-95.8467,6.571428571
+Devils Lake,pm25,µg/m³,US,Baraboo,00:00.0,43.4356,-89.6803,14.07857143
+Diablo,pm25,µg/m³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.3961,-111.968,9.742857143
+Division Street,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.7142,-73.995,4.071428571
+Douglas Red Cross,pm25,µg/m³,US,Sierra Vista-Douglas,00:00.0,31.3492,-109.539683,6.928571429
+Downtown Sacramento,pm25,µg/m³,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.56844,-121.49311,18.42857143
+Duluth-WDSE,pm25,µg/m³,US,Duluth,00:00.0,46.8183,-92.0892,7.125
+Durango Complex,pm25,µg/m³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4265,-112.1181,25.48571429
+Durham Armory,pm25,µg/m³,US,Durham,00:00.0,36.032955,-78.904037,8.785714286
+E Providence,pm25,µg/m³,US,Providence-New Bedford-Fall River,00:00.0,41.840302,-71.361702,2.666666667
+EAST VINTON ELEMENTA,pm25,µg/m³,US,Roanoke,00:00.0,37.285599,-79.884201,15.08571429
+ELDOSPGS,pm25,µg/m³,US,CEDAR,00:00.0,37.70097,-94.03474,10.49166667
+ETOWN2,pm25,µg/m³,US,Elizabethtown,00:00.0,37.7064,-85.8517,23.35
+East Hartford,pm25,µg/m³,US,Hartford-West Hartford-East Hartford,00:00.0,41.7847,-72.6297,4.307142857
+East High School,pm25,µg/m³,US,Akron,00:00.0,41.063526,-81.468956,9.478571429
+Eau Claire,pm25,µg/m³,US,EAU CLAIRE,00:00.0,44.761398,-91.413002,13.17857143
+Eisenhower Park,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.7447,-73.5869,4.035714286
+El Cajon - Lexington,pm25,µg/m³,US,San Diego-Carlsbad-San Marcos,00:00.0,32.789561,-116.944222,9.183333333
+El Paso UTEP C12,pm25,µg/m³,US,El Paso,00:00.0,31.768056,-106.501111,14.26923077
+El Rio - Rio Mesa Sc,pm25,µg/m³,US,Oxnard-Thousand Oaks-Ventura,00:00.0,34.2653,-119.1336,8.5
+Elizabeth Trailer,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.641441,-74.208366,11.725
+Elk Grove,pm25,µg/m³,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.302591,-121.420838,6.428571429
+Ellensburg-Ruby St,pm25,µg/m³,US,Ellensburg,00:00.0,46.9936,-120.545,4.428571429
+Ely,pm25,µg/m³,US,LAKE,00:00.0,47.9464,-91.4953,6.357142857
+"Emmetsburg, ILCC",pm25,µg/m³,US,PALO ALTO,00:00.0,43.123299,-94.693298,7.214285714
+Enoch,pm25,µg/m³,US,IRON,00:00.0,37.747445,-113.055524,10.53571429
+Enterprise - US Fore,pm25,µg/m³,US,WALLOWA,00:00.0,45.426351,-117.296066,4.553846154
+Erda,pm25,µg/m³,US,TOOELE,00:00.0,40.600556,-112.355,7.028571429
+Erie,pm25,µg/m³,US,Erie,00:00.0,42.1428,-80.0372,4.630434783
+Eugene - Amazon Park,pm25,µg/m³,US,Eugene-Springfield,00:00.0,44.0263,-123.08377,12.61428571
+Eugene - Highway 99,pm25,µg/m³,US,Eugene-Springfield,00:00.0,44.067223,-123.14135,9.4
+Eugene - Wilkes Dr.,pm25,µg/m³,US,Eugene-Springfield,00:00.0,44.1158,-123.12107,10.32142857
+FAB,pm25,µg/m³,US,PHILADELPHIA,00:00.0,39.9603,-75.1424,7.842857143
+FIVCO,pm25,µg/m³,US,Huntington-Ashland,00:00.0,38.4592,-82.6339,22.97857143
+FLINT,pm25,µg/m³,US,Flint,00:00.0,43.0289,-83.669403,3.833333333
+FRANCONIA,pm25,µg/m³,US,Washington-Arlington-Alexandria,00:00.0,38.771702,-77.108902,7.071428571
+Fall River,pm25,µg/m³,US,Providence-New Bedford-Fall River,00:00.0,41.6833,-71.169701,9.571428571
+Farrell,pm25,µg/m³,US,Youngstown-Warren-Boardman,00:00.0,41.215,-80.485,12.01428571
+Felton Cal-Fire,pm25,µg/m³,US,Santa Cruz-Watsonville,00:00.0,37.0481,-122.074603,6.285714286
+Firearms Training,pm25,µg/m³,US,Louisville,00:00.0,38.23158,-85.82675,25.5
+Flemington,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.515251,-74.806755,10.9
+Florence,pm25,µg/m³,US,Pittsburgh,00:00.0,40.4447,-80.42,18.84285714
+Floyd Dryden,pm25,µg/m³,US,JUNEAU,00:00.0,58.388889,-134.565556,1.818181818
+Fond du Lac,pm25,µg/m³,US,CARLTON,00:00.0,46.713694,-92.511722,3.7
+Forest Park,pm25,µg/m³,US,St. Louis,00:00.0,38.631057,-90.281144,22.00769231
+Fort Lee Near Road,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.85355,-73.9661,6.608333333
+Freemansburg,pm25,µg/m³,US,Allentown-Bethlehem-Easton,00:00.0,40.6281,-75.3411,8.564285714
+French Settlement,pm25,µg/m³,US,Baton Rouge,00:00.0,30.315,-90.8114,9.55
+French Town - Beckwi,pm25,µg/m³,US,MISSOULA,00:00.0,47.012907,-114.224273,11.33846154
+Fresh Kills,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.5802,-74.1994,4.591666667
+Fresno - Garland,pm25,µg/m³,US,FRESNO,00:00.0,36.78538,-119.77321,22.27857143
+Ft. Collins - CSU Fa,pm25,µg/m³,US,LARIMER,00:00.0,40.571259,-105.079765,7.014285714
+G.T.Craig,pm25,µg/m³,US,Cleveland-Elyria-Mentor,00:00.0,41.492191,-81.678552,6.55
+GANDY,pm25,µg/m³,US,Tampa-St. Petersburg-Clearwater,00:00.0,27.8928,-82.5383,2.042857143
+GARINGER,pm25,µg/m³,US,Charlotte-Gastonia-Concord,00:00.0,35.2411,-80.7831,6.428571429
+GC_MAD,pm25,µg/m³,US,St. Louis,00:00.0,38.7045,-90.1397,22.61538462
+GPORT YC,pm25,µg/m³,US,Gulfport-Biloxi,00:00.0,30.39,-89.0497,12.04285714
+GRAND RAPIDS,pm25,µg/m³,US,Grand Rapids-Wyoming,00:00.0,42.984699,-85.671097,5.084615385
+GREEN BAY E HIGH,pm25,µg/m³,US,Green Bay,00:00.0,44.5167,-87.9939,4.228571429
+Gainesville,pm25,µg/m³,US,Gainesville,00:00.0,34.3003,-83.8139,11.02857143
+Garden,pm25,µg/m³,US,Anchorage,00:00.0,61.205861,-149.8246,5.769230769
+Garden City,pm25,µg/m³,US,ADA,00:00.0,43.647888,-116.269409,26.21428571
+Garden Valley,pm25,µg/m³,US,BOISE,00:00.0,44.104498,-115.972386,9.285714286
+Geronimo,pm25,µg/m³,US,Tucson,00:00.0,32.25,-110.9667,10.64285714
+Gilory - 9th Street,pm25,µg/m³,US,San Jose-Sunnyvale-Santa Clara,00:00.0,36.999571,-121.574684,7.454545455
+Glendale Community C,pm25,µg/m³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.5694,-112.1915,12.15
+Glendora - Laurel,pm25,µg/m³,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.1439,-117.8508,12.7
+Glenpool,pm25,µg/m³,US,Tulsa,00:00.0,35.9525,-96.0033,9.6
+Globeville,pm25,µg/m³,US,DENVER,00:00.0,39.785622,-104.988469,14.97692308
+Goleta,pm25,µg/m³,US,Santa Barbara-Santa Maria,00:00.0,34.445301,-119.827797,4.642857143
+Grand Portage,pm25,µg/m³,US,COOK,00:00.0,47.9721,-89.6908,3.333333333
+Grangeville,pm25,µg/m³,US,IDAHO,00:00.0,45.931301,-116.115196,4.928571429
+Grants Pass - Parksi,pm25,µg/m³,US,Grants Pass,00:00.0,42.434149,-123.348466,14.07142857
+Grass Valley,pm25,µg/m³,US,Truckee-Grass Valley,00:00.0,39.234402,-121.055603,5.615384615
+Great Falls Overlook,pm25,µg/m³,US,CASCADE,00:00.0,47.494318,-111.303317,4.438461538
+Greeley Hospital,pm25,µg/m³,US,Greeley,00:00.0,40.4147,-104.7061,19.73846154
+GreenValley,pm25,µg/m³,US,Las Vegas-Paradise,00:00.0,36.048705,-115.052942,12.2
+Greenfield,pm25,µg/m³,US,FRANKLIN,00:00.0,42.605816,-72.596689,5.142857143
+Greenville-ESC,pm25,µg/m³,US,Greenville,00:00.0,34.843899,-82.414597,5.38
+Gridley,pm25,µg/m³,US,Chico,00:00.0,39.32756,-121.66881,20.14285714
+Groton Fort Griswold,pm25,µg/m³,US,Norwich-New London,00:00.0,41.3536,-72.0789,4.492857143
+Gwinnett Tech,pm25,µg/m³,US,Atlanta-Sandy Springs-Marietta,00:00.0,33.9636,-84.0664,6.15
+HAMPTON,pm25,µg/m³,US,Virginia Beach-Norfolk-Newport News,00:00.0,37.103683,-76.386948,10.68571429
+HARRINGTON BCH,pm25,µg/m³,US,Milwaukee-Waukesha-West Allis,00:00.0,43.4981,-87.81,3.892857143
+HATTIEAVEN,pm25,µg/m³,US,Winston-Salem,00:00.0,36.1106,-80.2267,9.464285714
+HAZ2,pm25,µg/m³,US,PERRY,00:00.0,37.2831,-83.2203,17.48181818
+HERNANDO,pm25,µg/m³,US,Memphis,00:00.0,34.820556,-89.987778,21.00714286
+HICKORY,pm25,µg/m³,US,Hickory-Lenoir-Morganton,00:00.0,35.728889,-81.365556,5
+HVILLE,pm25,µg/m³,US,Nashville-Davidson--Murfreesboro,00:00.0,36.2975,-86.6525,17
+Hamilton PS 46,pm25,µg/m³,US,RAVALLI,00:00.0,46.243621,-114.158889,4.033333333
+Hammond-167th St,pm25,µg/m³,US,Chicago-Naperville-Joliet,00:00.0,41.594427,-87.495044,25.91428571
+Harriman,pm25,µg/m³,US,Harriman,00:00.0,35.9386,-84.5439,9.666666667
+Harrisburg,pm25,µg/m³,US,Harrisburg-Carlisle,00:00.0,40.246992,-76.846988,6.4
+Hartford-Huntley,pm25,µg/m³,US,Hartford-West Hartford-East Hartford,00:00.0,41.771444,-72.679923,4.521428571
+Hattiesburg,pm25,µg/m³,US,Hattiesburg,00:00.0,31.322779,-89.287498,12.27857143
+Haverhill,pm25,µg/m³,US,Boston-Cambridge-Quincy,00:00.0,42.7708,-71.1028,2.615384615
+Havre,pm25,µg/m³,US,MT1,00:00.0,48.551019,-109.677483,6.571428571
+Haws Athletic Center,pm25,µg/m³,US,Dallas-Fort Worth-Arlington,00:00.0,32.7592,-97.3414,18.30714286
+Hawthorne,pm25,µg/m³,US,Salt Lake City,00:00.0,40.733501,-111.871696,11.58571429
+Healdton,pm25,µg/m³,US,Ardmore,00:00.0,34.256901,-97.474197,5.2
+Heritage Park,pm25,µg/m³,US,Kansas City,00:00.0,38.8386,-94.7464,6.078571429
+Herriman #3,pm25,µg/m³,US,Salt Lake City,00:00.0,40.496408,-112.036305,6.85
+Hidden Valley,pm25,µg/m³,US,PINAL,00:00.0,32.884761,-112.03705,10.57142857
+Hillcrest HS,pm25,µg/m³,US,Springfield,00:00.0,37.256069,-93.299692,8.891666667
+Hillsboro - Hare Fie,pm25,µg/m³,US,Portland-Vancouver-Beaverton,00:00.0,45.528501,-122.972398,13.58571429
+Hilo,pm25,µg/m³,US,Hilo,00:00.0,19.717562,-155.110535,3.142857143
+Hinds CC,pm25,µg/m³,US,Jackson,00:00.0,32.346905,-90.225928,20.13571429
+Hobbs Jefferson,pm25,µg/m³,US,Hobbs,00:00.0,32.7267,-103.1233,3.9
+Holbrook,pm25,µg/m³,US,GREENE,00:00.0,39.82,-80.2897,22.04
+Holtsville,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.8278,-73.0575,4.314285714
+Honolulu,pm25,µg/m³,US,Honolulu,00:00.0,21.310301,-157.858093,3.285714286
+Horicon Wildlife Are,pm25,µg/m³,US,DODGE,00:00.0,43.46611,-88.621109,8.842857143
+Horn Point,pm25,µg/m³,US,DORCHESTER,00:00.0,38.5876,-76.1408,13.25
+Houston,pm25,µg/m³,US,WASHINGTON,00:00.0,40.269,-80.244,17.25714286
+Houston Deer Park C3,pm25,µg/m³,US,Houston-Sugar Land-Baytown,00:00.0,29.670025,-95.128508,15.07857143
+Huron,pm25,µg/m³,US,FRESNO,00:00.0,36.1994,-120.0991,7.153846154
+Hurricane,pm25,µg/m³,US,WASHINGTON,00:00.0,37.179,-113.3052,8.035714286
+Hurst Road,pm25,µg/m³,US,Fairbanks,00:00.0,64.762973,-147.310297,2.090909091
+I25 Denver,pm25,µg/m³,US,Denver-Aurora,00:00.0,39.732144,-105.015313,10.73076923
+Idaho City,pm25,µg/m³,US,BOISE,00:00.0,43.823017,-115.838557,20.58333333
+Idaho Falls / Penfor,pm25,µg/m³,US,Idaho Falls,00:00.0,43.4683,-112.053101,7.428571429
+Indio - Jackson Stre,pm25,µg/m³,US,Riverside-San Bernardino-Ontario,00:00.0,33.708566,-116.215394,12.48333333
+Indio-29 Palms,pm25,µg/m³,US,N/A,00:00.0,33.71969,-116.1897,9.907142857
+Indpls - I-70 E,pm25,µg/m³,US,Indianapolis,00:00.0,39.787933,-86.13088,27.37142857
+Indpls-W.18th St,pm25,µg/m³,US,Indianapolis,00:00.0,39.7889,-86.2147,21.26428571
+"Iowa City, Hoover Sc",pm25,µg/m³,US,Iowa City,00:00.0,41.658195,-91.503471,26.65
+Ironton - ODOT,pm25,µg/m³,US,Portsmouth,00:00.0,38.508114,-82.659301,11.9
+JERSEYVL,pm25,µg/m³,US,JERSEY,00:00.0,39.101439,-90.344494,12.34285714
+JOHNSTON,pm25,µg/m³,US,Raleigh-Cary,00:00.0,35.59095,-78.4622,9.428571429
+JPRECC,pm25,µg/m³,US,Paducah,00:00.0,37.0581,-88.5725,17.25
+Jackson,pm25,µg/m³,US,Jackson,00:00.0,35.705338,-88.81959,16.58333333
+Jackson NCORE,pm25,µg/m³,US,Jackson,00:00.0,32.329111,-90.182722,15.35384615
+Jackson Road,pm25,µg/m³,US,Sarasota-Bradenton-Venice,00:00.0,27.0892,-82.3625,2.111111111
+Jean,pm25,µg/m³,US,Las Vegas-Paradise,00:00.0,35.785665,-115.357087,9.8
+Jefferson,pm25,µg/m³,US,Albuquerque,00:00.0,35.1441,-106.6044,21.52142857
+Jeffersonville - Bat,pm25,µg/m³,US,CLARK,00:00.0,38.288191,-85.741337,40.27142857
+Jerome Mack,pm25,µg/m³,US,Las Vegas-Paradise,00:00.0,36.141875,-115.078742,25.24285714
+Jersey City FH,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.725452,-74.052292,6.825
+Joe Neal,pm25,µg/m³,US,Las Vegas-Paradise,00:00.0,36.270592,-115.238282,6.585714286
+John A. Chesnut Sr.,pm25,µg/m³,US,Tampa-St. Petersburg-Clearwater,00:00.0,28.0903,-82.7008,3.1
+John Day Dayton St,pm25,µg/m³,US,GRANT,00:00.0,44.417999,-118.951302,21.82857143
+Johnstown,pm25,µg/m³,US,Johnstown,00:00.0,40.3097,-78.9158,13.52142857
+Joliet,pm25,µg/m³,US,WILL,00:00.0,41.526885,-88.116474,21.24285714
+KAHULUI,pm25,µg/m³,US,MAUI,00:00.0,20.869444,-156.492417,1.714285714
+KALAMAZOO,pm25,µg/m³,US,Kalamazoo-Portage,00:00.0,42.2781,-85.5419,6.35
+KILLENS,pm25,µg/m³,US,Dover,00:00.0,38.9847,-75.5556,13.5
+KNI-Topeka,pm25,µg/m³,US,Topeka,00:00.0,39.0242,-95.7114,12.59285714
+KNIGHT_P,pm25,µg/m³,US,Mount Vernon,00:00.0,38.088902,-88.625,17.53571429
+KS Hawaii,pm25,µg/m³,US,HAWAII,00:00.0,19.611915,-155.055038,3.5
+Kamiah-ID,pm25,µg/m³,US,IDAHO,00:00.0,46.2094,-116.027496,14.28
+Kapolei,pm25,µg/m³,US,Honolulu,00:00.0,21.323601,-158.088593,1.928571429
+Karnack C85,pm25,µg/m³,US,Marshall,00:00.0,32.6706,-94.1681,9.492857143
+Kaufman C71,pm25,µg/m³,US,Dallas-Fort Worth-Arlington,00:00.0,32.565,-96.3175,11.63571429
+Keeler,pm25,µg/m³,US,Bishop,00:00.0,36.4878,-117.871,5.2
+Keene,pm25,µg/m³,US,Keene,00:00.0,42.930521,-72.272332,1.625
+Kenner,pm25,µg/m³,US,New Orleans-Metairie-Kenner,00:00.0,30.0411,-90.2728,5.866666667
+Kennewick-Metaline,pm25,µg/m³,US,Kennewick-Richland-Pasco,00:00.0,46.2183,-119.2015,9.935714286
+Kent-James & Central,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,47.386101,-122.230202,7.785714286
+Kernville,pm25,µg/m³,US,KERN,00:00.0,35.755,-118.4175,23.31428571
+Ketchum,pm25,µg/m³,US,BLAINE,00:00.0,43.682556,-114.371094,3.857142857
+"Kihei, Maui",pm25,µg/m³,US,Kahului-Wailuku,00:00.0,20.7808,-156.4461,2.214285714
+King Greenleaf Rec C,pm25,µg/m³,US,Washington-Arlington-Alexandria,00:00.0,38.875161,-77.012816,9.142857143
+Kingery Near-road #1,pm25,µg/m³,US,Chicago-Naperville-Joliet,00:00.0,41.578603,-87.557392,24.53571429
+Kittanning,pm25,µg/m³,US,Pittsburgh,00:00.0,40.8142,-79.565,7.94
+Klamath Falls - Pete,pm25,µg/m³,US,Klamath Falls,00:00.0,42.190296,-121.731369,19.92857143
+Kona,pm25,µg/m³,US,Hilo,00:00.0,19.5097,-155.9133,2.142857143
+LACROSSE DOT,pm25,µg/m³,US,La Crosse,00:00.0,43.7781,-91.225,18.62142857
+LANSING FILLEY ST,pm25,µg/m³,US,Lansing-East Lansing,00:00.0,42.76138,-84.562867,3.907142857
+LEEDS,pm25,µg/m³,US,Birmingham-Hoover,00:00.0,33.5453,-86.5492,9.292857143
+LEGGETT,pm25,µg/m³,US,Rocky Mount,00:00.0,35.988278,-77.5843,9.5
+LIBERTY,pm25,µg/m³,US,Kansas City,00:00.0,39.303056,-94.376389,7.666666667
+LLCHD BAM,pm25,µg/m³,US,Lincoln,00:00.0,40.812558,-96.675733,2.428571429
+LOUDONMS,pm25,µg/m³,US,Knoxville,00:00.0,35.7197,-84.3417,7.916666667
+LUMS 2,pm25,µg/m³,US,Philadelphia-Camden-Wilmington,00:00.0,39.5511,-75.7308,12.15
+LWATTOWR,pm25,µg/m³,US,Thomasville-Lexington,00:00.0,35.8145,-80.2627,6.714285714
+LYNN,pm25,µg/m³,US,Boston-Cambridge-Quincy,00:00.0,42.474701,-70.971901,3
+La Grande Hall & N S,pm25,µg/m³,US,La Grande,00:00.0,45.3235,-118.0778,4.028571429
+Lacey-College St,pm25,µg/m³,US,Olympia,00:00.0,47.029301,-122.821503,8.607142857
+Lacrosse-Hill St,pm25,µg/m³,US,Pullman,00:00.0,46.8153,-117.8739,7.835714286
+Ladue,pm25,µg/m³,US,St. Louis,00:00.0,38.650259,-90.350463,24.94615385
+Lafayette,pm25,µg/m³,US,Lafayette,00:00.0,30.2258,-92.042801,10.72
+Lake City,pm25,µg/m³,US,Lake City,00:00.0,30.1783,-82.6192,3.155555556
+Lake Elsinore - W. F,pm25,µg/m³,US,Riverside-San Bernardino-Ontario,00:00.0,33.676535,-117.331027,19.36428571
+Lake Forest Park-Tow,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,47.755001,-122.280602,4.714285714
+Lake Ilo,pm25,µg/m³,US,DUNN,00:00.0,47.342589,-102.645997,1.714285714
+Lake Sugema,pm25,µg/m³,US,VAN BUREN,00:00.0,40.693298,-92.006104,18.375
+Lakeville - Near Roa,pm25,µg/m³,US,DAKOTA,00:00.0,44.706123,-93.285803,12.28571429
+Lancaster,pm25,µg/m³,US,Lancaster,00:00.0,40.0467,-76.2833,8.464285714
+Lancaster DW,pm25,µg/m³,US,Lancaster,00:00.0,40.0439,-76.1125,10.4
+Lancaster-Division,pm25,µg/m³,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.669589,-118.130689,14.85714286
+Laney College,pm25,µg/m³,US,San Francisco-Oakland-Fremont,00:00.0,37.793624,-122.263376,9.181818182
+Laramie County Mobil,pm25,µg/m³,US,Cheyenne,00:00.0,41.08536,-104.52277,2.769230769
+Laurel Oaks Elementa,pm25,µg/m³,US,Naples-Marco Island,00:00.0,26.2992,-81.72,4.422222222
+Lawrenceville,pm25,µg/m³,US,Pittsburgh,00:00.0,40.4656,-79.9611,18.85714286
+Lawton North,pm25,µg/m³,US,Lawton,00:00.0,34.632999,-98.428802,7.6
+Leavenworth-Evans St,pm25,µg/m³,US,Wenatchee,00:00.0,47.5988,-120.6647,12.01538462
+Lebanon,pm25,µg/m³,US,Lebanon,00:00.0,40.33733,-76.383446,7.178571429
+Lebec,pm25,µg/m³,US,KERN,00:00.0,34.8416,-118.8647,12
+Lee Vining,pm25,µg/m³,US,MONO,00:00.0,37.962069,-119.120278,2.892857143
+Leech Lake Nation: C,pm25,µg/m³,US,CASS,00:00.0,47.38443,-94.60166,4.153846154
+Lewistown,pm25,µg/m³,US,FERGUS,00:00.0,47.048537,-109.455315,5.775
+Libby Courthouse,pm25,µg/m³,US,LINCOLN,00:00.0,48.3841,-115.548,14.73846154
+Lincoln,pm25,µg/m³,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.89,-121.3,11.75
+Lindon,pm25,µg/m³,US,Provo-Orem,00:00.0,40.3414,-111.7136,9.607142857
+Livermore - Rincon,pm25,µg/m³,US,San Francisco-Oakland-Fremont,00:00.0,37.687526,-121.784217,6.916666667
+Lompoc H Street,pm25,µg/m³,US,Santa Barbara-Santa Maria,00:00.0,34.637798,-120.456703,7.428571429
+Londonderry - Moose,pm25,µg/m³,US,ROCKINGHAM,00:00.0,42.862531,-71.38014,3.846153846
+Long Creek,pm25,µg/m³,US,Seneca,00:00.0,34.805,-83.237503,3.4
+Longmont,pm25,µg/m³,US,Boulder,00:00.0,40.164585,-105.100861,11.12307692
+Longview-30th Ave,pm25,µg/m³,US,Longview,00:00.0,46.1394,-122.9619,9.457142857
+Look Rock - GSMNP,pm25,µg/m³,US,Knoxville,00:00.0,35.6322,-83.9422,8.785714286
+Loretto,pm25,µg/m³,US,Lawrenceburg,00:00.0,35.116866,-87.419726,17.16666667
+Los Angeles - N. Mai,pm25,µg/m³,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.066429,-118.226755,22.07142857
+Lyons,pm25,µg/m³,US,LINN,00:00.0,44.778743,-122.617048,12.67857143
+MA,pm25,µg/m³,US,Salt Lake City,00:00.0,40.712064,-112.111122,10.00714286
+MADISON EAST,pm25,µg/m³,US,Madison,00:00.0,43.1008,-89.3572,17.8
+MARION,pm25,µg/m³,US,Memphis,00:00.0,35.1967,-90.1911,8.9625
+MARYVILL,pm25,µg/m³,US,Knoxville,00:00.0,35.7683,-83.9422,7.916666667
+MATH & SCIENCE CTR,pm25,µg/m³,US,Richmond,00:00.0,37.55652,-77.40027,14.00714286
+MCADORY,pm25,µg/m³,US,Birmingham-Hoover,00:00.0,33.3311,-87.0036,8.621428571
+MENDNHAL,pm25,µg/m³,US,Greensboro-High Point,00:00.0,36.109006,-79.802314,6.357142857
+MICMAC,pm25,µg/m³,US,AROOSTOOK,00:00.0,46.6964,-68.033096,4.071428571
+MILITARY PARK,pm25,µg/m³,US,WAYNE,00:00.0,42.312078,-83.103469,9.183333333
+MILWAUKEE 16TH ST,pm25,µg/m³,US,Milwaukee-Waukesha-West Allis,00:00.0,43.0178,-87.9333,6.938461538
+MILWAUKEE COLLEGE AV,pm25,µg/m³,US,MILWAUKEE,00:00.0,42.93257,-87.93434,7.257142857
+MILWAUKEE SER DNR,pm25,µg/m³,US,Milwaukee-Waukesha-West Allis,00:00.0,43.0611,-87.9125,7
+MLK,pm25,µg/m³,US,Philadelphia-Camden-Wilmington,00:00.0,39.7394,-75.5581,10.4
+MMCA81006,pm25,µg/m³,US,CA8 - ARB,00:00.0,41.839188,-122.851245,3.428571429
+MMCA81010,pm25,µg/m³,US,CA8 - ARB,00:00.0,40.50524,-122.543371,7.461538462
+MMCA81015,pm25,µg/m³,US,SACRAMENTO,00:00.0,38.610935,-122.868862,3.153846154
+MMCA81016,pm25,µg/m³,US,CA8 - ARB,00:00.0,41.30427,-123.537247,10.61538462
+MMCA81024,pm25,µg/m³,US,CA8 - ARB,00:00.0,41.047111,-123.67522,31.78571429
+MMCA81026,pm25,µg/m³,US,CA8 - ARB,00:00.0,41.528063,-122.364457,7.444444444
+MMCA81027,pm25,µg/m³,US,CA8 - ARB,00:00.0,41.796273,-123.37522,28.57142857
+MMCA81032,pm25,µg/m³,US,CA8 - ARB,00:00.0,38.211447,-122.13295,0
+MMCA81033,pm25,µg/m³,US,CA8 - ARB,00:00.0,38.804247,-123.01825,2.625
+MMCA81036,pm25,µg/m³,US,CA8 - ARB,00:00.0,38.753157,-122.622163,4
+MMCA81042,pm25,µg/m³,US,CA8 - ARB,00:00.0,38.510685,-122.805905,3.769230769
+MMCA81046,pm25,µg/m³,US,CA8 - ARB,00:00.0,38.507606,-122.478955,4.428571429
+MMNPS1017,pm25,µg/m³,US,NPS,00:00.0,41.426761,-122.381108,4.818181818
+MOBILE - SANTA ANA,pm25,µg/m³,US,SANDOVAL,00:00.0,35.338407,-106.524292,7.571428571
+MON,pm25,µg/m³,US,PHILADELPHIA,00:00.0,39.988842,-75.207205,11.56428571
+MONTG,pm25,µg/m³,US,Montgomery,00:00.0,32.4069,-86.2564,15.7
+Macon Forestry,pm25,µg/m³,US,Macon,00:00.0,32.8031,-83.5447,5.18
+Madisonville,pm25,µg/m³,US,New Orleans-Metairie-Kenner,00:00.0,30.4293,-90.1997,7.035714286
+Madras - Westside Sc,pm25,µg/m³,US,JEFFERSON,00:00.0,44.6306,-121.131599,18.97142857
+Malta,pm25,µg/m³,US,PHILLIPS,00:00.0,48.317507,-107.862471,4.376923077
+Mammoth Cave NP,pm25,µg/m³,US,Bowling Green,00:00.0,37.1314,-86.1481,10.48571429
+Mammoth Lakes,pm25,µg/m³,US,MONO,00:00.0,37.645718,-118.966515,7.688888889
+Manhattan/IS143,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.8492,-73.9319,5.128571429
+Maple Falls-Azure Wa,pm25,µg/m³,US,WHATCOM,00:00.0,48.9477,-122.1471,8.564285714
+Marcus Hook,pm25,µg/m³,US,Philadelphia-Camden-Wilmington,00:00.0,39.818715,-75.413973,11.22857143
+Marshall,pm25,µg/m³,US,Marshall,00:00.0,44.4572,-95.835,4.428571429
+Marysville-7th Ave,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,48.055,-122.175797,13.92857143
+Maspeth,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.7269,-73.8933,3.853846154
+Mayo Clinic,pm25,µg/m³,US,Jacksonville,00:00.0,30.2603,-81.4533,2.885714286
+McAlester,pm25,µg/m³,US,McAlester,00:00.0,34.906082,-95.794128,7.8
+McCall,pm25,µg/m³,US,VALLEY,00:00.0,44.890197,-116.1065,14.71428571
+McDonough,pm25,µg/m³,US,Atlanta-Sandy Springs-Marietta,00:00.0,33.4347,-84.1617,9.146153846
+McMillan Reservoir,pm25,µg/m³,US,Washington-Arlington-Alexandria,00:00.0,38.921848,-77.013176,10.73333333
+Medford Welch & Jack,pm25,µg/m³,US,JACKSON,00:00.0,42.33155,-122.880266,13.04285714
+Merced - S. Coffee A,pm25,µg/m³,US,Merced,00:00.0,37.2817,-120.433601,23.46153846
+Mesa - Brooks Reserv,pm25,µg/m³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4105,-111.8651,4.785714286
+Mesa 2 /Nipomo,pm25,µg/m³,US,San Luis Obispo-Paso Robles,00:00.0,35.02079,-120.56389,12.6
+Mesa-Pepoit Way (tem,pm25,µg/m³,US,Kennewick-Richland-Pasco,00:00.0,46.5754,-119.0021,7.292307692
+Midlothian OFW C52,pm25,µg/m³,US,Dallas-Fort Worth-Arlington,00:00.0,32.482081,-97.026922,6.628571429
+Millbrook NCore,pm25,µg/m³,US,Raleigh-Cary,00:00.0,35.856111,-78.574167,12.21428571
+Miller State Park,pm25,µg/m³,US,Manchester-Nashua,00:00.0,42.86183,-71.878626,2.714285714
+Millington,pm25,µg/m³,US,KENT,00:00.0,39.305199,-75.797203,11
+Millville,pm25,µg/m³,US,Vineland-Millville-Bridgeton,00:00.0,39.422272,-75.0252,11.24166667
+Minidoka National Hi,pm25,µg/m³,US,JEROME,00:00.0,42.68,-114.2525,10.64285714
+Minneapolis-Near Roa,pm25,µg/m³,US,Minneapolis-St. Paul-Bloomington,00:00.0,44.9653,-93.2551,13.35714286
+Minneapolis-Phillips,pm25,µg/m³,US,Minneapolis-St. Paul-Bloomington,00:00.0,44.9536,-93.2581,16.71428571
+Mira Loma - Van Bure,pm25,µg/m³,US,Riverside-San Bernardino-Ontario,00:00.0,33.996387,-117.4925,28.15714286
+Mission Viejo,pm25,µg/m³,US,Los Angeles-Long Beach-Santa Ana,00:00.0,33.629991,-117.675875,8.95
+Missoula Boyd Park,pm25,µg/m³,US,MISSOULA,00:00.0,46.842297,-114.020549,10.37692308
+Mobile-Pomeroy,pm25,µg/m³,US,GARFIELD,00:00.0,46.474438,-117.614764,4.846153846
+Mobile-White Salmon,pm25,µg/m³,US,KLICKITAT,00:00.0,45.735931,-121.488398,5.430769231
+Modesto - 14th Stree,pm25,µg/m³,US,Modesto,00:00.0,37.642165,-120.994212,16.78571429
+Mojave - 923 Poole S,pm25,µg/m³,US,Bakersfield,00:00.0,35.05045,-118.14778,6
+Moore,pm25,µg/m³,US,Oklahoma City,00:00.0,35.32,-97.4883,11
+Moscow,pm25,µg/m³,US,Moscow,00:00.0,46.728199,-116.954597,4.357142857
+Moses Lake-Balsam St,pm25,µg/m³,US,Moses Lake,00:00.0,47.1303,-119.2726,10.20769231
+Mountain View,pm25,µg/m³,US,HAWAII,00:00.0,19.555445,-155.102036,3.214285714
+Mt Vernon-2nd Ave,pm25,µg/m³,US,Mount Vernon-Anacortes,00:00.0,48.410198,-122.337601,8.842857143
+"Muscatine, High Scho",pm25,µg/m³,US,MUSCATINE,00:00.0,41.4014,-91.0684,22.28571429
+NCORE,pm25,µg/m³,US,Omaha-Council Bluffs,00:00.0,41.2474,-95.9731,6.865
+NCore - White Mounta,pm25,µg/m³,US,Bishop,00:00.0,37.360701,-118.330835,3.842857143
+NEW,pm25,µg/m³,US,PHILADELPHIA,00:00.0,39.991389,-75.080833,10.67142857
+NEWTWN,pm25,µg/m³,US,Lexington-Fayette,00:00.0,38.065,-84.5,23.85833333
+NKU,pm25,µg/m³,US,Cincinnati-Middletown,00:00.0,39.0217,-84.4744,23.24285714
+NMH48217,pm25,µg/m³,US,WAYNE,00:00.0,42.261669,-83.157893,6.107142857
+NORMAL,pm25,µg/m³,US,Bloomington-Normal,00:00.0,40.5169,-88.9975,26.83571429
+NORTHBRK,pm25,µg/m³,US,Chicago-Naperville-Joliet,00:00.0,42.1406,-87.7994,12.96923077
+NR-Georgia Tech,pm25,µg/m³,US,Atlanta-Sandy Springs-Marietta,00:00.0,33.778315,-84.391418,11.52307692
+Nampa Fire Station,pm25,µg/m³,US,Boise City-Nampa,00:00.0,43.58031,-116.562676,19.46153846
+Napa - Napa Valley C,pm25,µg/m³,US,Napa,00:00.0,38.278849,-122.275024,1.818181818
+Naperville,pm25,µg/m³,US,Chicago-Naperville-Joliet,00:00.0,41.7714,-88.1522,24.08571429
+Neah Bay 2-Makah Tri,pm25,µg/m³,US,Port Angeles,00:00.0,48.366058,-124.610046,4.178571429
+Near Road,pm25,µg/m³,US,Louisville,00:00.0,38.1935,-85.7121,17.97916667
+New Garden,pm25,µg/m³,US,Philadelphia-Camden-Wilmington,00:00.0,39.8344,-75.7678,10.15
+New Haven - Criscuol,pm25,µg/m³,US,New Haven-Milford,00:00.0,41.301288,-72.902685,5.092857143
+New Milford,pm25,µg/m³,US,SUSQUEHANNA,00:00.0,41.867336,-75.686602,4.48
+Newark Firehouse,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.720989,-74.192894,3.791666667
+Newburgh,pm25,µg/m³,US,Poughkeepsie-Newburgh-Middletown,00:00.0,41.4994,-74.0097,4.7
+Nipomo Mesa CDF,pm25,µg/m³,US,SAN LUIS OBISPO,00:00.0,35.04676,-120.58777,10
+Nogales Post Office,pm25,µg/m³,US,Nogales,00:00.0,31.337204,-110.936722,28
+Norristown,pm25,µg/m³,US,Philadelphia-Camden-Wilmington,00:00.0,40.1122,-75.3092,8.692857143
+North Bend-North Ben,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,47.4902,-121.772697,1.142857143
+North OKC,pm25,µg/m³,US,Oklahoma City,00:00.0,35.612801,-97.472198,9.9
+North Phoenix,pm25,µg/m³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.560299,-112.066299,10.41428571
+North Valley,pm25,µg/m³,US,Albuquerque,00:00.0,35.187801,-106.603897,23.92142857
+Northampton,pm25,µg/m³,US,NORTHAMPTON,00:00.0,36.511708,-77.655389,11.71428571
+OWENPRI,pm25,µg/m³,US,Owensboro,00:00.0,37.7808,-87.0756,25.03333333
+Oak Harbor-SW 6th (U,pm25,µg/m³,US,ISLAND,00:00.0,48.294399,-122.660004,3.478571429
+Oakland,pm25,µg/m³,US,San Francisco-Oakland-Fremont,00:00.0,37.743061,-122.169907,7
+Oakland West,pm25,µg/m³,US,San Francisco-Oakland-Fremont,00:00.0,37.8148,-122.282402,8.833333333
+Oakridge - Willamett,pm25,µg/m³,US,Eugene-Springfield,00:00.0,43.74436,-122.480506,14.4
+Ocean View,pm25,µg/m³,US,Hilo,00:00.0,19.117561,-155.778137,1.714285714
+Ojai - Ojai Ave.,pm25,µg/m³,US,Oxnard-Thousand Oaks-Ventura,00:00.0,34.4483,-119.2303,6.090909091
+Omak-Colville Tribe,pm25,µg/m³,US,OKANOGAN,00:00.0,48.39999,-119.518959,14.42857143
+Orange Grove,pm25,µg/m³,US,PIMA,00:00.0,32.322573,-111.037709,6.928571429
+Otay Mesa - Donovan,pm25,µg/m³,US,San Diego-Carlsbad-San Marcos,00:00.0,32.579361,-116.929486,14.56666667
+PARR,pm25,µg/m³,US,Little Rock-North Little Rock,00:00.0,34.7561,-92.2758,9.733333333
+PASCAGOULA,pm25,µg/m³,US,Pascagoula,00:00.0,30.377501,-88.533897,9.484615385
+PC South Girard Scho,pm25,µg/m³,US,Columbus,00:00.0,32.437028,-84.999653,10.07142857
+PEORIA_J,pm25,µg/m³,US,Peoria,00:00.0,40.6978,-89.5889,23.32142857
+PERKINSTOWN,pm25,µg/m³,US,TAYLOR,00:00.0,45.2039,-90.6,9.6
+PIKE2001,pm25,µg/m³,US,PIKE,00:00.0,37.4828,-82.5353,12.92142857
+PITTAGCT,pm25,µg/m³,US,Greenville,00:00.0,35.641276,-77.360126,9.428571429
+POMPANO_BEACH,pm25,µg/m³,US,Miami-Fort Lauderdale-Miami Beach,00:00.0,26.2906,-80.0969,4.926666667
+PORT HURON,pm25,µg/m³,US,Detroit-Warren-Livonia,00:00.0,42.9533,-82.4564,5.778571429
+POTAWATOMI,pm25,µg/m³,US,FOREST,00:00.0,45.5639,-88.81,2.742857143
+PUBLIC HEALTH,pm25,µg/m³,US,Cedar Rapids,00:00.0,41.9767,-91.6878,24.57142857
+Padonia,pm25,µg/m³,US,Baltimore-Towson,00:00.0,39.462002,-76.631599,9.583333333
+Pahala,pm25,µg/m³,US,Hilo,00:00.0,19.2065,-155.4689,5.5
+Painesville - JFS,pm25,µg/m³,US,Cleveland-Elyria-Mentor,00:00.0,41.726811,-81.242156,3.428571429
+Paonia,pm25,µg/m³,US,DELTA,00:00.0,38.8763,-107.6022,5.935714286
+Paradise Theater,pm25,µg/m³,US,BUTTE,00:00.0,39.77919,-121.59135,2.909090909
+Parklane,pm25,µg/m³,US,Columbia,00:00.0,34.093899,-80.962196,7.17
+Paul Meyer,pm25,µg/m³,US,Las Vegas-Paradise,00:00.0,36.106389,-115.253333,9.657142857
+Pearl City,pm25,µg/m³,US,Honolulu,00:00.0,21.392834,-157.969131,3.5
+Pendleton - McKay Cr,pm25,µg/m³,US,Pendleton-Hermiston,00:00.0,45.652231,-118.823033,5.457142857
+Pepsi Place,pm25,µg/m³,US,Jacksonville,00:00.0,30.262808,-81.606834,3.135714286
+Phoenix JLG Supersit,pm25,µg/m³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.503601,-112.095001,31
+Pierre,pm25,µg/m³,US,HUGHES,00:00.0,44.373786,-100.287269,1.764285714
+Pinedale Gaseous,pm25,µg/m³,US,SUBLETTE,00:00.0,42.8698,-109.8708,2.153846154
+Pinehurst,pm25,µg/m³,US,FRESNO,00:00.0,36.6972,-119.0189,11.18214286
+Piney Run,pm25,µg/m³,US,GARRETT,00:00.0,39.705799,-79.011902,11.75
+Piru - Pacific,pm25,µg/m³,US,Oxnard-Thousand Oaks-Ventura,00:00.0,34.4044,-118.81,8.142857143
+PittsfieldES,pm25,µg/m³,US,BERKSHIRE,00:00.0,42.453035,-73.238776,5.5
+Pleasanton - Owens C,pm25,µg/m³,US,San Francisco-Oakland-Fremont,00:00.0,37.701222,-121.903019,8.75
+Plummer CDA Tribe,pm25,µg/m³,US,BENEWAH,00:00.0,47.3386,-116.885902,4.486666667
+Pocatello Garrett an,pm25,µg/m³,US,Pocatello,00:00.0,42.876701,-112.460297,6.071428571
+Ponca City,pm25,µg/m³,US,Ponca City,00:00.0,36.697189,-97.081278,6
+Port Angeles-E 5th S,pm25,µg/m³,US,CLALLAM,00:00.0,48.115,-123.436434,7.371428571
+Port Townsend-San Ju,pm25,µg/m³,US,JEFFERSON,00:00.0,48.129101,-122.7789,7.414285714
+Porterville-NFS,pm25,µg/m³,US,TULARE,00:00.0,36.0319,-119.055,28.25
+Portland - SE Lafaye,pm25,µg/m³,US,Portland-Vancouver-Beaverton,00:00.0,45.496641,-122.602877,20.83571429
+Portland - Sauvie Is,pm25,µg/m³,US,Portland-Vancouver-Beaverton,00:00.0,45.768531,-122.7721,7.821428571
+Portland Near Road,pm25,µg/m³,US,Portland-Vancouver-Beaverton,00:00.0,45.39916,-122.7455,17.99285714
+Portola,pm25,µg/m³,US,PLUMAS,00:00.0,39.808334,-120.471664,35.14285714
+Portsmouth,pm25,µg/m³,US,Boston-Cambridge-Quincy,00:00.0,43.075371,-70.748017,3.15
+Potosi,pm25,µg/m³,US,GRANT,00:00.0,42.692131,-90.696373,23.53076923
+Preble County,pm25,µg/m³,US,Dayton,00:00.0,39.83562,-84.72049,22.65833333
+Presque Isle Riversi,pm25,µg/m³,US,AROOSTOOK,00:00.0,46.682299,-68.016195,1
+Preston PM25 BAM,pm25,µg/m³,US,FRANKLIN,00:00.0,42.082222,-111.864167,4.538461538
+Prineville - Davidso,pm25,µg/m³,US,Prineville,00:00.0,44.299787,-120.844773,9.207142857
+Pullman-Dexter Ave,pm25,µg/m³,US,Pullman,00:00.0,46.7245,-117.1801,4.564285714
+Puyallup-128th St,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,47.140499,-122.299202,4.428571429
+Queens,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.7375,-73.8244,3.97
+Queens Near-road,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.739264,-73.817694,5.321428571
+Quincy 3rd,pm25,µg/m³,US,GRANT,00:00.0,47.24126,-119.84595,9.35
+Quincy BAM,pm25,µg/m³,US,PLUMAS,00:00.0,39.9369,-120.9478,15.35714286
+RG_SOUTH,pm25,µg/m³,US,Kansas City,00:00.0,38.75961,-94.57983,8.175
+RIT,pm25,µg/m³,US,PHILADELPHIA,00:00.0,39.922516,-75.186783,9.8
+RIVER_Terrace,pm25,µg/m³,US,Washington-Arlington-Alexandria,00:00.0,38.895683,-76.958089,9.357142857
+ROCK_IS,pm25,µg/m³,US,Davenport-Moline-Rock Island,00:00.0,41.5144,-90.5172,25.40714286
+ROLAND,pm25,µg/m³,US,Fort Smith,00:00.0,35.408138,-94.524414,8
+RT,pm25,µg/m³,US,CLARK,00:00.0,36.139707,-115.175654,17.74285714
+RUTLAND,pm25,µg/m³,US,Rutland,00:00.0,43.608528,-72.98246,3.278571429
+Rahway PM,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.603943,-74.276176,4.857142857
+Ranchos,pm25,µg/m³,US,DOUGLAS,00:00.0,38.897611,-119.732101,6.571428571
+"Rangely, CO",pm25,µg/m³,US,RIO BLANCO,00:00.0,40.086941,-108.761002,6.5
+Raymond-4th St,pm25,µg/m³,US,PACIFIC,00:00.0,46.688218,-123.731764,8.75
+Reading Airport,pm25,µg/m³,US,Reading,00:00.0,40.3833,-75.9686,8.042857143
+Red Bluff - Walnut o,pm25,µg/m³,US,Red Bluff,00:00.0,40.170917,-122.255667,8.866666667
+Red Lake Nation,pm25,µg/m³,US,BELTRAMI,00:00.0,47.878159,-95.029172,6.5
+Redwood City,pm25,µg/m³,US,San Francisco-Oakland-Fremont,00:00.0,37.4828,-122.2022,7.583333333
+Remount,pm25,µg/m³,US,Charlotte-Gastonia-Concord,00:00.0,35.213171,-80.874084,7.214285714
+Reno3,pm25,µg/m³,US,Reno-Sparks,00:00.0,39.52507,-119.807744,3.714285714
+Research Farm,pm25,µg/m³,US,BROOKINGS,00:00.0,44.348604,-96.807299,3.683333333
+Reseda,pm25,µg/m³,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.1992,-118.5331,20.15
+Rider University,pm25,µg/m³,US,Trenton-Ewing,00:00.0,40.283092,-74.742645,6.7625
+Rifle Particulate,pm25,µg/m³,US,GARFIELD,00:00.0,39.531799,-107.782303,7.333333333
+Rio Vista,pm25,µg/m³,US,Vallejo-Fairfield,00:00.0,38.2183,-121.77,8.5
+Ritzville-Alder St,pm25,µg/m³,US,ADAMS,00:00.0,47.127998,-118.381897,6.758333333
+Riverside,pm25,µg/m³,US,Chattanooga,00:00.0,35.0508,-85.2931,7.9
+Riverside - Rubidoux,pm25,µg/m³,US,Riverside-San Bernardino-Ontario,00:00.0,33.999449,-117.415831,25.35714286
+Rochester,pm25,µg/m³,US,Rochester,00:00.0,43.9947,-92.4497,18
+Rockford,pm25,µg/m³,US,Rockford,00:00.0,42.267002,-89.08917,26.07142857
+Rockland Cty,pm25,µg/m³,US,ROCKLAND,00:00.0,41.182079,-74.028191,4.025
+Rockville,pm25,µg/m³,US,Washington-Arlington-Alexandria,00:00.0,39.114399,-77.106903,11.54545455
+Rome,pm25,µg/m³,US,Rome,00:00.0,34.26054,-85.32333,7.633333333
+Roosvelt,pm25,µg/m³,US,DUCHESNE,00:00.0,40.2943,-110.009,6.842857143
+Rosalia-Josephine St,pm25,µg/m³,US,Pullman,00:00.0,47.2313,-117.3685,9.957142857
+Rose Elementary,pm25,µg/m³,US,Tucson,00:00.0,32.1731,-110.9797,8.714285714
+Rose Park,pm25,µg/m³,US,Salt Lake City,00:00.0,40.7955,-111.9309,18.59285714
+Roseburg - Garden Va,pm25,µg/m³,US,Roseburg,00:00.0,43.2266,-123.36479,18.9
+Roseville - N.Sunris,pm25,µg/m³,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.74643,-121.26498,11.21428571
+Rossiter Pump House,pm25,µg/m³,US,Helena,00:00.0,46.6588,-112.0131,7.525
+Rossville,pm25,µg/m³,US,Chattanooga,00:00.0,34.9789,-85.3009,11.98461538
+Rte 9 Del. City,pm25,µg/m³,US,NEW CASTLE,00:00.0,39.595001,-75.611,11.42142857
+Rumford,pm25,µg/m³,US,OXFORD,00:00.0,44.5514,-70.5463,4.142857143
+Rutgers University,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,40.462181,-74.429436,11.06666667
+SAND ISLAND 2 - ANUE,pm25,µg/m³,US,Honolulu,00:00.0,21.3039,-157.8711,4.285714286
+SEAFORD,pm25,µg/m³,US,Seaford,00:00.0,38.6444,-75.6131,13.43571429
+SENEY,pm25,µg/m³,US,SCHOOLCRAFT,00:00.0,46.2889,-85.9503,2.358333333
+SHELBY FARMS,pm25,µg/m³,US,Memphis,00:00.0,35.151588,-89.85022,8.764285714
+SPRINGFIELDSP,pm25,µg/m³,US,HAMPDEN,00:00.0,42.120248,-72.58499,5.357142857
+SPRNGDLE,pm25,µg/m³,US,Fayetteville-Springdale-Rogers,00:00.0,36.1797,-94.1167,6.88
+STILWELL CASTNET & N,pm25,µg/m³,US,ADAIR,00:00.0,35.750599,-94.669701,8.714285714
+SYDNEY,pm25,µg/m³,US,Tampa-St. Petersburg-Clearwater,00:00.0,27.9659,-82.230617,1.171428571
+Salem - State Hospit,pm25,µg/m³,US,Salem,00:00.0,44.943114,-123.005934,8.321428571
+Salladasburg,pm25,µg/m³,US,LYCOMING,00:00.0,41.266192,-77.230933,5.413333333
+Salmon PM2.5,pm25,µg/m³,US,LEMHI,00:00.0,45.178699,-113.892998,13.42857143
+San Andreas,pm25,µg/m³,US,CALAVERAS,00:00.0,38.20185,-120.680277,7.642857143
+San Antonio Old Hwy9,pm25,µg/m³,US,San Antonio,00:00.0,29.423933,-98.580505,17.91428571
+San Antonio Palo Alt,pm25,µg/m³,US,San Antonio,00:00.0,29.332803,-98.551396,16.52857143
+San Diego - Sherman,pm25,µg/m³,US,San Diego-Carlsbad-San Marcos,00:00.0,32.710177,-117.142665,7.75
+San Francisco,pm25,µg/m³,US,San Francisco-Oakland-Fremont,00:00.0,37.7658,-122.3978,7.666666667
+San Jose - Jackson S,pm25,µg/m³,US,San Jose-Sunnyvale-Santa Clara,00:00.0,37.3483,-121.8947,6.166666667
+San Jose - Knox Ave,pm25,µg/m³,US,San Jose-Sunnyvale-Santa Clara,00:00.0,37.338202,-121.849892,9.25
+San Luis Obispo - Hi,pm25,µg/m³,US,SAN LUIS OBISPO,00:00.0,35.25651,-120.6693,9.214285714
+San Pablo - Rumrill,pm25,µg/m³,US,San Francisco-Oakland-Fremont,00:00.0,37.9604,-122.3571,9.75
+San Rafael,pm25,µg/m³,US,San Francisco-Oakland-Fremont,00:00.0,37.9722,-122.5189,4.75
+Sandpoint U of I,pm25,µg/m³,US,BONNER,00:00.0,48.291821,-116.556557,9.214285714
+Santa Barbara,pm25,µg/m³,US,Santa Barbara-Santa Maria,00:00.0,34.42775,-119.69091,7.857142857
+Santa Clarita,pm25,µg/m³,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.3833,-118.5283,12.29285714
+Santa Fe Airport,pm25,µg/m³,US,Santa Fe,00:00.0,35.6198,-106.0797,6.363636364
+Santa Maria - Broadw,pm25,µg/m³,US,Santa Barbara-Santa Maria,00:00.0,34.942872,-120.435611,12.71428571
+Santa Teresa,pm25,µg/m³,US,Las Cruces,00:00.0,31.7878,-106.6828,14.72727273
+Scranton,pm25,µg/m³,US,Scranton--Wilkes-Barre,00:00.0,41.4428,-75.6231,4.642857143
+Seabrook Friendship,pm25,µg/m³,US,Houston-Sugar Land-Baytown,00:00.0,29.5831,-95.0156,9.169230769
+Seattle-10th & Welle,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,47.597222,-122.319722,6.75
+Seattle-Beacon Hill,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,47.568236,-122.308628,5.378571429
+Seattle-Duwamish,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,47.562,-122.3405,9.642857143
+Seattle-South Park,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,47.5309,-122.3208,8.4
+Seeley Elementary Sc,pm25,µg/m³,US,MISSOULA,00:00.0,47.17563,-113.476182,19.77692308
+Seiling,pm25,µg/m³,US,DEWEY,00:00.0,36.1589,-98.9353,4.7
+Sequoia and Kings Ca,pm25,µg/m³,US,Visalia-Porterville,00:00.0,36.489399,-118.826897,20.14285714
+Shady Cove - Shady C,pm25,µg/m³,US,Medford,00:00.0,42.623225,-122.810158,5.192857143
+Shakopee,pm25,µg/m³,US,Minneapolis-St. Paul-Bloomington,00:00.0,44.789398,-93.512497,11.28571429
+Sheffield Elementary,pm25,µg/m³,US,Jacksonville,00:00.0,30.4758,-81.5869,2.961538462
+Shelton-W Franklin,pm25,µg/m³,US,Shelton,00:00.0,47.213551,-123.100807,7.835714286
+Shenandoah NP,pm25,µg/m³,US,MADISON,00:00.0,38.5231,-78.4347,3.907142857
+Shreveport Airport,pm25,µg/m³,US,Shreveport-Bossier City,00:00.0,32.5364,-93.7492,8.2
+Shuttlesworth,pm25,µg/m³,US,Birmingham-Hoover,00:00.0,33.565278,-86.796389,8.4
+Sidney 201,pm25,µg/m³,US,RICHLAND,00:00.0,47.8679,-104.676864,2.48
+Simi Valley - Cochra,pm25,µg/m³,US,Oxnard-Thousand Oaks-Ventura,00:00.0,34.2775,-118.6847,9.461538462
+Sioux Falls,pm25,µg/m³,US,MINNEHAHA,00:00.0,43.54792,-96.700768,5.507142857
+Sisters Forest Servi,pm25,µg/m³,US,DESCHUTES,00:00.0,44.2921,-121.5555,3.671428571
+Sloughhouse,pm25,µg/m³,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.494475,-121.211131,9.5
+Smithfield,pm25,µg/m³,US,CACHE,00:00.0,41.842778,-111.85194,5.978571429
+Socorro Hueco C49,pm25,µg/m³,US,El Paso,00:00.0,31.66752,-106.28774,8.042857143
+South DeKalb,pm25,µg/m³,US,Atlanta-Sandy Springs-Marietta,00:00.0,33.6906,-84.2731,14.76
+South Long Beach,pm25,µg/m³,US,Los Angeles-Long Beach-Santa Ana,00:00.0,33.792221,-118.175278,21.53571429
+South Pass,pm25,µg/m³,US,Riverton,00:00.0,42.5275,-108.7203,0.818181818
+South Phoenix,pm25,µg/m³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4033,-112.0731,16.81428571
+South Valley,pm25,µg/m³,US,Albuquerque,00:00.0,35.0186,-106.651901,24.33571429
+Spanish Fork,pm25,µg/m³,US,Provo-Orem,00:00.0,40.136398,-111.660202,7.3
+Spanish Springs,pm25,µg/m³,US,Reno-Sparks,00:00.0,39.621462,-119.718738,8.214285714
+Sparks,pm25,µg/m³,US,Reno-Sparks,00:00.0,39.54092,-119.746764,15
+Spokane-Augusta Ave,pm25,µg/m³,US,Spokane,00:00.0,47.672501,-117.364899,8.714285714
+Spokane-E Broadway A,pm25,µg/m³,US,Spokane,00:00.0,47.663963,-117.257652,8.214285714
+Spokane-Monroe St.,pm25,µg/m³,US,Spokane,00:00.0,47.6997,-117.4263,11.20714286
+Springfield Ag,pm25,µg/m³,US,SANGAMON,00:00.0,39.831921,-89.644164,23.42142857
+Springfield City Hal,pm25,µg/m³,US,Eugene-Springfield,00:00.0,44.046683,-123.017736,8.807142857
+Springfield PM,pm25,µg/m³,US,Springfield,00:00.0,39.92882,-83.80949,22.60714286
+Springville,pm25,µg/m³,US,TULARE,00:00.0,36.1358,-118.8108,15.69285714
+Spruce Pine,pm25,µg/m³,US,MITCHELL,00:00.0,35.912487,-82.062082,9.285714286
+St. Andrews Park,pm25,µg/m³,US,Panama City-Lynn Haven,00:00.0,30.128901,-85.738098,9.111111111
+St. Cloud,pm25,µg/m³,US,Minneapolis-St. Paul-Bloomington,00:00.0,45.55,-94.1333,9.714285714
+St. Joseph,pm25,µg/m³,US,St. Joseph,00:00.0,39.741667,-94.858333,9.95
+St. Lukes Meridian,pm25,µg/m³,US,Boise City-Nampa,00:00.0,43.600699,-116.347853,20.63636364
+St. Maries,pm25,µg/m³,US,BENEWAH,00:00.0,47.3167,-116.570297,22.76923077
+St. Marks Wildlife R,pm25,µg/m³,US,Tallahassee,00:00.0,30.0842,-84.1617,3.944444444
+St. Michael,pm25,µg/m³,US,Minneapolis-St. Paul-Bloomington,00:00.0,45.2108,-93.6686,9.642857143
+St. Paul-Harding H.S,pm25,µg/m³,US,Minneapolis-St. Paul-Bloomington,00:00.0,44.9594,-93.0356,12.28571429
+State College,pm25,µg/m³,US,State College,00:00.0,40.8114,-77.8769,7.071428571
+Steubenville,pm25,µg/m³,US,Weirton-Steubenville,00:00.0,40.366452,-80.615691,16.67142857
+Stockton - Hazelton,pm25,µg/m³,US,Stockton,00:00.0,37.95075,-121.26897,12.92857143
+Stuart,pm25,µg/m³,US,MARTIN,00:00.0,27.172459,-80.240692,0.7
+Sunnyside-S 16th,pm25,µg/m³,US,YAKIMA,00:00.0,46.32033,-119.9981,17.62857143
+Sunrise Acres,pm25,µg/m³,US,Las Vegas-Paradise,00:00.0,36.163962,-115.11393,28.14285714
+Sweet Home - Fire De,pm25,µg/m³,US,Albany-Lebanon,00:00.0,44.3958,-122.7305,11.07857143
+Sycamore,pm25,µg/m³,US,Cincinnati-Middletown,00:00.0,39.2787,-84.36612,21.03571429
+TK Gregg,pm25,µg/m³,US,Spartanburg,00:00.0,34.955601,-81.924797,5.72
+TOR,pm25,µg/m³,US,PHILADELPHIA,00:00.0,40.054171,-74.985166,12.25714286
+TRINITY ST MARKS,pm25,µg/m³,US,Detroit-Warren-Livonia,00:00.0,42.295824,-83.129431,11.175
+TROUT LAKE,pm25,µg/m³,US,VILAS,00:00.0,46.0481,-89.6536,3.207692308
+Tacoma-Alexander Ave,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,47.2656,-122.3858,7.566666667
+Tacoma-L St,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,47.1864,-122.4517,8.5
+Tacoma-S 36th St,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,47.22634,-122.46256,8.461538462
+Taft,pm25,µg/m³,US,Cincinnati-Middletown,00:00.0,39.12886,-84.50404,22.26428571
+Tahoe City,pm25,µg/m³,US,PLACER,00:00.0,39.166,-120.1488,2.583333333
+Taholah-Quinault Tri,pm25,µg/m³,US,Aberdeen,00:00.0,47.339802,-124.291801,3.623076923
+Tallahassee Communit,pm25,µg/m³,US,Tallahassee,00:00.0,30.4397,-84.3483,4.022222222
+Taos Fire Station,pm25,µg/m³,US,Taos,00:00.0,36.3833,-105.5833,11
+Temecula (Lake Skinn,pm25,µg/m³,US,Riverside-San Bernardino-Ontario,00:00.0,33.583099,-117.072197,12.76153846
+Tempe,pm25,µg/m³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4124,-111.9347,7.607142857
+The Dalles - Cherry,pm25,µg/m³,US,City of The Dalles,00:00.0,45.602419,-121.203387,6.057142857
+Thibodaux,pm25,µg/m³,US,Houma-Bayou Cane-Thibodaux,00:00.0,29.7639,-90.7653,9.833333333
+Thompson Falls HS,pm25,µg/m³,US,SANDERS,00:00.0,47.594395,-115.323746,29.49230769
+Thousand Oaks - Moor,pm25,µg/m³,US,Oxnard-Thousand Oaks-Ventura,00:00.0,34.21,-118.8694,12.92857143
+Timpanogos Cave,pm25,µg/m³,US,UTAH,00:00.0,40.44194,-111.71341,3.142857143
+Tioga County,pm25,µg/m³,US,TIOGA,00:00.0,41.6447,-76.9392,4.771428571
+Toll,pm25,µg/m³,US,Reno-Sparks,00:00.0,39.399841,-119.739606,4
+Tonawanda II,pm25,µg/m³,US,ERIE,00:00.0,42.9981,-78.8993,5.722222222
+Toppenish-Yakama Tri,pm25,µg/m³,US,Yakima,00:00.0,46.380199,-120.332603,17.42857143
+Towanda,pm25,µg/m³,US,BRADFORD,00:00.0,41.705226,-76.512726,4.535714286
+TracyAP,pm25,µg/m³,US,Stockton,00:00.0,37.6825,-121.4406,6.307692308
+Tramway,pm25,µg/m³,US,Albuquerque,00:00.0,35.185,-106.5077,7.628571429
+Tranquillity,pm25,µg/m³,US,FRESNO,00:00.0,36.6324,-120.3822,5.769230769
+Trenton,pm25,µg/m³,US,Augusta-Richmond County,00:00.0,33.7397,-81.8536,6.97
+Triple Oak - Near Ro,pm25,µg/m³,US,Raleigh-Cary,00:00.0,35.8652,-78.8197,9.785714286
+Troost,pm25,µg/m³,US,Kansas City,00:00.0,39.10465,-94.57055,6.491666667
+Truckee BAM,pm25,µg/m³,US,Truckee-Grass Valley,00:00.0,39.3386,-120.170303,7.857142857
+Tukwila_Allentown,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,47.498535,-122.278385,7.876923077
+Tulalip-Totem Beach,pm25,µg/m³,US,Seattle-Tacoma-Bellevue,00:00.0,48.065339,-122.285194,1.278571429
+Tulsa,pm25,µg/m³,US,Tulsa,00:00.0,36.206699,-95.976402,21.8
+Turlock - S. Minaret,pm25,µg/m³,US,Modesto,00:00.0,37.4883,-120.8358,15.61538462
+Twin Falls PM25,pm25,µg/m³,US,TWIN FALLS,00:00.0,42.565089,-114.494717,8.285714286
+Twisp-Glover St,pm25,µg/m³,US,CHELAN,00:00.0,48.3645,-120.1211,10.12142857
+UC1,pm25,µg/m³,US,UNION,00:00.0,42.751518,-96.707208,5.392307692
+Ukiah Library,pm25,µg/m³,US,MENDOCINO,00:00.0,39.150478,-123.206528,3.166666667
+Underhill,pm25,µg/m³,US,Burlington-South Burlington,00:00.0,44.528389,-72.868973,2.464285714
+Uniontown,pm25,µg/m³,US,Pittsburgh,00:00.0,39.917663,-79.805499,19.13333333
+Unit0269,pm25,µg/m³,US,FS1 - Forest Service,00:00.0,38.979267,-105.352997,4.8
+Unit1029,pm25,µg/m³,US,FS1 - Forest Service,00:00.0,41.728574,-122.521505,15.93333333
+United Ave,pm25,µg/m³,US,Atlanta-Sandy Springs-Marietta,00:00.0,33.7206,-84.3578,12.02307692
+Upland,pm25,µg/m³,US,Riverside-San Bernardino-Ontario,00:00.0,34.10366,-117.629096,21.32857143
+Utica,pm25,µg/m³,US,Utica-Rome,00:00.0,43.0994,-75.225,3.15
+V_VIEW,pm25,µg/m³,US,Miami-Fort Lauderdale-Miami Beach,00:00.0,26.0732,-80.3386,1.714285714
+Vacaville,pm25,µg/m³,US,Vallejo-Fairfield,00:00.0,38.3525,-121.9617,7.333333333
+Vallejo,pm25,µg/m³,US,Vallejo-Fairfield,00:00.0,38.102507,-122.237976,1
+Vancouver-NE 84th Av,pm25,µg/m³,US,CLARK,00:00.0,45.64336,-122.58737,20.42857143
+Vernal #4,pm25,µg/m³,US,UINTAH,00:00.0,40.464722,-109.56083,4.6
+Victorville - Park A,pm25,µg/m³,US,Riverside-San Bernardino-Ontario,00:00.0,34.51,-117.3306,16.85714286
+Viking Lake State Pa,pm25,µg/m³,US,MONTGOMERY,00:00.0,40.970001,-95.044998,8
+Virginia,pm25,µg/m³,US,ST. LOUIS,00:00.0,47.5212,-92.5393,3.785714286
+Visalia - N. Church,pm25,µg/m³,US,Visalia-Porterville,00:00.0,36.33252,-119.29095,35.5
+W Greenwich,pm25,µg/m³,US,Providence-New Bedford-Fall River,00:00.0,41.615,-71.7197,2.8
+W OWEN SCH,pm25,µg/m³,US,Fayetteville,00:00.0,35.041416,-78.953112,7
+WARE,pm25,µg/m³,US,Springfield,00:00.0,42.298302,-72.334396,5.071428571
+WATSON,pm25,µg/m³,US,Louisville,00:00.0,38.0608,-85.8961,32.09285714
+WAUKESHA - CLEVELAND,pm25,µg/m³,US,Milwaukee-Waukesha-West Allis,00:00.0,43.0203,-88.215,17.12142857
+WAVELAND,pm25,µg/m³,US,Gulfport-Biloxi,00:00.0,30.3008,-89.395798,10.86428571
+WHlthDpt,pm25,µg/m³,US,Wichita,00:00.0,37.7011,-97.3139,3.257142857
+WIND CAVE,pm25,µg/m³,US,CUSTER,00:00.0,43.557613,-103.483658,2.063636364
+WY/KC,pm25,µg/m³,US,Kansas City,00:00.0,39.1175,-94.6356,11.8
+WYLAM,pm25,µg/m³,US,Birmingham-Hoover,00:00.0,33.4997,-86.9242,9.535714286
+Waco C1037,pm25,µg/m³,US,Waco,00:00.0,31.6531,-97.0706,16.70714286
+Walla Walla-12th St,pm25,µg/m³,US,Walla Walla,00:00.0,46.0588,-118.3514,4.221428571
+Ward,pm25,µg/m³,US,SUMTER,00:00.0,32.36253,-88.27792,12.47142857
+Warner Robins,pm25,µg/m³,US,Warner Robins,00:00.0,32.6056,-83.5979,5.4
+Waterbury,pm25,µg/m³,US,New Haven-Milford,00:00.0,41.5503,-73.0442,4.85
+"Waterloo, Water Towe",pm25,µg/m³,US,Waterloo-Cedar Falls,00:00.0,42.5014,-92.315804,20.85714286
+Watertown,pm25,µg/m³,US,CODINGTON,00:00.0,44.89965,-97.128802,6.192857143
+Weaverville,pm25,µg/m³,US,TRINITY,00:00.0,40.734722,-122.941109,12.07142857
+Wellpinit-Spokane Tr,pm25,µg/m³,US,STEVENS,00:00.0,47.885201,-117.988602,6.735714286
+Wenatchee-Fifth St,pm25,µg/m³,US,CHELAN,00:00.0,47.43061,-120.34195,16.56666667
+West Duluth,pm25,µg/m³,US,Duluth,00:00.0,46.743889,-92.166946,3.714285714
+West Phoenix,pm25,µg/m³,US,Phoenix-Mesa-Scottsdale,00:00.0,33.483799,-112.142601,23.20714286
+West Yellowstone Par,pm25,µg/m³,US,GALLATIN,00:00.0,44.657014,-111.089618,1.454545455
+Westlake,pm25,µg/m³,US,Lake Charles,00:00.0,30.2625,-93.285,11.57333333
+White Plains,pm25,µg/m³,US,New York-Northern New Jersey-Long Island,00:00.0,41.0522,-73.7642,4.207692308
+White Springs,pm25,µg/m³,US,HAMILTON,00:00.0,30.4264,-82.7947,2.988888889
+White Swan-Yakama Tr,pm25,µg/m³,US,YAKIMA,00:00.0,46.375431,-120.729317,16.58571429
+Whiteface Mtn,pm25,µg/m³,US,ESSEX,00:00.0,44.3647,-73.9017,2.264285714
+Williams Middle Scho,pm25,µg/m³,US,Florence,00:00.0,34.2143,-79.7673,7.34
+Willits Justice Cent,pm25,µg/m³,US,Ukiah,00:00.0,39.411743,-123.352661,2.8
+Willows-Colusa,pm25,µg/m³,US,GLENN,00:00.0,39.53387,-122.190834,6.928571429
+Winter Park,pm25,µg/m³,US,Orlando-Kissimmee,00:00.0,28.5997,-81.3628,2.683333333
+Winthrop-Chewuch Rd,pm25,µg/m³,US,OKANOGAN,00:00.0,48.4772,-120.1906,8.835714286
+Woodland,pm25,µg/m³,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.6619,-121.7278,19.91666667
+Worcester,pm25,µg/m³,US,Worcester,00:00.0,42.263901,-71.794701,5.285714286
+YMCA - Marion County,pm25,µg/m³,US,Ocala,00:00.0,29.170799,-82.1008,3.388888889
+YPSILANTI,pm25,µg/m³,US,Ann Arbor,00:00.0,42.24,-83.5997,8.007692308
+Yacolt-Yacolt Rd,pm25,µg/m³,US,CLARK,00:00.0,45.863899,-122.410889,6.285714286
+Yakima-4th Ave,pm25,µg/m³,US,Yakima,00:00.0,46.594952,-120.512283,22.07142857
+Yellowstone- Old Fai,pm25,µg/m³,US,TETON,00:00.0,44.373056,-110.830833,4.714285714
+York,pm25,µg/m³,US,York-Hanover,00:00.0,39.9653,-76.6994,10.40714286
+Yosemite Village - V,pm25,µg/m³,US,MARIPOSA,00:00.0,37.748707,-119.587094,15.92857143
+Youngstown - Head St,pm25,µg/m³,US,Youngstown-Warren-Boardman,00:00.0,41.095938,-80.658467,3.964285714
+Youngstown - Laird A,pm25,µg/m³,US,Youngstown-Warren-Boardman,00:00.0,41.23172,-80.80116,8.115384615
+Yreka,pm25,µg/m³,US,SISKIYOU,00:00.0,41.72679,-122.63359,5.714285714
+Yuba City,pm25,µg/m³,US,Yuba City,00:00.0,39.13868,-121.61884,22.07142857
+Yulee,pm25,µg/m³,US,Jacksonville,00:00.0,30.62673,-81.53597,2.166666667
+Yuma Supersite,pm25,µg/m³,US,Yuma,00:00.0,32.690277,-114.614441,14.28571429
+Zayante Fire Station,pm25,µg/m³,US,Santa Cruz-Watsonville,00:00.0,37.067003,-122.057206,2.071428571

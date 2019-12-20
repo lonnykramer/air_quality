@@ -1,0 +1,1133 @@
+<!-- COMMENTS - needed to use jupyter/pandas to convert the csv to df to html:
+  import pandas as pd
+
+# File to Load (Remember to Change These)
+pollution = "pollutants_csv.csv"
+
+# Read Purchasing File and store into Pandas data frame
+pollutants_df = pd.read_csv(pollution)
+
+cities_pd = pd.DataFrame(cities)
+
+cities_pd.to_html("cities_pd.html")
+# now move the html file to the required folder and the details and links needed with the other html files/pages
+
+-->
+
+
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="UTF-8">
+  <title>Pollutants Data</title>
+
+  <!-- Bootstrap CDN -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+
+
+
+  <!-- If wanting/needing two CSS files, one should to be commented out or they will cascade down on each other. -->
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+
+
+<!-- table shortened considerably! -->
+
+<body>
+  <!-- Creates the Overall Grid -->
+  <div class="container">
+
+    <!-- Creates the Overall Grid -->
+    <nav class="navbar navbar-expand-lg">
+      <a class="navbar-brand" href="index.html">Home</a>
+
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        <img id="drop_img" width="50" height="50" src="./visualizations/dropdown.png" alt="Drop_img">
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+              Pollutants
+            </a>
+
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="PM10.html">PM10</a>
+              <a class="dropdown-item" href="PM25.html">PM25</a>
+              <a class="dropdown-item" href="co_pollutant.html">Carbon Monoxide</a>
+              <a class="dropdown-item" href="so_pollutant.html">Sulphur Dioxide</a>
+              <a class="dropdown-item" href="ozone_pollutant.html">Ozone</a>
+              <a class="dropdown-item" href="no_pollutant.html">Nitrogen Dioxide</a>
+            </div>
+          </li>
+
+          <li>
+            <a href="https://www.cdc.gov/air/pollutants.htm" target="_blank">Airborne Pollutants</a></a>
+          </li>
+          <li>
+            <a href="maps.html">Pollution Maps1</a>
+          </li>
+          <li>
+            <a href="test_chart_js2.html">Pollution Maps2</a>
+          </li>
+          <li>
+            <a href="geomap.html">GeoMap</a>
+          </li>
+      </div>
+
+
+
+
+
+      </ul>
+    </nav>
+
+    <!-- Row 1 -->
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Pollutants Data</h1>
+
+
+      </div>
+    </div>
+
+    <table border="1" class="dataframe">
+      <thead>
+        <tr style="text-align: right;">
+          <th></th>
+          <th>location</th>
+          <th>city</th>
+          <th>country</th>
+          <th>utc</th>
+          <th>local</th>
+          <th>parameter</th>
+          <th>value</th>
+          <th>unit</th>
+          <th>latitude</th>
+          <th>longitude</th>
+          <th>attribution</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>0</th>
+          <td>Ladue</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T18:00:00.000Z</td>
+          <td>2019-11-09T12:00:00-06:00</td>
+          <td>pm25</td>
+          <td>3.300</td>
+          <td>�g/m�</td>
+          <td>38.650259</td>
+          <td>-90.350463</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>1</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T18:00:00.000Z</td>
+          <td>2019-11-09T12:00:00-06:00</td>
+          <td>o3</td>
+          <td>0.031</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>2</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T18:00:00.000Z</td>
+          <td>2019-11-09T12:00:00-06:00</td>
+          <td>no2</td>
+          <td>0.004</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>3</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T18:00:00.000Z</td>
+          <td>2019-11-09T12:00:00-06:00</td>
+          <td>co</td>
+          <td>0.260</td>
+          <td>ppm</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>4</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T18:00:00.000Z</td>
+          <td>2019-11-09T12:00:00-06:00</td>
+          <td>pm25</td>
+          <td>16.200</td>
+          <td>�g/m�</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>5</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T18:00:00.000Z</td>
+          <td>2019-11-09T12:00:00-06:00</td>
+          <td>pm25</td>
+          <td>8.400</td>
+          <td>�g/m�</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>6</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T18:00:00.000Z</td>
+          <td>2019-11-09T12:00:00-06:00</td>
+          <td>co</td>
+          <td>0.160</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>7</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T18:00:00.000Z</td>
+          <td>2019-11-09T12:00:00-06:00</td>
+          <td>so2</td>
+          <td>0.000</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>8</th>
+          <td>BROADWAY (South)</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T18:00:00.000Z</td>
+          <td>2019-11-09T12:00:00-06:00</td>
+          <td>pm25</td>
+          <td>7.300</td>
+          <td>�g/m�</td>
+          <td>38.542500</td>
+          <td>-90.263611</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>9</th>
+          <td>ARNOLD</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T18:00:00.000Z</td>
+          <td>2019-11-09T12:00:00-06:00</td>
+          <td>pm25</td>
+          <td>2.400</td>
+          <td>�g/m�</td>
+          <td>38.448581</td>
+          <td>-90.398436</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>10</th>
+          <td>ARNOLD</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T18:00:00.000Z</td>
+          <td>2019-11-09T12:00:00-06:00</td>
+          <td>pm10</td>
+          <td>12.000</td>
+          <td>�g/m�</td>
+          <td>38.448581</td>
+          <td>-90.398436</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>11</th>
+          <td>Herculaneum, Mott St</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T18:00:00.000Z</td>
+          <td>2019-11-09T12:00:00-06:00</td>
+          <td>so2</td>
+          <td>0.000</td>
+          <td>ppm</td>
+          <td>38.263394</td>
+          <td>-90.379667</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>12</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T18:00:00.000Z</td>
+          <td>2019-11-09T12:00:00-06:00</td>
+          <td>no2</td>
+          <td>0.005</td>
+          <td>ppm</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>13</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>no2</td>
+          <td>0.007</td>
+          <td>ppm</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>14</th>
+          <td>ARNOLD</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>pm25</td>
+          <td>4.100</td>
+          <td>�g/m�</td>
+          <td>38.448581</td>
+          <td>-90.398436</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>15</th>
+          <td>ARNOLD</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>pm10</td>
+          <td>11.000</td>
+          <td>�g/m�</td>
+          <td>38.448581</td>
+          <td>-90.398436</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>16</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>co</td>
+          <td>0.260</td>
+          <td>ppm</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>17</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>so2</td>
+          <td>0.001</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>18</th>
+          <td>BROADWAY (South)</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>pm25</td>
+          <td>7.000</td>
+          <td>�g/m�</td>
+          <td>38.542500</td>
+          <td>-90.263611</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>19</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>co</td>
+          <td>0.040</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>20</th>
+          <td>Ladue</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>pm25</td>
+          <td>6.200</td>
+          <td>�g/m�</td>
+          <td>38.650259</td>
+          <td>-90.350463</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>21</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>no2</td>
+          <td>0.006</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>22</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>pm25</td>
+          <td>5.000</td>
+          <td>�g/m�</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>23</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>o3</td>
+          <td>0.024</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>24</th>
+          <td>Herculaneum, Mott St</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>so2</td>
+          <td>0.000</td>
+          <td>ppm</td>
+          <td>38.263394</td>
+          <td>-90.379667</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>25</th>
+          <td>Alhambra</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>o3</td>
+          <td>0.029</td>
+          <td>ppm</td>
+          <td>38.869000</td>
+          <td>-89.622800</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>26</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T17:00:00.000Z</td>
+          <td>2019-11-09T11:00:00-06:00</td>
+          <td>pm25</td>
+          <td>13.100</td>
+          <td>�g/m�</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>27</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>no2</td>
+          <td>0.006</td>
+          <td>ppm</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>28</th>
+          <td>ARNOLD</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>pm25</td>
+          <td>0.800</td>
+          <td>�g/m�</td>
+          <td>38.448581</td>
+          <td>-90.398436</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>29</th>
+          <td>Herculaneum, Mott St</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>so2</td>
+          <td>0.000</td>
+          <td>ppm</td>
+          <td>38.263394</td>
+          <td>-90.379667</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>30</th>
+          <td>Alhambra</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>o3</td>
+          <td>0.028</td>
+          <td>ppm</td>
+          <td>38.869000</td>
+          <td>-89.622800</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>31</th>
+          <td>Ladue</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>pm25</td>
+          <td>4.700</td>
+          <td>�g/m�</td>
+          <td>38.650259</td>
+          <td>-90.350463</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>32</th>
+          <td>BROADWAY (South)</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>pm25</td>
+          <td>6.900</td>
+          <td>�g/m�</td>
+          <td>38.542500</td>
+          <td>-90.263611</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>33</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>co</td>
+          <td>0.060</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>34</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>pm25</td>
+          <td>4.100</td>
+          <td>�g/m�</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>35</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>co</td>
+          <td>0.260</td>
+          <td>ppm</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>36</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>no2</td>
+          <td>0.007</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>37</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>so2</td>
+          <td>0.001</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>38</th>
+          <td>ARNOLD</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>pm10</td>
+          <td>9.000</td>
+          <td>�g/m�</td>
+          <td>38.448581</td>
+          <td>-90.398436</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>39</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>o3</td>
+          <td>0.021</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>40</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T16:00:00.000Z</td>
+          <td>2019-11-09T10:00:00-06:00</td>
+          <td>pm25</td>
+          <td>8.700</td>
+          <td>�g/m�</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>41</th>
+          <td>ARNOLD</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>pm10</td>
+          <td>11.000</td>
+          <td>�g/m�</td>
+          <td>38.448581</td>
+          <td>-90.398436</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>42</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>pm25</td>
+          <td>6.300</td>
+          <td>�g/m�</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>43</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>no2</td>
+          <td>0.006</td>
+          <td>ppm</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>44</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>co</td>
+          <td>0.240</td>
+          <td>ppm</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>45</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>pm25</td>
+          <td>7.700</td>
+          <td>�g/m�</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>46</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>so2</td>
+          <td>0.000</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>47</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>o3</td>
+          <td>0.022</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>48</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>no2</td>
+          <td>0.006</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>49</th>
+          <td>Herculaneum, Mott St</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>so2</td>
+          <td>0.000</td>
+          <td>ppm</td>
+          <td>38.263394</td>
+          <td>-90.379667</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>50</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>co</td>
+          <td>0.020</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>51</th>
+          <td>Alhambra</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>o3</td>
+          <td>0.026</td>
+          <td>ppm</td>
+          <td>38.869000</td>
+          <td>-89.622800</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>52</th>
+          <td>BROADWAY (South)</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>pm25</td>
+          <td>6.900</td>
+          <td>�g/m�</td>
+          <td>38.542500</td>
+          <td>-90.263611</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>53</th>
+          <td>Ladue</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>pm25</td>
+          <td>4.400</td>
+          <td>�g/m�</td>
+          <td>38.650259</td>
+          <td>-90.350463</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>54</th>
+          <td>ARNOLD</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T15:00:00.000Z</td>
+          <td>2019-11-09T09:00:00-06:00</td>
+          <td>pm25</td>
+          <td>1.100</td>
+          <td>�g/m�</td>
+          <td>38.448581</td>
+          <td>-90.398436</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>55</th>
+          <td>Herculaneum, Mott St</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>so2</td>
+          <td>0.001</td>
+          <td>ppm</td>
+          <td>38.263394</td>
+          <td>-90.379667</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>56</th>
+          <td>Ladue</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>pm25</td>
+          <td>7.100</td>
+          <td>�g/m�</td>
+          <td>38.650259</td>
+          <td>-90.350463</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>57</th>
+          <td>BROADWAY (South)</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>pm25</td>
+          <td>9.300</td>
+          <td>�g/m�</td>
+          <td>38.542500</td>
+          <td>-90.263611</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>58</th>
+          <td>Alhambra</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>o3</td>
+          <td>0.025</td>
+          <td>ppm</td>
+          <td>38.869000</td>
+          <td>-89.622800</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>59</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>pm25</td>
+          <td>7.000</td>
+          <td>�g/m�</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>60</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>co</td>
+          <td>0.260</td>
+          <td>ppm</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>61</th>
+          <td>Forest Park</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>no2</td>
+          <td>0.008</td>
+          <td>ppm</td>
+          <td>38.631057</td>
+          <td>-90.281144</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>62</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>so2</td>
+          <td>0.000</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>63</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>pm25</td>
+          <td>2.300</td>
+          <td>�g/m�</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>64</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>no2</td>
+          <td>0.011</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>65</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>o3</td>
+          <td>0.016</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>66</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>co</td>
+          <td>0.000</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>67</th>
+          <td>ARNOLD</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>pm10</td>
+          <td>8.000</td>
+          <td>�g/m�</td>
+          <td>38.448581</td>
+          <td>-90.398436</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>68</th>
+          <td>ARNOLD</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T14:00:00.000Z</td>
+          <td>2019-11-09T08:00:00-06:00</td>
+          <td>pm25</td>
+          <td>0.100</td>
+          <td>�g/m�</td>
+          <td>38.448581</td>
+          <td>-90.398436</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>69</th>
+          <td>BLAIR STREET</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T13:00:00.000Z</td>
+          <td>2019-11-09T07:00:00-06:00</td>
+          <td>no2</td>
+          <td>0.012</td>
+          <td>ppm</td>
+          <td>38.656449</td>
+          <td>-90.198548</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+        <tr>
+          <th>70</th>
+          <td>Alhambra</td>
+          <td>St. Louis</td>
+          <td>US</td>
+          <td>2019-11-09T13:00:00.000Z</td>
+          <td>2019-11-09T07:00:00-06:00</td>
+          <td>o3</td>
+          <td>0.022</td>
+          <td>ppm</td>
+          <td>38.869000</td>
+          <td>-89.622800</td>
+          <td>[{"name":"US EPA AirNow","url":"http://www.air...</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+</body>
+
+</html>

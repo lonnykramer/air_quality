@@ -1,0 +1,238 @@
+location,parameter,unit,country,city,date.utc,coordinates_latitude,coordinates_longitude,avgvalue
+16th and Whitmore,so2,ppm,US,Omaha-Council Bluffs,00:00.0,41.322472,-95.937992,0.000210526
+ALLEN PARK,so2,ppm,US,Detroit-Warren-Livonia,00:00.0,42.2283,-83.2092,0.001195652
+APOLLO BEACH,so2,ppm,US,HILLSBOROUGH,00:00.0,27.779712,-82.419835,0.000326087
+Acadia NP - McFarlan,so2,ppm,US,HANCOCK,00:00.0,44.377048,-68.260902,0
+Akron NIFH/STEM,so2,ppm,US,Akron,00:00.0,41.07914,-81.51627,0
+Amanda  Elementary,so2,ppm,US,BUTLER,00:00.0,39.478849,-84.407675,0.000586957
+Anacortes-202 Ave (S,so2,ppm,US,SKAGIT,00:00.0,48.52059,-122.61428,0.000630435
+Andrew Johnson Elem.,so2,ppm,US,Kingsport-Bristol-Bristol,00:00.0,36.526416,-82.528679,0.001575
+Arden Arcade - Del P,so2,ppm,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.613804,-121.368007,4.44E-05
+Augusta,so2,ppm,US,Augusta-Richmond County,00:00.0,33.4333,-82.0219,0
+BAYVIEW,so2,ppm,US,BEAUFORT,00:00.0,35.428,-76.74,0
+BELLFNT2,so2,ppm,US,Philadelphia-Camden-Wilmington,00:00.0,39.773899,-75.496399,0.000478261
+BLAIR STREET,so2,ppm,US,St. Louis,00:00.0,38.656449,-90.198548,0.000690476
+BOSTON-KENMORE,so2,ppm,US,Boston-Cambridge-Quincy,00:00.0,42.3489,-71.097702,0.000444444
+Bayonne,so2,ppm,US,New York-Northern New Jersey-Long Island,00:00.0,40.67025,-74.126083,0.000409091
+Bean,so2,ppm,US,MINERAL,00:00.0,39.4452,-79.0691,0.002875
+Bethel Island,so2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,38.006311,-121.641918,0.000777778
+Billings Coburn Rd,so2,ppm,US,YELLOWSTONE,00:00.0,45.786579,-108.45878,0.000866667
+Blaine,so2,ppm,US,Minneapolis-St. Paul-Bloomington,00:00.0,45.1425,-93.2139,2.33E-05
+Bloomfield,so2,ppm,US,Farmington,00:00.0,36.7422,-107.9769,0
+Bondville,so2,ppm,US,Champaign-Urbana,00:00.0,40.0519,-88.3724,0.000119048
+Boston - Roxbury,so2,ppm,US,Boston-Cambridge-Quincy,00:00.0,42.329399,-71.082497,0.000422222
+Bridgeport,so2,ppm,US,Bridgeport-Stamford-Norwalk,00:00.0,41.171398,-73.195297,0.000681818
+Brigantine,so2,ppm,US,Atlantic City,00:00.0,39.46487,-74.448738,0
+Buick NE,so2,ppm,US,IRON,00:00.0,37.652142,-91.11653,0.002477273
+CHICK.,so2,ppm,US,Mobile,00:00.0,30.7697,-88.0875,0.001045455
+Calexico - Ethel Str,so2,ppm,US,El Centro,00:00.0,32.67618,-115.48307,0.000578947
+Camden Spruce St,so2,ppm,US,Philadelphia-Camden-Wilmington,00:00.0,39.934446,-75.125291,0.000227273
+Cannons Lane,so2,ppm,US,Louisville,00:00.0,38.2286,-85.6544,0.000181818
+Canton DRR,so2,ppm,US,HAYWOOD,00:00.0,35.534,-82.853,0.000340909
+Cape Romain,so2,ppm,US,Charleston-North Charleston,00:00.0,32.941002,-79.656998,0
+Cedar Bay,so2,ppm,US,DUVAL,00:00.0,30.431111,-81.631944,2.17E-05
+Cedar Bluff,so2,ppm,US,TREGO,00:00.0,38.7703,-99.7636,8.70E-05
+Central Phoenix,so2,ppm,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4579,-112.046,0.0015
+Chalmette Vista,so2,ppm,US,New Orleans-Metairie-Kenner,00:00.0,29.9431,-89.9761,0.00125
+Chanute,so2,ppm,US,NEOSHO,00:00.0,37.67696,-95.47594,0.000244444
+Cheeka Peak,so2,ppm,US,Port Angeles,00:00.0,48.2867,-124.6203,0
+Cheshire,so2,ppm,US,GALLIA,00:00.0,38.949976,-82.110097,0.000340909
+Chester,so2,ppm,US,New York-Northern New Jersey-Long Island,00:00.0,40.787628,-74.6763,0.000272727
+Cheyenne NCore,so2,ppm,US,Cheyenne,00:00.0,41.18222,-104.778336,0.000891304
+"Clinton, Chancy Park",so2,ppm,US,Clinton,00:00.0,41.823101,-90.211899,2.33E-05
+Colerain,so2,ppm,US,Cincinnati-Middletown,00:00.0,39.21494,-84.69086,0.000652174
+Collins Park,so2,ppm,US,Toledo,00:00.0,41.663405,-83.47596,0
+Colorado Springs - H,so2,ppm,US,Colorado Springs,00:00.0,38.830895,-104.839243,0.00102381
+Columbia,so2,ppm,US,WARREN,00:00.0,40.924606,-75.067825,0.000704545
+Columbus - Fairgroun,so2,ppm,US,Columbus,00:00.0,40.002734,-82.994404,0
+Concord,so2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.9383,-122.025,0.000404762
+Congaree Bluff,so2,ppm,US,Columbia,00:00.0,33.814701,-80.781097,0
+Conneaut,so2,ppm,US,Ashtabula,00:00.0,41.959695,-80.572808,0.000232558
+Copper View,so2,ppm,US,Salt Lake City,00:00.0,40.598056,-111.894167,0.000844444
+Cornwall,so2,ppm,US,Torrington,00:00.0,41.833099,-73.303299,0.000590909
+Crystal River Preser,so2,ppm,US,Homosassa Springs,00:00.0,28.958372,-82.643094,0.001027778
+DAVIS ISLAND,so2,ppm,US,Tampa-St. Petersburg-Clearwater,00:00.0,27.9283,-82.4547,0.001108696
+DET POLICE 4TH,so2,ppm,US,Detroit-Warren-Livonia,00:00.0,42.312158,-83.091943,0.001086957
+DETROIT - SOUTHWEST,so2,ppm,US,Detroit-Warren-Livonia,00:00.0,42.3042,-83.1072,0.001066667
+"Davenport, 10th & Vi",so2,ppm,US,Davenport-Moline-Rock Island,00:00.0,41.529999,-90.587502,0.000295455
+Del Norte,so2,ppm,US,Albuquerque,00:00.0,35.1353,-106.584702,0.000913043
+Denver - CAMP - 2105,so2,ppm,US,Denver-Aurora,00:00.0,39.751099,-104.987198,0.000636364
+Durango Complex,so2,ppm,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4265,-112.1181,0.001456522
+Durham Armory,so2,ppm,US,Durham,00:00.0,36.032955,-78.904037,0.000431818
+E Providence,so2,ppm,US,Providence-New Bedford-Fall River,00:00.0,41.840302,-71.361702,0.000285714
+EAST BAY,so2,ppm,US,HILLSBOROUGH,00:00.0,27.853897,-82.383414,0.004
+EAST VINTON ELEMENTA,so2,ppm,US,Roanoke,00:00.0,37.285599,-79.884201,0.001043478
+East High School,so2,ppm,US,Akron,00:00.0,41.063526,-81.468956,0.000111111
+East Liverpool,so2,ppm,US,East Liverpool-Salem,00:00.0,40.631972,-80.547296,0
+Eastlake,so2,ppm,US,Cleveland-Elyria-Mentor,00:00.0,41.673006,-81.422455,0.002068182
+Eastman Ross N Robin,so2,ppm,US,Kingsport-Bristol-Bristol,00:00.0,36.532616,-82.516303,0.002642857
+Elizabeth,so2,ppm,US,UNION,00:00.0,40.662388,-74.214813,9.52E-05
+Elizabeth Trailer,so2,ppm,US,New York-Northern New Jersey-Long Island,00:00.0,40.641441,-74.208366,0.000363636
+Essex,so2,ppm,US,Baltimore-Towson,00:00.0,39.310833,-76.474444,0.001857143
+Evansville-Buena Vis,so2,ppm,US,Evansville,00:00.0,38.0133,-87.5772,0
+FBHWWTP,so2,ppm,US,NASSAU,00:00.0,30.6575,-81.464167,0.002176471
+FRANCONIA,so2,ppm,US,Washington-Arlington-Alexandria,00:00.0,38.771702,-77.108902,0.000586957
+Fall River,so2,ppm,US,Providence-New Bedford-Fall River,00:00.0,41.6833,-71.169701,0.00025
+Fire Station 13,so2,ppm,US,CUYAHOGA,00:00.0,41.471782,-81.656792,0.0015
+Firearms Training,so2,ppm,US,Louisville,00:00.0,38.23158,-85.82675,0.001113636
+Fontana - Arrow High,so2,ppm,US,Riverside-San Bernardino-Ontario,00:00.0,34.100132,-117.491982,0.000826087
+Fresno - Garland,so2,ppm,US,FRESNO,00:00.0,36.78538,-119.77321,8.70E-05
+Ft. Gibson,so2,ppm,US,Muskogee,00:00.0,35.775801,-95.287164,0
+G.T.Craig,so2,ppm,US,Cleveland-Elyria-Mentor,00:00.0,41.492191,-81.678552,0
+GRAND RAPIDS,so2,ppm,US,Grand Rapids-Wyoming,00:00.0,42.984699,-85.671097,0.000116279
+GREEN BAY E HIGH,so2,ppm,US,Green Bay,00:00.0,44.5167,-87.9939,0.000318182
+Gardiner,so2,ppm,US,Augusta-Waterville,00:00.0,44.230621,-69.785004,0.000177778
+Gary-IITRI,so2,ppm,US,Chicago-Naperville-Joliet,00:00.0,41.6067,-87.3047,0.001195652
+Greenville-ESC,so2,ppm,US,Greenville,00:00.0,34.843899,-82.414597,0.000578947
+HAMPTON,so2,ppm,US,Virginia Beach-Norfolk-Newport News,00:00.0,37.103683,-76.386948,0
+HATTIEAVEN,so2,ppm,US,Winston-Salem,00:00.0,36.1106,-80.2267,0.001744186
+HU-Beltsville,so2,ppm,US,Washington-Arlington-Alexandria,00:00.0,39.055302,-76.878304,0.000204545
+Hackney,so2,ppm,US,MORGAN,00:00.0,39.632301,-81.670097,0.0008
+Hammond-141st St,so2,ppm,US,Chicago-Naperville-Joliet,00:00.0,41.6394,-87.4936,0.000177778
+Happy Hill,so2,ppm,US,Kingsport-Bristol-Bristol,00:00.0,36.513052,-82.550459,0.001071429
+Harvard Yards,so2,ppm,US,CUYAHOGA,00:00.0,41.446682,-81.662419,0.00073913
+Hawaii Volcanoes NP,so2,ppm,US,Hilo,00:00.0,19.4308,-155.2578,0.0016
+Hawthorne,so2,ppm,US,Salt Lake City,00:00.0,40.733501,-111.871696,0.001065217
+Hayden,so2,ppm,US,GILA,00:00.0,33.006268,-110.786484,0.00202381
+"Herculaneum, Mott St",so2,ppm,US,St. Louis,00:00.0,38.263394,-90.379667,0.001409091
+Hilo,so2,ppm,US,Hilo,00:00.0,19.717562,-155.110535,0.000395349
+Honolulu,so2,ppm,US,Honolulu,00:00.0,21.310301,-157.858093,0
+Horicon Wildlife Are,so2,ppm,US,DODGE,00:00.0,43.46611,-88.621109,4.76E-05
+Horn Point,so2,ppm,US,DORCHESTER,00:00.0,38.5876,-76.1408,0.000255814
+Horse Rock,so2,ppm,US,ALLEGANY,00:00.0,39.483617,-79.026383,0.002136364
+Indpls-Harding St,so2,ppm,US,Indianapolis,00:00.0,39.7489,-86.1861,2.22E-05
+Indpls-Washington Pa,so2,ppm,US,Indianapolis,00:00.0,39.8108,-86.1147,0.000258065
+Irmo,so2,ppm,US,Columbia,00:00.0,34.051102,-81.154999,0
+Ironton - ODOT,so2,ppm,US,Portsmouth,00:00.0,38.508114,-82.659301,0.000204545
+JAMESVIL,so2,ppm,US,MARTIN,00:00.0,35.81066,-76.906249,6.82E-05
+Jackson NCORE,so2,ppm,US,Jackson,00:00.0,32.329111,-90.182722,0.000333333
+Jenkins Avenue,so2,ppm,US,Charleston-North Charleston,00:00.0,32.88229,-79.977539,0.000184211
+Jerome Mack,so2,ppm,US,Las Vegas-Paradise,00:00.0,36.141875,-115.078742,0.0015
+Jersey City,so2,ppm,US,New York-Northern New Jersey-Long Island,00:00.0,40.731689,-74.066566,0.000340909
+KS Hawaii,so2,ppm,US,HAWAII,00:00.0,19.611915,-155.055038,0.000282609
+Kapolei,so2,ppm,US,Honolulu,00:00.0,21.323601,-158.088593,0
+Kona,so2,ppm,US,Hilo,00:00.0,19.5097,-155.9133,0
+Kooker Park,so2,ppm,US,DUVAL,00:00.0,30.356111,-81.635556,0.001304348
+Kremlin,so2,ppm,US,GARFIELD,00:00.0,36.512293,-97.845627,0
+LANSING FILLEY ST,so2,ppm,US,Lansing-East Lansing,00:00.0,42.76138,-84.562867,0.001043478
+LAX-Hastings,so2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,33.95507,-118.43046,4.35E-05
+LENOIR,so2,ppm,US,Hickory-Lenoir-Morganton,00:00.0,35.9359,-81.5306,0.001
+LUMS 2,so2,ppm,US,Philadelphia-Camden-Wilmington,00:00.0,39.5511,-75.7308,0.000347826
+La Casa NCORE - 4545,so2,ppm,US,Denver-Aurora,00:00.0,39.7794,-105.00523,0.001121951
+Lake Ilo,so2,ppm,US,DUNN,00:00.0,47.342589,-102.645997,0.000173913
+Lake Sugema,so2,ppm,US,VAN BUREN,00:00.0,40.693298,-92.006104,0.000189189
+Laramie County Mobil,so2,ppm,US,Cheyenne,00:00.0,41.08536,-104.52277,0.000361702
+Londonderry - Moose,so2,ppm,US,ROCKINGHAM,00:00.0,42.862531,-71.38014,0.000478261
+Long Beach - Hudson,so2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,33.802417,-118.219933,0.000159091
+Long Creek,so2,ppm,US,Seneca,00:00.0,34.805,-83.237503,0
+Los Angeles - N. Mai,so2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.066429,-118.226755,0.000108696
+MA,so2,ppm,US,Salt Lake City,00:00.0,40.712064,-112.111122,0.002155556
+MADISON EAST,so2,ppm,US,Madison,00:00.0,43.1008,-89.3572,0.00025
+MATH & SCIENCE CTR,so2,ppm,US,Richmond,00:00.0,37.55652,-77.40027,0.000272727
+MICMAC,so2,ppm,US,AROOSTOOK,00:00.0,46.6964,-68.033096,0
+MILITARY PARK,so2,ppm,US,WAYNE,00:00.0,42.312078,-83.103469,0.001326087
+MILWAUKEE SER DNR,so2,ppm,US,Milwaukee-Waukesha-West Allis,00:00.0,43.0611,-87.9125,0
+MLK,so2,ppm,US,Philadelphia-Camden-Wilmington,00:00.0,39.7394,-75.5581,0.000978261
+MONROE STERLING ST P,so2,ppm,US,MONROE,00:00.0,41.92357,-83.345858,0.000130435
+Macon Forestry,so2,ppm,US,Macon,00:00.0,32.8031,-83.5447,0
+Made,so2,ppm,US,BUTLER,00:00.0,39.464718,-84.403774,0.00273913
+McMillan NCORE,so2,ppm,US,WASHINGTON,00:00.0,38.921848,-77.013176,0.000586957
+Mesa 2 /Nipomo,so2,ppm,US,San Luis Obispo-Paso Robles,00:00.0,35.02079,-120.56389,0
+Miami Jones Ranch,so2,ppm,US,GILA,00:00.0,33.3855,-110.867267,0.000956522
+Miami Town Site,so2,ppm,US,GILA,00:00.0,33.397433,-110.87445,0.000627907
+Millbrook NCore,so2,ppm,US,Raleigh-Cary,00:00.0,35.856111,-78.574167,0.000136364
+Miller State Park,so2,ppm,US,Manchester-Nashua,00:00.0,42.86183,-71.878626,0.000326087
+Minneapolis-Downtown,so2,ppm,US,Minneapolis-St. Paul-Bloomington,00:00.0,44.979,-93.2737,0.001155556
+Montevallo,so2,ppm,US,Birmingham-Hoover,00:00.0,33.0928,-86.8072,0.000527778
+Moran,so2,ppm,US,ALLEGANY,00:00.0,39.4864,-79.0638,0.000302326
+Mountain View,so2,ppm,US,HAWAII,00:00.0,19.555445,-155.102036,0.001413043
+Moxa Arch,so2,ppm,US,SWEETWATER,00:00.0,41.750599,-109.789703,0.000818182
+Mud Run,so2,ppm,US,Springfield,00:00.0,39.85567,-83.99773,8.70E-05
+"Muscatine, Greenwood",so2,ppm,US,Muscatine,00:00.0,41.419201,-91.070801,0.000318182
+"Muscatine, High Scho",so2,ppm,US,MUSCATINE,00:00.0,41.4014,-91.0684,0.000522727
+"Muscatine, Musser Pa",so2,ppm,US,Muscatine,00:00.0,41.407799,-91.0625,0.000363636
+NCORE,so2,ppm,US,BROWARD,00:00.0,26.054047,-80.257608,0.00051087
+NCore,so2,ppm,US,Fairbanks,00:00.0,64.8458,-147.72727,0.001114286
+NCore - White Mounta,so2,ppm,US,Bishop,00:00.0,37.360701,-118.330835,0
+NEW,so2,ppm,US,PHILADELPHIA,00:00.0,39.991389,-75.080833,0.000931818
+NMH48217,so2,ppm,US,WAYNE,00:00.0,42.261669,-83.157893,0.001478261
+NORFOLK - NOAA,so2,ppm,US,Virginia Beach-Norfolk-Newport News,00:00.0,36.85555,-76.30135,0.00023913
+New Albany,so2,ppm,US,Louisville,00:00.0,38.3081,-85.8342,0.002108696
+New Haven - Criscuol,so2,ppm,US,New Haven-Milford,00:00.0,41.301288,-72.902685,0.000659091
+Newark Firehouse,so2,ppm,US,New York-Northern New Jersey-Long Island,00:00.0,40.720989,-74.192894,0.000295455
+North OKC,so2,ppm,US,Oklahoma City,00:00.0,35.612801,-97.472198,0
+Oakland West,so2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.8148,-122.282402,2.50E-05
+Ocean View,so2,ppm,US,Hilo,00:00.0,19.117561,-155.778137,0.000204545
+PASCAGOULA,so2,ppm,US,Pascagoula,00:00.0,30.377501,-88.533897,0
+PECK,so2,ppm,US,Wichita,00:00.0,37.4769,-97.3664,0.000514286
+PORT HURON,so2,ppm,US,Detroit-Warren-Livonia,00:00.0,42.9533,-82.4564,0.004066667
+POTAWATOMI,so2,ppm,US,FOREST,00:00.0,45.5639,-88.81,0.000577778
+PUBLIC HEALTH,so2,ppm,US,Cedar Rapids,00:00.0,41.9767,-91.6878,0.000477273
+Pahala,so2,ppm,US,Hilo,00:00.0,19.2065,-155.4689,0.003454545
+Painesville - JFS,so2,ppm,US,Cleveland-Elyria-Mentor,00:00.0,41.726811,-81.242156,0.00023913
+Parklane,so2,ppm,US,Columbia,00:00.0,34.093899,-80.962196,6.25E-05
+Pembroke Exchange St,so2,ppm,US,MERRIMACK,00:00.0,43.13246,-71.458246,0.001
+Phoenix JLG Supersit,so2,ppm,US,Phoenix-Mesa-Scottsdale,00:00.0,33.503601,-112.095001,0.001521739
+Piney Run,so2,ppm,US,GARRETT,00:00.0,39.705799,-79.011902,0.000538462
+Pocatello STP,so2,ppm,US,Pocatello,00:00.0,42.916401,-112.5158,0.006727273
+Ponca City,so2,ppm,US,Ponca City,00:00.0,36.697189,-97.081278,0
+Port Manatee,so2,ppm,US,MANATEE,00:00.0,27.638611,-82.547778,0.000138889
+Portland - SE Lafaye,so2,ppm,US,Portland-Vancouver-Beaverton,00:00.0,45.496641,-122.602877,0.000244444
+Portsmouth,so2,ppm,US,Boston-Cambridge-Quincy,00:00.0,43.075371,-70.748017,0.001608696
+Pryor,so2,ppm,US,MAYES,00:00.0,36.229087,-95.268905,0
+RHINELANDER,so2,ppm,US,ONEIDA,00:00.0,45.6453,-89.4125,6.82E-05
+RIT,so2,ppm,US,PHILADELPHIA,00:00.0,39.922516,-75.186783,0.00127907
+RIVER_Terrace,so2,ppm,US,Washington-Arlington-Alexandria,00:00.0,38.895683,-76.958089,0.001217391
+RUTLAND,so2,ppm,US,Rutland,00:00.0,43.608528,-72.98246,0.000272727
+Reno3,so2,ppm,US,Reno-Sparks,00:00.0,39.52507,-119.807744,4.35E-05
+Richmond - 7th St,so2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.9478,-122.3636,0.001047619
+Rider Trail I-70,so2,ppm,US,ST. LOUIS,00:00.0,38.75264,-90.44884,0.001590909
+Riverside - Rubidoux,so2,ppm,US,Riverside-San Bernardino-Ontario,00:00.0,33.999449,-117.415831,0.000148936
+Riviera Beach,so2,ppm,US,Baltimore-Towson,00:00.0,39.158883,-76.511367,0.000371429
+Rockingham,so2,ppm,US,Harrisonburg,00:00.0,38.4772,-78.816704,0.001043478
+Rome-Kraftsman,so2,ppm,US,Rome,00:00.0,34.243645,-85.325948,0.0008
+Rose Park,so2,ppm,US,Salt Lake City,00:00.0,40.7955,-111.9309,0.000933333
+Rte 9 Del. City,so2,ppm,US,NEW CASTLE,00:00.0,39.595001,-75.611,0.000413043
+SHIRLEY PLANTATION,so2,ppm,US,Richmond,00:00.0,37.3419,-77.260803,0.001108696
+SPRINGFIELDSP,so2,ppm,US,HAMPDEN,00:00.0,42.120248,-72.58499,0.000608696
+STILWELL CASTNET & N,so2,ppm,US,ADAIR,00:00.0,35.750599,-94.669701,0.000318182
+San Pablo - Rumrill,so2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.9604,-122.3571,0.00097619
+Savannah East Presid,so2,ppm,US,Savannah,00:00.0,32.0683,-81.0489,0.001
+Savannah L&A,so2,ppm,US,Savannah,00:00.0,32.0903,-81.1306,0.005622222
+Seattle-Beacon Hill,so2,ppm,US,Seattle-Tacoma-Bellevue,00:00.0,47.568236,-122.308628,0.000536585
+Semora DRR,so2,ppm,US,PERSON,00:00.0,36.489943,-79.058523,0.000318182
+Shadyside PSD,so2,ppm,US,BELMONT,00:00.0,39.9679,-80.7464,0
+Sheldon Station,so2,ppm,US,LANCASTER,00:00.0,40.55476,-96.78035,0.000208333
+Sikes Elementary Sch,so2,ppm,US,Lakeland,00:00.0,27.94,-82.0003,0.0003125
+Sinclair In-Town,so2,ppm,US,CARBON,00:00.0,41.78237,-107.12083,0.000268293
+Skyland DRR,so2,ppm,US,Asheville,00:00.0,35.481861,-82.509861,0.000409091
+Skyland Drive,so2,ppm,US,Kingsport-Bristol-Bristol,00:00.0,36.52102,-82.516306,0.0025
+South DeKalb,so2,ppm,US,Atlanta-Sandy Springs-Marietta,00:00.0,33.6906,-84.2731,0
+Southport DRR,so2,ppm,US,BRUNSWICK,00:00.0,33.942222,-78.019167,0
+St Regis Mohawk-NY,so2,ppm,US,Malone,00:00.0,44.980598,-74.695297,0
+St Theodosius,so2,ppm,US,Cleveland-Elyria-Mentor,00:00.0,41.477011,-81.682383,4.44E-05
+St. Lukes Meridian,so2,ppm,US,Boise City-Nampa,00:00.0,43.600699,-116.347853,0.000315789
+Steubenville,so2,ppm,US,Weirton-Steubenville,00:00.0,40.366452,-80.615691,0.002704545
+TAIT CUMMINS,so2,ppm,US,Cedar Rapids,00:00.0,41.948669,-91.639543,0.0005
+TRINITY ST MARKS,so2,ppm,US,Detroit-Warren-Livonia,00:00.0,42.295824,-83.129431,0.000630435
+Taft,so2,ppm,US,Cincinnati-Middletown,00:00.0,39.12886,-84.50404,0.000521739
+Terre Haute-Lafayett,so2,ppm,US,Terre Haute,00:00.0,39.4861,-87.4014,0.001065217
+Troost,so2,ppm,US,Kansas City,00:00.0,39.10465,-94.57055,0.002522727
+Tulsa,so2,ppm,US,Tulsa,00:00.0,36.206699,-95.976402,0.0006
+Tulsa 0175,so2,ppm,US,TULSA,00:00.0,36.149876,-96.011665,0
+Tulsa 0179,so2,ppm,US,Tulsa,00:00.0,36.15483,-96.015845,0
+Tulsa 0235,so2,ppm,US,TULSA,00:00.0,36.126945,-95.99894,0.0027
+Underhill,so2,ppm,US,Burlington-South Burlington,00:00.0,44.528389,-72.868973,0
+United Ave,so2,ppm,US,Atlanta-Sandy Springs-Marietta,00:00.0,33.7206,-84.3578,2.22E-05
+Vallejo,so2,ppm,US,Vallejo-Fairfield,00:00.0,38.102507,-122.237976,0.000275
+WARE,so2,ppm,US,Springfield,00:00.0,42.298302,-72.334396,0
+WATSON,so2,ppm,US,Louisville,00:00.0,38.0608,-85.8961,0.00125
+WEST OLIVE,so2,ppm,US,OTTAWA,00:00.0,42.923603,-86.196519,0.001
+WY/KC,so2,ppm,US,Kansas City,00:00.0,39.1175,-94.6356,0.001869565
+Welby - 78th Ave. &,so2,ppm,US,Denver-Aurora,00:00.0,39.8392,-104.9489,0.001604651
+West Union,so2,ppm,US,ADAMS,00:00.0,38.79471,-83.533988,0.000204545
+Winter Park,so2,ppm,US,Orlando-Kissimmee,00:00.0,28.5997,-81.3628,0.001
+Worcester,so2,ppm,US,Worcester,00:00.0,42.263901,-71.794701,0.000434783
+Yankee Road,so2,ppm,US,BUTLER,00:00.0,39.472436,-84.394952,0.002326087
+York Landfill,so2,ppm,US,YORK,00:00.0,34.977,-81.207,0.000552632
+Youngstown - Oakhill,so2,ppm,US,Youngstown-Warren-Boardman,00:00.0,41.096158,-80.658908,0.000609756

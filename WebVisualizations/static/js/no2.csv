@@ -1,0 +1,254 @@
+location,parameter,unit,country,city,date.utc,coordinates_latitude,coordinates_longitude,avgvalue
+60 Near Road,no2,ppm,US,SAN BERNARDINO,00:00.0,34.0309,-117.617403,0.035690476
+710 Near Road,no2,ppm,US,LOS ANGELES,00:00.0,33.859662,-118.200707,0.033214286
+AURORA HILLS,no2,ppm,US,Washington-Arlington-Alexandria,00:00.0,38.859402,-77.058899,0.02302381
+Anaheim,no2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,33.830586,-117.938509,0.020738095
+Anaheim Near Road,no2,ppm,US,ORANGE,00:00.0,33.819305,-117.918759,0.022756098
+Arden Arcade - Del P,no2,ppm,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.613804,-121.368007,0.009209302
+Atascadero2,no2,ppm,US,San Luis Obispo-Paso Robles,00:00.0,35.494556,-120.666203,0.004452381
+Azalea,no2,ppm,US,Tampa-St. Petersburg-Clearwater,00:00.0,27.7858,-82.74,0.00259375
+Azusa,no2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.136474,-117.923963,0.025833333
+BLAIR STREET,no2,ppm,US,St. Louis,00:00.0,38.656449,-90.198548,0.02355
+BOSTON-KENMORE,no2,ppm,US,Boston-Cambridge-Quincy,00:00.0,42.3489,-71.097702,0.01855
+Bakersfield - Califo,no2,ppm,US,Bakersfield,00:00.0,35.356615,-119.062613,0.01325
+Bakersfield-Muni,no2,ppm,US,Bakersfield,00:00.0,35.3313,-119,0.016789474
+Baltimore County Nea,no2,ppm,US,BALTIMORE,00:00.0,39.371679,-76.746814,0.02415
+Banning - South Hath,no2,ppm,US,Riverside-San Bernardino-Ontario,00:00.0,33.920758,-116.858419,0.016738095
+Bayonne,no2,ppm,US,New York-Northern New Jersey-Long Island,00:00.0,40.67025,-74.126083,0.021333333
+Bercut Dr,no2,ppm,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.593328,-121.503728,0.015906977
+Berkeley Aquatic Par,no2,ppm,US,ALAMEDA,00:00.0,37.864767,-122.302741,0.014921053
+Bethel Island,no2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,38.006311,-121.641918,0.005605263
+Big Piney,no2,ppm,US,SUBLETTE,00:00.0,42.486668,-110.099167,0.001255814
+Blaine,no2,ppm,US,Minneapolis-St. Paul-Bloomington,00:00.0,45.1425,-93.2139,0.009744186
+Bloomfield,no2,ppm,US,Farmington,00:00.0,36.7422,-107.9769,0.020272727
+Blue Ridge I-70,no2,ppm,US,Kansas City,00:00.0,39.047911,-94.450513,0.022925
+Boston - Roxbury,no2,ppm,US,Boston-Cambridge-Quincy,00:00.0,42.329399,-71.082497,0.016435897
+Boston-Von Hillern,no2,ppm,US,SUFFOLK,00:00.0,42.325197,-71.056056,0.021
+Boulder,no2,ppm,US,SUBLETTE,00:00.0,42.7186,-109.7531,0.001121951
+Buckeye,no2,ppm,US,Phoenix-Mesa-Scottsdale,00:00.0,33.37,-112.6207,0.017302326
+Burdens Creek,no2,ppm,US,Durham,00:00.0,35.889402,-78.8747,0.007146341
+Burlington,no2,ppm,US,Burlington-South Burlington,00:00.0,44.476101,-73.210297,0.006512195
+CHICOPEE,no2,ppm,US,Springfield,00:00.0,42.194401,-72.555603,0.010027027
+Calexico - Ethel Str,no2,ppm,US,El Centro,00:00.0,32.67618,-115.48307,0.022117647
+Camden Spruce St,no2,ppm,US,Philadelphia-Camden-Wilmington,00:00.0,39.934446,-75.125291,0.019904762
+Cannons Lane,no2,ppm,US,Louisville,00:00.0,38.2286,-85.6544,0.014756098
+Cape Romain,no2,ppm,US,Charleston-North Charleston,00:00.0,32.941002,-79.656998,0.003
+Carlsbad,no2,ppm,US,Carlsbad-Artesia,00:00.0,32.38,-104.2622,0.010105263
+Casino Center,no2,ppm,US,CLARK,00:00.0,36.174365,-115.13977,0.034060606
+Casper Gaseous,no2,ppm,US,Casper,00:00.0,42.82231,-106.36501,0.002136364
+Cedar Bluff,no2,ppm,US,TREGO,00:00.0,38.7703,-99.7636,0.001325581
+Central Phoenix,no2,ppm,US,Phoenix-Mesa-Scottsdale,00:00.0,33.4579,-112.046,0.03355814
+Chaco Culture Nation,no2,ppm,US,SAN JUAN,00:00.0,36.035,-107.904167,0.000804878
+Chanute,no2,ppm,US,NEOSHO,00:00.0,37.67696,-95.47594,0.005880952
+ChelmsfordNR,no2,ppm,US,MIDDLESEX,00:00.0,42.612113,-71.307519,0.014358974
+Chester,no2,ppm,US,New York-Northern New Jersey-Long Island,00:00.0,40.787628,-74.6763,0.004761905
+Chico -  East,no2,ppm,US,BUTTE,00:00.0,39.76168,-121.84047,0.00825
+Cincinnati Near Road,no2,ppm,US,Cincinnati-Middletown,00:00.0,39.146025,-84.538375,0.025069767
+Clovis - N. Villa Av,no2,ppm,US,Fresno,00:00.0,36.819199,-119.7164,0.013894737
+Columbia,no2,ppm,US,WARREN,00:00.0,40.924606,-75.067825,0.014285714
+Columbus - Fairgroun,no2,ppm,US,Columbus,00:00.0,40.002734,-82.994404,0.0145
+Columbus NR - Smoky,no2,ppm,US,Columbus,00:00.0,40.11109,-83.065376,0.012675
+Compton,no2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,33.9014,-118.205,0.020285714
+Concord,no2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.9383,-122.025,0.008684211
+Converse County Long,no2,ppm,US,CONVERSE,00:00.0,43.1,-105.5,0.001272727
+Copper View,no2,ppm,US,Salt Lake City,00:00.0,40.598056,-111.894167,0.036439024
+DANIA_BEACH,no2,ppm,US,Miami-Fort Lauderdale-Miami Beach,00:00.0,26.0864,-80.1114,0.013744186
+DCNearRoad,no2,ppm,US,Washington-Arlington-Alexandria,00:00.0,38.894749,-76.953427,0.022487805
+DET POLICE 4TH,no2,ppm,US,Detroit-Warren-Livonia,00:00.0,42.312158,-83.091943,0.022232558
+DETROIT - E 7 MILE,no2,ppm,US,Detroit-Warren-Livonia,00:00.0,42.430801,-83.000801,0.017540541
+DETROIT - SOUTHWEST,no2,ppm,US,Detroit-Warren-Livonia,00:00.0,42.3042,-83.1072,0.023837209
+Daniel South,no2,ppm,US,SUBLETTE,00:00.0,42.7914,-110.0547,0.000363636
+Davis - UCD Campus,no2,ppm,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.53455,-121.7734,0.00495
+Del Norte,no2,ppm,US,Albuquerque,00:00.0,35.1353,-106.584702,0.026767442
+Denver - CAMP - 2105,no2,ppm,US,Denver-Aurora,00:00.0,39.751099,-104.987198,0.032282051
+Desert View,no2,ppm,US,Las Cruces,00:00.0,31.7961,-106.5839,0.028078947
+Diablo,no2,ppm,US,Phoenix-Mesa-Scottsdale,00:00.0,33.3961,-111.968,0.034813953
+Downtown Sacramento,no2,ppm,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.56844,-121.49311,0.016225
+E Providence,no2,ppm,US,Providence-New Bedford-Fall River,00:00.0,41.840302,-71.361702,0.004285714
+E. Milton - Blue Hil,no2,ppm,US,Boston-Cambridge-Quincy,00:00.0,42.2117,-71.114403,0.005923077
+EAST VINTON ELEMENTA,no2,ppm,US,Roanoke,00:00.0,37.285599,-79.884201,0.013309524
+East Hartford,no2,ppm,US,Hartford-West Hartford-East Hartford,00:00.0,41.7847,-72.6297,0.0131
+Edison,no2,ppm,US,Bakersfield,00:00.0,35.345607,-118.851825,0.012736842
+Eliza Howell- Roadwa,no2,ppm,US,WAYNE,00:00.0,42.38599,-83.266319,0.01644186
+Elizabeth Trailer,no2,ppm,US,New York-Northern New Jersey-Long Island,00:00.0,40.641441,-74.208366,0.023928571
+Elk Grove,no2,ppm,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.302591,-121.420838,0.005418605
+Enoch,no2,ppm,US,IRON,00:00.0,37.747445,-113.055524,0.013238095
+Erda,no2,ppm,US,TOOELE,00:00.0,40.600556,-112.355,0.01002381
+Essex,no2,ppm,US,Baltimore-Towson,00:00.0,39.310833,-76.474444,0.021775
+Evansville-Buena Vis,no2,ppm,US,Evansville,00:00.0,38.0133,-87.5772,0.010744186
+Fontana - Arrow High,no2,ppm,US,Riverside-San Bernardino-Ontario,00:00.0,34.100132,-117.491982,0.04004878
+Forest Park,no2,ppm,US,St. Louis,00:00.0,38.631057,-90.281144,0.0252
+Fort Lee Near Road,no2,ppm,US,New York-Northern New Jersey-Long Island,00:00.0,40.85355,-73.9661,0.02152381
+Fresno - Drummond St,no2,ppm,US,Fresno,00:00.0,36.7056,-119.7414,0.017025641
+Fresno - Garland,no2,ppm,US,FRESNO,00:00.0,36.78538,-119.77321,0.0111
+G.T.Craig,no2,ppm,US,Cleveland-Elyria-Mentor,00:00.0,41.492191,-81.678552,0.0115
+Gardiner,no2,ppm,US,Augusta-Waterville,00:00.0,44.230621,-69.785004,0.005512195
+Gary-IITRI,no2,ppm,US,Chicago-Naperville-Joliet,00:00.0,41.6067,-87.3047,0.023341463
+Glendora - Laurel,no2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.1439,-117.8508,0.014567568
+Globeville,no2,ppm,US,DENVER,00:00.0,39.785622,-104.988469,0.040540541
+Greenville-ESC,no2,ppm,US,Greenville,00:00.0,34.843899,-82.414597,0.009171429
+HAMPTON,no2,ppm,US,Virginia Beach-Norfolk-Newport News,00:00.0,37.103683,-76.386948,0.003452381
+HATTIEAVEN,no2,ppm,US,Winston-Salem,00:00.0,36.1106,-80.2267,0.009285714
+HU-Beltsville,no2,ppm,US,Washington-Arlington-Alexandria,00:00.0,39.055302,-76.878304,0.016815789
+Harrisville,no2,ppm,US,Ogden-Clearfield,00:00.0,41.302799,-111.988297,0.025878049
+Hartford-Huntley,no2,ppm,US,Hartford-West Hartford-East Hartford,00:00.0,41.771444,-72.679923,0.019075
+Hawthorne,no2,ppm,US,Salt Lake City,00:00.0,40.733501,-111.871696,0.03597561
+Herriman #3,no2,ppm,US,Salt Lake City,00:00.0,40.496408,-112.036305,0.008833333
+Hobbs Jefferson,no2,ppm,US,Hobbs,00:00.0,32.7267,-103.1233,0.011675
+Howard County Near R,no2,ppm,US,HOWARD,00:00.0,39.143197,-76.846192,0.019512821
+Hurricane,no2,ppm,US,WASHINGTON,00:00.0,37.179,-113.3052,0.006261905
+I25 Denver,no2,ppm,US,Denver-Aurora,00:00.0,39.732144,-105.015313,0.035029412
+JAMES S. LONG PARK,no2,ppm,US,Washington-Arlington-Alexandria,00:00.0,38.855301,-77.635597,0.008725
+Jenkins Avenue,no2,ppm,US,Charleston-North Charleston,00:00.0,32.88229,-79.977539,0.0056
+Jerome Mack,no2,ppm,US,Las Vegas-Paradise,00:00.0,36.141875,-115.078742,0.033515152
+Jersey City,no2,ppm,US,New York-Northern New Jersey-Long Island,00:00.0,40.731689,-74.066566,0.026666667
+Joe Neal,no2,ppm,US,Las Vegas-Paradise,00:00.0,36.270592,-115.238282,0.018424242
+Johnson County,no2,ppm,US,JOHNSON,00:00.0,43.87483,-106.50974,0.000627907
+Juel Spring,no2,ppm,US,SUBLETTE,00:00.0,42.373001,-109.563004,0.002186047
+Kapolei,no2,ppm,US,Honolulu,00:00.0,21.323601,-158.088593,0.006666667
+Kooker Park,no2,ppm,US,DUVAL,00:00.0,30.356111,-81.635556,0.00447619
+LANSING FILLEY ST,no2,ppm,US,Lansing-East Lansing,00:00.0,42.76138,-84.562867,0.00815
+LAX-Hastings,no2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,33.95507,-118.43046,0.015380952
+LYNN,no2,ppm,US,Boston-Cambridge-Quincy,00:00.0,42.474701,-70.971901,0.011365854
+La Casa NCORE - 4545,no2,ppm,US,Denver-Aurora,00:00.0,39.7794,-105.00523,0.031552632
+La Habra,no2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,33.925062,-117.952586,0.015404762
+Lab Annex,no2,ppm,US,MIAMI - DADE,00:00.0,25.798333,-80.210278,0.011190476
+Lake Elsinore - W. F,no2,ppm,US,Riverside-San Bernardino-Ontario,00:00.0,33.676535,-117.331027,0.019238095
+Lake Ilo,no2,ppm,US,DUNN,00:00.0,47.342589,-102.645997,0.001595238
+Lake Sugema,no2,ppm,US,VAN BUREN,00:00.0,40.693298,-92.006104,0.003741935
+Lakeville - Near Roa,no2,ppm,US,DAKOTA,00:00.0,44.706123,-93.285803,0.008651163
+Laney College,no2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.793624,-122.263376,0.018351351
+Laramie County Mobil,no2,ppm,US,Cheyenne,00:00.0,41.08536,-104.52277,0.004674419
+Lindon,no2,ppm,US,Provo-Orem,00:00.0,40.3414,-111.7136,0.0208
+Livermore - Rincon,no2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.687526,-121.784217,0.008605263
+Long Beach - Hudson,no2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,33.802417,-118.219933,0.02235
+Los Angeles - N. Mai,no2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.066429,-118.226755,0.023945946
+MA,no2,ppm,US,Salt Lake City,00:00.0,40.712064,-112.111122,0.019238095
+MATH & SCIENCE CTR,no2,ppm,US,Richmond,00:00.0,37.55652,-77.40027,0.00747619
+MICMAC,no2,ppm,US,AROOSTOOK,00:00.0,46.6964,-68.033096,0.002186047
+MILITARY PARK,no2,ppm,US,WAYNE,00:00.0,42.312078,-83.103469,0.020860465
+MILWAUKEE COLLEGE AV,no2,ppm,US,MILWAUKEE,00:00.0,42.93257,-87.93434,0.014410256
+MILWAUKEE SER DNR,no2,ppm,US,Milwaukee-Waukesha-West Allis,00:00.0,43.0611,-87.9125,0.012027027
+MON,no2,ppm,US,PHILADELPHIA,00:00.0,39.988842,-75.207205,0.019261905
+MTSP,no2,ppm,US,MONROE,00:00.0,39.4751,-91.78899,0.003
+MUNRO STREET,no2,ppm,US,HILLSBOROUGH,00:00.0,27.955133,-82.469532,0.009439024
+McMillan NCORE,no2,ppm,US,WASHINGTON,00:00.0,38.921848,-77.013176,0.023302326
+Merced - S. Coffee A,no2,ppm,US,Merced,00:00.0,37.2817,-120.433601,0.009666667
+Millbrook NCore,no2,ppm,US,Raleigh-Cary,00:00.0,35.856111,-78.574167,0.004425
+Millville,no2,ppm,US,Vineland-Millville-Bridgeton,00:00.0,39.422272,-75.0252,0.01397619
+Minneapolis-Near Roa,no2,ppm,US,Minneapolis-St. Paul-Bloomington,00:00.0,44.9653,-93.2551,0.01627907
+Mira Loma - Van Bure,no2,ppm,US,Riverside-San Bernardino-Ontario,00:00.0,33.996387,-117.4925,0.0195
+Moxa Arch,no2,ppm,US,SWEETWATER,00:00.0,41.750599,-109.789703,0.00325
+Murphy Ridge,no2,ppm,US,Evanston,00:00.0,41.3694,-111.0419,0.002023256
+Myton,no2,ppm,US,DUCHESNE,00:00.0,40.2169,-110.182297,0.005828571
+NORFOLK - NOAA,no2,ppm,US,Virginia Beach-Norfolk-Newport News,00:00.0,36.85555,-76.30135,0.010095238
+NR,no2,ppm,US,Salt Lake City,00:00.0,40.662841,-111.901796,0.036595238
+NR-285,no2,ppm,US,Atlanta-Sandy Springs-Marietta,00:00.0,33.698611,-84.272608,0.022121951
+NR-Georgia Tech,no2,ppm,US,Atlanta-Sandy Springs-Marietta,00:00.0,33.778315,-84.391418,0.018926829
+Napa - Napa Valley C,no2,ppm,US,Napa,00:00.0,38.278849,-122.275024,0.005947368
+Navajo Lake,no2,ppm,US,Farmington,00:00.0,36.8097,-107.6517,0.007153846
+Near Road,no2,ppm,US,BROWARD,00:00.0,26.131256,-80.167847,0.01709901
+Near Road OKC,no2,ppm,US,Oklahoma City,00:00.0,35.502968,-97.577674,0.025125
+New Haven - Criscuol,no2,ppm,US,New Haven-Milford,00:00.0,41.301288,-72.902685,0.020325
+Newark Firehouse,no2,ppm,US,New York-Northern New Jersey-Long Island,00:00.0,40.720989,-74.192894,0.024904762
+Nipomo RP,no2,ppm,US,San Luis Obispo-Paso Robles,00:00.0,35.0315,-120.50101,0.001428571
+North OKC,no2,ppm,US,Oklahoma City,00:00.0,35.612801,-97.472198,0.020470588
+Northampton,no2,ppm,US,NORTHAMPTON,00:00.0,36.511708,-77.655389,0.002625
+Oakland,no2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.743061,-122.169907,0.010947368
+Oakland West,no2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.8148,-122.282402,0.015026316
+Oldtown,no2,ppm,US,Baltimore-Towson,00:00.0,39.2981,-76.604698,0.02896875
+Ontario Near Road,no2,ppm,US,SAN BERNARDINO,00:00.0,34.068114,-117.525796,0.03902381
+Ouray,no2,ppm,US,UINTAH,00:00.0,40.054848,-109.68737,0.006083333
+P2,no2,ppm,US,CARBON,00:00.0,39.595798,-110.769997,0.001918919
+PASCAGOULA,no2,ppm,US,Pascagoula,00:00.0,30.377501,-88.533897,0.003297297
+PECK,no2,ppm,US,Wichita,00:00.0,37.4769,-97.3664,0.005674419
+Palm Springs - Fire,no2,ppm,US,Riverside-San Bernardino-Ontario,00:00.0,33.852605,-116.540965,0.012738095
+Paonia,no2,ppm,US,DELTA,00:00.0,38.8763,-107.6022,0.002697674
+Parlier,no2,ppm,US,Fresno,00:00.0,36.5975,-119.5036,0.011571429
+Pasadena,no2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.13263,-118.127142,0.02
+Pepsi Place,no2,ppm,US,Jacksonville,00:00.0,30.262808,-81.606834,0.009666667
+Perimeter,no2,ppm,US,MIAMI - DADE,00:00.0,25.785472,-80.284206,0.0155
+Phoenix JLG Supersit,no2,ppm,US,Phoenix-Mesa-Scottsdale,00:00.0,33.503601,-112.095001,0.026813953
+Pico Rivera,no2,ppm,US,LOS ANGELES,00:00.0,34.010283,-118.068484,0.023666667
+Pinedale Gaseous,no2,ppm,US,SUBLETTE,00:00.0,42.8698,-109.8708,0.001954545
+Piney Run,no2,ppm,US,GARRETT,00:00.0,39.705799,-79.011902,0.004225
+Pleasanton - Owens C,no2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.701222,-121.903019,0.015263158
+Pomona,no2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.0667,-117.7506,0.029190476
+Portland - Deering O,no2,ppm,US,Portland-South Portland-Biddeford,00:00.0,43.660248,-70.268967,0.009307692
+Portland - SE Lafaye,no2,ppm,US,Portland-Vancouver-Beaverton,00:00.0,45.496641,-122.602877,0.010166667
+Portland Near Road,no2,ppm,US,Portland-Vancouver-Beaverton,00:00.0,45.39916,-122.7455,0.011116279
+RIVER_Terrace,no2,ppm,US,Washington-Arlington-Alexandria,00:00.0,38.895683,-76.958089,0.027581395
+RT,no2,ppm,US,CLARK,00:00.0,36.139707,-115.175654,0.040575758
+RUTLAND,no2,ppm,US,Rutland,00:00.0,43.608528,-72.98246,0.0078
+"Rangely, CO",no2,ppm,US,RIO BLANCO,00:00.0,40.086941,-108.761002,0.0045
+Redwash,no2,ppm,US,UINTAH,00:00.0,40.204433,-109.35321,0.0042
+Redwood City,no2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.4828,-122.2022,0.007684211
+Reno3,no2,ppm,US,Reno-Sparks,00:00.0,39.52507,-119.807744,0.018707317
+Reseda,no2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.1992,-118.5331,0.015904762
+Rider Trail I-70,no2,ppm,US,ST. LOUIS,00:00.0,38.75264,-90.44884,0.019075
+Riverside - Rubidoux,no2,ppm,US,Riverside-San Bernardino-Ontario,00:00.0,33.999449,-117.415831,0.023833333
+Rockingham,no2,ppm,US,Harrisonburg,00:00.0,38.4772,-78.816704,0.019619048
+Roosvelt,no2,ppm,US,DUCHESNE,00:00.0,40.2943,-110.009,0.0082
+Rose Park,no2,ppm,US,Salt Lake City,00:00.0,40.7955,-111.9309,0.035714286
+Rosenstiel,no2,ppm,US,Miami-Fort Lauderdale-Miami Beach,00:00.0,25.7325,-80.162201,0.002571429
+Roseville - N.Sunris,no2,ppm,US,Sacramento--Arden-Arcade--Roseville,00:00.0,38.74643,-121.26498,0.010075
+Rutgers University,no2,ppm,US,New York-Northern New Jersey-Long Island,00:00.0,40.462181,-74.429436,0.014175
+SHIRLEY PLANTATION,no2,ppm,US,Richmond,00:00.0,37.3419,-77.260803,0.004190476
+SPRINGFIELDSP,no2,ppm,US,HAMPDEN,00:00.0,42.120248,-72.58499,0.015717949
+San Bernadino - 4th,no2,ppm,US,Riverside-San Bernardino-Ontario,00:00.0,34.106678,-117.274063,0.030071429
+San Francisco,no2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.7658,-122.3978,0.011026316
+San Jose - Jackson S,no2,ppm,US,San Jose-Sunnyvale-Santa Clara,00:00.0,37.3483,-121.8947,0.007621622
+San Jose - Knox Ave,no2,ppm,US,San Jose-Sunnyvale-Santa Clara,00:00.0,37.338202,-121.849892,0.013558824
+San Pablo - Rumrill,no2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.9604,-122.3571,0.010894737
+San Rafael,no2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.9722,-122.5189,0.009921053
+San Ramon,no2,ppm,US,San Francisco-Oakland-Fremont,00:00.0,37.743649,-121.934188,0.007289474
+Sandhill,no2,ppm,US,Columbia,00:00.0,34.1311,-80.868301,0.002142857
+Santa Clarita,no2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.3833,-118.5283,0.0195
+Santa Maria - Broadw,no2,ppm,US,Santa Barbara-Santa Maria,00:00.0,34.942872,-120.435611,0.005925
+Santa Teresa,no2,ppm,US,Las Cruces,00:00.0,31.7878,-106.6828,0.018806452
+Sawgrass Lake Park,no2,ppm,US,PINELLAS,00:00.0,27.834409,-82.665251,0.004612903
+Seattle-10th & Welle,no2,ppm,US,Seattle-Tacoma-Bellevue,00:00.0,47.597222,-122.319722,0.018923077
+Seattle-Beacon Hill,no2,ppm,US,Seattle-Tacoma-Bellevue,00:00.0,47.568236,-122.308628,0.011780488
+Sebastopol,no2,ppm,US,Santa Rosa-Petaluma,00:00.0,38.403765,-122.818294,0.005947368
+Shadyside PSD,no2,ppm,US,BELMONT,00:00.0,39.9679,-80.7464,0.009780488
+Shafter - Walker Str,no2,ppm,US,Bakersfield,00:00.0,35.50349,-119.27264,0.0124
+Smithfield,no2,ppm,US,CACHE,00:00.0,41.842778,-111.85194,0.011125
+South DeKalb,no2,ppm,US,Atlanta-Sandy Springs-Marietta,00:00.0,33.6906,-84.2731,0.014731707
+South Pass,no2,ppm,US,Riverton,00:00.0,42.5275,-108.7203,0.0005
+Spanish Fork,no2,ppm,US,Provo-Orem,00:00.0,40.136398,-111.660202,0.015292683
+St Regis Mohawk-NY,no2,ppm,US,Malone,00:00.0,44.980598,-74.695297,4.88E-05
+St. Lukes Meridian,no2,ppm,US,Boise City-Nampa,00:00.0,43.600699,-116.347853,0.020860465
+Stockton - Hazelton,no2,ppm,US,Stockton,00:00.0,37.95075,-121.26897,0.016552632
+Substation,no2,ppm,US,Farmington,00:00.0,36.7969,-108.4725,0.009125
+Sunrise Acres,no2,ppm,US,Las Vegas-Paradise,00:00.0,36.163962,-115.11393,0.034333333
+TOR,no2,ppm,US,PHILADELPHIA,00:00.0,40.054171,-74.985166,0.026285714
+TRINITY ST MARKS,no2,ppm,US,Detroit-Warren-Livonia,00:00.0,42.295824,-83.129431,0.020487805
+Tacoma-S 36th St,no2,ppm,US,Seattle-Tacoma-Bellevue,00:00.0,47.22634,-122.46256,0.014657143
+Taft,no2,ppm,US,Cincinnati-Middletown,00:00.0,39.12886,-84.50404,0.014744186
+TakomaRec,no2,ppm,US,WASHINGTON,00:00.0,38.970101,-77.016715,0.016083333
+Thirty Third,no2,ppm,US,Phoenix-Mesa-Scottsdale,00:00.0,33.461807,-112.128044,0.04102439
+Thunder Basin,no2,ppm,US,Gillette,00:00.0,44.6633,-105.287498,0.002268293
+TracyAP,no2,ppm,US,Stockton,00:00.0,37.6825,-121.4406,0.008857143
+Triple Oak - Near Ro,no2,ppm,US,Raleigh-Cary,00:00.0,35.8652,-78.8197,0.00565
+Troost,no2,ppm,US,Kansas City,00:00.0,39.10465,-94.57055,0.027875
+Tulsa,no2,ppm,US,Tulsa,00:00.0,36.206699,-95.976402,0.018117647
+Turlock - S. Minaret,no2,ppm,US,Modesto,00:00.0,37.4883,-120.8358,0.011410256
+Upland,no2,ppm,US,Riverside-San Bernardino-Ontario,00:00.0,34.10366,-117.629096,0.02902381
+Ute 1,no2,ppm,US,Durango,00:00.0,37.13678,-107.62863,0.008255814
+Ute 3,no2,ppm,US,Durango,00:00.0,37.10258,-107.870219,0.009232558
+Vallejo,no2,ppm,US,Vallejo-Fairfield,00:00.0,38.102507,-122.237976,0.006394737
+Vernal #4,no2,ppm,US,UINTAH,00:00.0,40.464722,-109.56083,0.005
+Visalia - N. Church,no2,ppm,US,Visalia-Porterville,00:00.0,36.33252,-119.29095,0.01625
+WARE,no2,ppm,US,Springfield,00:00.0,42.298302,-72.334396,0.005487179
+WHlthDpt,no2,ppm,US,Wichita,00:00.0,37.7011,-97.3139,0.015186047
+WY/KC,no2,ppm,US,Kansas City,00:00.0,39.1175,-94.6356,0.022813953
+Wamsutter,no2,ppm,US,Rock Springs,00:00.0,41.6778,-108.0242,0.003170732
+Welby - 78th Ave. &,no2,ppm,US,Denver-Aurora,00:00.0,39.8392,-104.9489,0.032
+West Los Angeles - V,no2,ppm,US,Los Angeles-Long Beach-Santa Ana,00:00.0,34.051097,-118.456386,0.014857143
+West Phoenix,no2,ppm,US,Phoenix-Mesa-Scottsdale,00:00.0,33.483799,-112.142601,0.030617647
+Westport,no2,ppm,US,Bridgeport-Stamford-Norwalk,00:00.0,41.1189,-73.3369,0.018375
+Whiterocks,no2,ppm,US,UINTAH,00:00.0,40.483799,-109.906197,0.00159375
+Winter Park,no2,ppm,US,Orlando-Kissimmee,00:00.0,28.5997,-81.3628,0.003375
+Worcester,no2,ppm,US,Worcester,00:00.0,42.263901,-71.794701,0.019757576
+Yellowstone- Old Fai,no2,ppm,US,TETON,00:00.0,44.373056,-110.830833,0.001589744
+Yuba City,no2,ppm,US,Yuba City,00:00.0,39.13868,-121.61884,0.010575
