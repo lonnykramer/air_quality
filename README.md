@@ -1,6 +1,6 @@
 # air_quality
 
-We reviewed some of the more common airborne pollutants across the USA and built a website demonstrating concentrations of the pollutants on an interactive map of the USA.  We used Jupyter Notebook, Pandas, Flask, HTML, JavaScript, CSS, SQLite, and DS3.
+We reviewed some of the more common airborne pollutants across the USA and built a website demonstrating concentrations of the pollutants on an interactive map of the USA.  We used Jupyter Notebook, Pandas, Flask, HTML, JavaScript, CSS, SQLite, and D3.
 
 Short desciptions of the pollutants were included on the pages and included external links for the user who wants additional information.
 
